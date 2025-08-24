@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a modern bathroom featuring a walk-in shower with a glass door, a pedestal sink with a mirror above it, and a tiled wall with a mix of white and brown tiles."
+  },
+  {
+    "image_id": 1,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern living room with a minimalist design, featuring a large abstract painting on the wall, a sleek white sofa, a low coffee table, and a large window offering a scenic view of nature."
+  },
+  {
+    "image_id": 2,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern kitchen and dining area with a sliding glass door featuring a tree design, seamlessly connecting the two spaces while maintaining a clean and elegant aesthetic."
+  },
+  {
+    "image_id": 3,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern kitchen with wooden cabinets, a large refrigerator, and a dining area featuring a long wooden table surrounded by white chairs, all set against a backdrop of a snowy forest view through floor-to-ceiling windows."
+  },
+  {
+    "image_id": 4,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a cozy and stylish living room with a beige sofa, wooden shelves, potted plants, and natural light streaming through large windows, creating a warm and inviting atmosphere."
+  },
+  {
+    "image_id": 5,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern living room with a minimalist design featuring a concrete wall, a large bookshelf filled with books, a wooden coffee table, a gray sofa, and a single armchair, all arranged in a spacious and well-lit environment."
+  },
+  {
+    "image_id": 6,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a luxurious kitchen and dining area with a large wooden table set for a formal meal, surrounded by elegant chairs, and featuring a spacious island with built-in storage and a white range hood above a tiled backsplash."
+  },
+  {
+    "image_id": 7,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern and minimalist living room with a white sofa, wooden furniture, a flat-screen TV mounted on the wall, and a cozy, well-lit interior design featuring a mix of natural wood and clean lines."
+  },
+  {
+    "image_id": 8,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern, well-lit living and dining area with a herringbone wood floor, white cabinetry, and large windows offering a view of greenery outside."
+  },
+  {
+    "image_id": 9,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern kitchen with a large refrigerator filled with various food items and condiments, a dining table set for a meal, and a large window offering a scenic view of a cityscape."
+  },
+  {
+    "image_id": 10,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a cozy and modern living room with a neutral color palette, featuring a comfortable sofa, a chair, a pouf, and various decorative items that create a warm and inviting atmosphere."
+  },
+  {
+    "image_id": 11,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a serene and modern home office with a large bookshelf filled with books, a comfortable sofa, a wooden desk with a laptop, and a cherry blossom tree adding a touch of nature to the room."
+  },
+  {
+    "image_id": 12,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern, open-plan kitchen with white cabinetry, wooden flooring, and large windows that allow ample natural light to flood the space, creating a bright and airy atmosphere."
+  },
+  {
+    "image_id": 13,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern and minimalist living space with light wood flooring, a white sectional sofa, a wooden coffee table, and a dining area featuring a wooden table and chairs, all bathed in natural light from large windows."
+  },
+  {
+    "image_id": 14,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern kitchen with white cabinetry, open shelving, and a backsplash featuring a textured, weathered design, illuminated by natural light streaming through large windows."
+  },
+  {
+    "image_id": 15,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern kitchen with sleek black cabinetry and a large window offering a serene view of a forested landscape."
+  },
+  {
+    "image_id": 16,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern kitchen and dining area with a large wooden table, black chairs, and a bench, set against a backdrop of large windows offering a view of lush greenery outside."
+  },
+  {
+    "image_id": 17,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern and cozy home office or study area featuring a large wooden desk with a computer setup, a comfortable sofa, bookshelves filled with books, and a large window offering a view of lush greenery outside."
+  },
+  {
+    "image_id": 18,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern bathroom with a sleek design featuring a walk-in shower, a floating vanity, a washing machine, and a large window that allows natural light to flood the space."
+  },
+  {
+    "image_id": 19,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern kitchen with light wooden cabinets, a large island counter, and a spacious living area featuring a white sofa and large windows that offer a view of lush greenery outside."
+  },
+  {
+    "image_id": 20,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern and cozy living space featuring a dining area with a wooden table and chairs, a comfortable gray sofa adorned with cushions, a sleek coffee table, and a kitchen counter with a sink and cabinetry in the background."
+  },
+  {
+    "image_id": 21,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a cozy living room with a large bookshelf filled with books and decorative items, a comfortable beige sofa adorned with orange cushions, a small wooden coffee table, and a potted plant, all bathed in natural light streaming through a large window overlooking a cityscape."
+  },
+  {
+    "image_id": 22,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a cozy and well-lit attic space with wooden furniture, hanging plants, and a variety of decorative items creating a warm and inviting atmosphere."
+  },
+  {
+    "image_id": 23,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a well-lit and elegantly decorated living room with a dining area adjacent to it, featuring a mix of modern and traditional furnishings, floral arrangements, and a large window offering a view of greenery outside."
+  },
+  {
+    "image_id": 24,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern kitchen with white cabinetry, a double sink, and a countertop featuring various kitchen items such as pots, glasses, and decorative elements."
+  }
+]

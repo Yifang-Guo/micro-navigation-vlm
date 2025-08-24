@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with a fire extinguisher, a door, and a sign on the wall."
+  },
+  {
+    "image_id": 1,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A woman is walking down a hallway in a building, and there is a blue trash can on the floor."
+  },
+  {
+    "image_id": 2,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A doorway with a sign on it that says \"No Children\" and a sign on the wall that says \"No Children\" and a sign on the wall that says \"No Children\"."
+  },
+  {
+    "image_id": 3,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a wooden box on a heater, a person walking, and a green board on the wall."
+  },
+  {
+    "image_id": 4,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A man is kneeling on the floor in front of a yellow caution cone, working on a project in a hallway."
+  },
+  {
+    "image_id": 5,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A woman is walking down a hallway in a building with a row of blue lockers on the wall."
+  },
+  {
+    "image_id": 6,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a door and a bulletin board, and a row of benches on the right side."
+  },
+  {
+    "image_id": 7,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a large room with a doorway leading to a stairwell, and a sign above the doorway indicating the location of the theater."
+  },
+  {
+    "image_id": 8,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a row of blue benches and a row of blue chairs."
+  },
+  {
+    "image_id": 9,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a yellow door and a sign on the wall."
+  },
+  {
+    "image_id": 10,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A person is standing in a room with a yellow caution sign in front of a door."
+  },
+  {
+    "image_id": 11,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large circular room with a black and yellow bench in the center."
+  },
+  {
+    "image_id": 12,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large room with a long table and many chairs, some of which are empty."
+  },
+  {
+    "image_id": 13,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A vending machine is located in a room with a blue wall and a sign that says \"Don't bug me I haven't had my coffee yet!\""
+  },
+  {
+    "image_id": 14,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a restaurant with a large window, a door, and several tables and chairs."
+  },
+  {
+    "image_id": 15,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large room with a television, a door, and a trash can."
+  },
+  {
+    "image_id": 16,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A yellow and blue doorway leads to a room with a yellow and blue wall."
+  },
+  {
+    "image_id": 17,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a bulletin board and a bench."
+  },
+  {
+    "image_id": 18,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a doorway and a potted plant in the middle of the floor."
+  },
+  {
+    "image_id": 19,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway in a building with a green carpet and a red fire extinguisher."
+  },
+  {
+    "image_id": 20,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a red and orange fire extinguisher and a trash can."
+  },
+  {
+    "image_id": 21,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a colorful carpet and a white brick wall."
+  },
+  {
+    "image_id": 22,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A long hallway with green walls and a red carpet."
+  },
+  {
+    "image_id": 23,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with a door, a fire extinguisher, and a sign on the wall."
+  },
+  {
+    "image_id": 24,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway in a building with green carpeting and a green wall."
+  }
+]

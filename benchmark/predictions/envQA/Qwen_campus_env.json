@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway leading to an exit with a glass door, featuring a green emergency exit sign above it, and a recycling bin on the right side."
+  },
+  {
+    "image_id": 1,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a hallway with a \"Wet Floor\" caution sign, recycling bins labeled for general waste and dry recyclables, and a person walking down the corridor towards a brightly lit area with lockers on either side."
+  },
+  {
+    "image_id": 2,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a closed door with a \"No Smoking\" sign on the adjacent wall, indicating a restricted smoking area, likely within a building or facility."
+  },
+  {
+    "image_id": 3,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern hallway with lockers on the right side, informational posters on the left wall, and a person walking towards the back of the corridor."
+  },
+  {
+    "image_id": 4,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with green lockers on the left and a person kneeling near a fire extinguisher inside a building, with an exit door visible at the end of the corridor."
+  },
+  {
+    "image_id": 5,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a spacious indoor area with a row of dark blue lockers on the right side and a person walking towards a door at the far end of the hallway."
+  },
+  {
+    "image_id": 6,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern hallway with a clean and organized appearance, featuring a row of blue benches on the right side, a trash bin near the center, and a series of doors leading to various rooms or offices."
+  },
+  {
+    "image_id": 7,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern interior space with blue seating on both sides, a glass door leading to another area, and informational signs above the entrance indicating directions and safety measures."
+  },
+  {
+    "image_id": 8,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a clean and organized hallway with blue benches along the left wall, informational posters on the walls, and a yellow accent wall leading to a door at the end."
+  },
+  {
+    "image_id": 9,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern hallway with white walls, a curved section, and a black door with a yellow accent wall on the right side, featuring informational posters and emergency signage."
+  },
+  {
+    "image_id": 10,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with a closed elevator door and a staircase leading to another level, both enclosed by safety netting, indicating restricted access or maintenance."
+  },
+  {
+    "image_id": 11,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern interior space with a circular bench featuring a dark top and orange and blue accents, surrounded by yellow walls and white columns, with informational displays and a clean, polished floor."
+  },
+  {
+    "image_id": 12,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern, open-plan seating area with round tables and bar stools, situated near large windows that offer a view of the outdoors."
+  },
+  {
+    "image_id": 13,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a small break area with a wooden cabinet, a trash bin, and two refrigerators stocked with beverages, including Coca-Cola and Monster Energy drinks, against a blue wall adorned with humorous signs and symbols."
+  },
+  {
+    "image_id": 14,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern indoor space with a bar area featuring round tables and stools, large windows offering a view of trees outside, and a sliding door leading to an outdoor patio."
+  },
+  {
+    "image_id": 15,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern hallway with a clean and organized appearance, featuring a large screen on the left wall displaying content, various informational posters, a \"Disc\" sign, and a row of framed pictures or mirrors along the right wall leading to an exit."
+  },
+  {
+    "image_id": 16,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a modern interior space with yellow walls, a blue door, and a counter area equipped with electrical outlets and informational posters, suggesting it might be part of a public or educational facility."
+  },
+  {
+    "image_id": 17,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern indoor space with a clean, minimalist design featuring white walls, a tiled floor, and a curved seating area with orange and blue elements, along with several informational posters and notices displayed on the wall."
+  },
+  {
+    "image_id": 18,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a hallway leading to an exit with glass doors, featuring a wet floor sign, a bulletin board with notices, and a door marked with a \"No Smoking\" sign, all under bright lighting."
+  },
+  {
+    "image_id": 19,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a long hallway with gray doors on the left side and a wooden cabinet with a printer on the right, featuring a patterned carpet and a mix of green and gray walls."
+  },
+  {
+    "image_id": 20,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with a green and gray striped carpet, a wall-mounted first aid kit, and recycling bins labeled for general waste and dry recyclables."
+  },
+  {
+    "image_id": 21,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a long hallway with colorful striped carpeting, white brick walls adorned with informational posters, and a door at the far end leading outside."
+  },
+  {
+    "image_id": 22,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a long, narrow hallway with light green cinder block walls and a patterned carpet floor, leading to a closed door at the end."
+  },
+  {
+    "image_id": 23,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with two closed doors, a fire extinguisher mounted on the wall, and various informational posters and notices displayed on the left wall."
+  },
+  {
+    "image_id": 24,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a hallway with green walls and a patterned carpet, featuring instructional signs for fire safety, a notice board, and a door marked with a wheelchair symbol."
+  }
+]

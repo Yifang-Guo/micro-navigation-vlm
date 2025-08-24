@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts a supermarket shelf displaying various packaged food items and sauces, with promotional signage above."
+  },
+  {
+    "image_id": 1,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a person shopping in a grocery store aisle with various products and a display of packaged goods."
+  },
+  {
+    "image_id": 2,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a well-stocked supermarket produce section with a variety of fruits and vegetables neatly displayed."
+  },
+  {
+    "image_id": 3,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a well-organized supermarket produce section with a variety of fruits and vegetables, and a few people shopping."
+  },
+  {
+    "image_id": 4,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows an indoor grocery store with various displays of fresh produce and people shopping."
+  },
+  {
+    "image_id": 5,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows people shopping for a variety of baked goods in a store."
+  },
+  {
+    "image_id": 6,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A person is walking through a large grocery store aisle with refrigerated displays filled with packaged meat."
+  },
+  {
+    "image_id": 7,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a supermarket produce section with a variety of fresh fruits and vegetables displayed in a well-lit, organized manner."
+  },
+  {
+    "image_id": 8,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a well-organized supermarket with shelves stocked with beverages and packaged goods, under modern lighting."
+  },
+  {
+    "image_id": 9,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene shows a well-organized aisle in a store with various packaged snacks and drinks on display."
+  },
+  {
+    "image_id": 10,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a well-lit bakery section in a grocery store filled with various breads and pastries displayed on shelves and tables."
+  },
+  {
+    "image_id": 11,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts a vibrant supermarket produce section filled with a variety of fresh vegetables."
+  },
+  {
+    "image_id": 12,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene is set in a supermarket with various products displayed on promotions and colorful signage above."
+  },
+  {
+    "image_id": 13,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A person wearing a mask is shopping in a grocery store with a variety of refrigerated products."
+  },
+  {
+    "image_id": 14,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a supermarket shelf filled with a variety of milk and beverage cartons arranged neatly in rows."
+  },
+  {
+    "image_id": 15,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts a well-organized grocery store aisle filled with various products and a few shoppers."
+  },
+  {
+    "image_id": 16,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts a vibrant and well-stocked supermarket aisle, featuring an array of packaged goods with colorful signage and traditional decorations."
+  },
+  {
+    "image_id": 17,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts an aisle in a grocery store featuring a variety of Asian snacks and products displayed on shelves under a sign reading \"Asian Seasonal.\""
+  },
+  {
+    "image_id": 18,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A person in a mask browses a well-stocked Asian supermarket aisle filled with a variety of packaged foods and beverages."
+  },
+  {
+    "image_id": 19,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A produce section in a grocery store displays a colorful variety of fresh vegetables and packaged goods."
+  },
+  {
+    "image_id": 20,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A grocery store aisle is stocked with various beverages and products on shelves under bright lighting."
+  },
+  {
+    "image_id": 21,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene shows a well-stocked Asian grocery store aisle filled with various packaged food products."
+  },
+  {
+    "image_id": 22,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a well-lit supermarket aisle with various colorful beverages and products neatly arranged on shelves."
+  },
+  {
+    "image_id": 23,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a spacious, well-lit grocery store with various produce and products neatly displayed on shelves and stands, with a few people shopping."
+  },
+  {
+    "image_id": 24,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "This image shows a store aisle with colorful stacked stools and assorted stationery items on shelves."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "image_id": 0,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: shower faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the shower faucet is located on the left side of the shower area. To approach it, you can start by moving forward from your current position. As you move, you'll feel the floor under your feet, which will help you navigate the space. Once you reach the shower area, you'll feel the shower curtain on your left side. The faucet is located behind the curtain, so you'll need to reach out your hand and feel for the faucet. It may be slightly above or below the shower curtain, so you'll need to adjust your hand accordingly. Once you find the faucet, you can turn it on and adjust the water temperature and flow as needed."
+  },
+  {
+    "image_id": 1,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the sofa is located in the right side of the room. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll see the sofa in front of you. You can also use your sense of touch to feel the sofa's texture and confirm its presence. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 2,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the right side of the scene, near the edge of the image. To approach the faucet, you can start by moving forward and slightly to the right. As you continue moving, you'll feel the edge of the countertop, which is where the faucet is mounted. Once you reach the countertop, you can feel the faucet by placing your hand on the edge of the countertop and sliding it towards the right."
+  },
+  {
+    "image_id": 3,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fridge. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the fridge is located on the left side of the kitchen. To approach it, you can start by moving forward and slightly to the left. As you continue, you'll see the fridge in front of you. You can also use the countertops and other objects in the kitchen as tactile cues to help guide you towards the fridge."
+  },
+  {
+    "image_id": 4,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The sofa is located in the center of the image, with a window behind it. It is a large, tan couch with a blanket on it. To approach the sofa, you can start by moving forward and slightly to the right, as the couch is positioned in that direction. As you get closer, you can feel the couch's texture and the blanket's material. Once you reach the couch, you can sit or touch it to feel its size and shape."
+  },
+  {
+    "image_id": 5,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a three-seat sofa located in the middle of the room. It is surrounded by a large number of books, which are arranged on shelves and on the floor. The room also features a dining table and a potted plant. The sofa is positioned in front of a bookshelf, and there is a chair nearby."
+  },
+  {
+    "image_id": 6,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am an AI visual assistant and cannot provide tactile cues. However, I can describe the scene to you. In the image, there is a dining room with a large table surrounded by chairs. The chairs are arranged around the table, and some of them are placed closer to the table than others. The table is set with plates, bowls, and vases, creating a welcoming atmosphere for a meal. The room also features a kitchen area with an oven and a sink."
+  },
+  {
+    "image_id": 7,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The sofa is located in the living room area, which is a large open space. To your left, there is a dining table with chairs around it. In front of you, there is a coffee table with a vase on it. To your right, there is a TV mounted on the wall. The sofa is situated in the background, behind the coffee table. To reach the sofa, you can walk towards the coffee table and then move to the right, following the wall until you reach the sofa."
+  },
+  {
+    "image_id": 8,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am an AI visual assistant and do not have the ability to physically guide someone. However, I can provide you with information about the kitchen faucet. In the image, the kitchen faucet is located on the right side of the kitchen counter. It is a metal faucet with a handle and spout. The faucet is likely to be near the sink area."
+  },
+  {
+    "image_id": 9,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fridge. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the fridge, you should move forward and slightly to the left. As you walk, you will feel the floor becoming cooler under your feet. The fridge is located in the middle of the room, and you can feel the presence of the refrigerator door as you get closer. Once you reach the fridge, you can feel the handle to open the door."
+  },
+  {
+    "image_id": 10,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the three-seat sofa, you can start by moving forward and slightly to the right. As you continue, you will come across a chair on your left side. Keep moving forward and you will see the sofa in front of you. The sofa is located in the center of the room, and there is a potted plant nearby."
+  },
+  {
+    "image_id": 11,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the sofa is located on the left side of the room. To approach it, you can start by moving forward and slightly to the left. As you continue, you'll notice a coffee table in front of the sofa. The table is positioned between the sofa and the window. Once you reach the coffee table, you can either sit on the sofa or continue moving forward to explore the rest of the room."
+  },
+  {
+    "image_id": 12,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the chair is located on the left side of the dining table. To approach the chair, you can start by moving your hand towards the left side of the table. As you get closer, you can feel the edge of the table, and then continue moving your hand towards the chair until you can feel the back of the chair. Once you have a good grip on the chair, you can pull it out from the table and sit down."
+  },
+  {
+    "image_id": 13,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the sofa is located on the right side of the room. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll come across a dining table. The sofa is situated behind the table. Keep moving forward and you'll reach the sofa."
+  },
+  {
+    "image_id": 14,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The kitchen faucet is located on the right side of the image, near the sink. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll see the faucet in front of you. You can also use your sense of touch to feel the faucet as you get closer. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 15,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the kitchen faucet, you should first locate the sink area in the image. The sink is likely to be a prominent feature in the scene. Once you have found the sink, look for the faucet, which is usually located near the sink. The faucet may be a single handle or a double handle, depending on the design. To approach the faucet, you can use your sense of touch to feel the faucet's shape and location. If you are unsure about the faucet's position, you can also use your sense of smell to locate it by sniffing the area around the sink."
+  },
+  {
+    "image_id": 16,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the right side of the scene, near the edge of the counter. To approach the faucet, you can start by moving forward and slightly to the right. As you get closer, you'll feel the countertop beneath your hand. Once you've reached the faucet, you can feel the cold water flowing from it. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 17,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The sofa is located in the right side of the image. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll notice a chair in front of you. The sofa is behind the chair. Keep moving forward and you'll reach the sofa."
+  },
+  {
+    "image_id": 18,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: washing machine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the washing machine, you should first head towards the sink area. As you move forward, you will see a toilet on your left side. Keep going and you will come across a doorway. Once you enter the doorway, you will find the washing machine on your right side. It is a large appliance with a control panel on the front."
+  },
+  {
+    "image_id": 19,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the right side of the sink. To approach it, you can start by moving forward with your left foot, then use your right foot to step onto the kitchen counter. As you move forward, you'll see the sink and faucet in front of you. Once you reach the sink, you can use your hands to feel the faucet and turn it on if needed."
+  },
+  {
+    "image_id": 20,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The sofa is located in the living room, which is a large open space with a dining table and chairs. The table is positioned in the middle of the room, and the chairs are placed around it. The sofa is situated on the right side of the room, near the dining table. To approach the sofa, you can start by moving forward and slightly to the right, following the layout of the furniture. As you get closer, you'll be able to feel the sofa's shape and texture, which will help you identify it."
+  },
+  {
+    "image_id": 21,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The sofa is located in the right side of the image. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll see the sofa in front of you. You can also use your sense of touch to feel the cushions and the back of the sofa to confirm that you've reached the target object."
+  },
+  {
+    "image_id": 22,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a dining table surrounded by chairs. The chairs are arranged around the table, and there are potted plants placed on the table and around the room. The room appears to be a living area with a cozy atmosphere."
+  },
+  {
+    "image_id": 23,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the sofa is located in the living room area, which is a large, open space with a dining table and chairs. The sofa is positioned near the dining table, and there are several potted plants and vases placed around the room. To approach the sofa, you can start by moving towards the dining table, which is located on the left side of the room. As you move closer to the table, you should be able to feel the presence of the sofa. Once you reach the dining table, you can continue moving forward, and the sofa should be within your reach."
+  },
+  {
+    "image_id": 24,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. Based on the image, the kitchen faucet is located on the right side of the scene. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll feel the countertop beneath your hand. The faucet is situated near the edge of the countertop, so you'll need to reach out your hand and place it on the faucet handle. Once you have a firm grip, you can turn on the water and start washing your hands."
+  },
+  {
+    "image_id": 25,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: ottoman. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The ottoman is located in the center of the room, in front of the couch. To approach it, you can start by moving forward with your left foot, then your right foot, and finally your left foot again. As you move, you'll feel the ottoman under your feet. Once you feel the ottoman, you can sit or place your hands on it."
+  },
+  {
+    "image_id": 26,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The sofa is located in the room, and it is positioned to the left of the center of the image. To approach the sofa, you can start by moving forward and slightly to the left. As you continue, you will feel the sofa's back against your back, and you can then sit or place your hands on it."
+  },
+  {
+    "image_id": 27,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: single sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The single sofa is located in the living room area, which is a large, open space with a variety of furniture. To approach the sofa, you can start by moving forward and slightly to the right. As you continue, you'll come across a dining table with a vase on it. Keep moving forward and you'll see a chair on the right side of the room. Once you pass the chair, you'll be close to the sofa. It is a white couch situated in the middle of the room."
+  },
+  {
+    "image_id": 28,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a three-seat sofa located in the living room. The sofa is positioned in the middle of the room, with two couches facing each other. The room also features a dining table, a chair, a potted plant, and a vase. The sofa is the main target object you are looking for."
+  },
+  {
+    "image_id": 29,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am an AI visual assistant and cannot provide tactile cues. However, I can describe the scene to you. In the image, there is a desk with a chair in front of it. The chair is positioned to the left of the desk. The desk is located in the center of the room. The room also features a couch, a bookshelf, and a potted plant."
+  },
+  {
+    "image_id": 30,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a dining table with chairs around it. The chairs are blue and have a modern design. The table is surrounded by chairs, and there is a vase on the table. The room appears to be a living room or a dining area, with a couch and a potted plant nearby."
+  },
+  {
+    "image_id": 31,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the left side of the sink. To approach the faucet, you can start by moving your hand towards the sink, feeling the edge of the countertop. As you continue to move your hand, you should feel the faucet handle. Once you locate the handle, you can grasp it and turn it to open the faucet."
+  },
+  {
+    "image_id": 32,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: double sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The double sofa is located in the center of the room, surrounded by chairs and other furniture. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll come across a chair on your left side, and another chair further to the right. Keep moving forward and you'll reach the double sofa."
+  },
+  {
+    "image_id": 33,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help you. Based on the image, the desk chair is located to the right of the couch. You can feel the back of the chair by placing your hand on it and sliding it along the backrest. The chair is positioned in front of the desk, so you can also feel the front legs of the chair by placing your hand on them. The chair is made of wood and has a cushioned seat."
+  },
+  {
+    "image_id": 34,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: armchair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The armchair is located on the right side of the image, near the center. It is positioned in front of a window, and there is a potted plant nearby. To approach the armchair, you can start by moving towards the window, then follow the path of the potted plant, which is located to the right of the armchair. Once you reach the armchair, you can feel the cushions and the backrest to confirm that it is the target object."
+  },
+  {
+    "image_id": 35,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the right side of the scene, near the window. To approach the faucet, you can start by moving forward and slightly to the right. As you continue, you'll come across a sink, which is the area where the faucet is situated. Once you reach the sink, you can feel the faucet with your hands, and then you can turn on the water and adjust the flow as needed."
+  },
+  {
+    "image_id": 36,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the right side of the sink. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll come across the sink, and then you can move towards the faucet. You can also feel the faucet by placing your hand on it and feeling the shape and texture. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 37,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bar stool. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "The bar stool is located on the left side of the image. To approach it, you can feel the floor for any raised edges or obstacles, and then move your hand towards the left side of the image. As you move, you should feel the stool's backrest and the seat area. Once you have located the stool, you can sit on it comfortably."
+  },
+  {
+    "image_id": 38,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the toilet, you should first head towards the sink area. The sink is located on the right side of the bathroom. As you move towards the sink, you will notice a toilet paper roll on the left side of the sink. The toilet is situated next to the sink, so once you reach the sink area, you can move towards the toilet by following the toilet paper roll."
+  },
+  {
+    "image_id": 39,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The desk chair is located in front of the desk, which is in the center of the room. To approach the chair, you can start by moving forward and feeling the floor for any obstacles or changes in the surface. As you get closer to the chair, you can use your hands to feel the chair's shape and texture, helping you identify it. Once you've found the chair, you can sit down and enjoy the view."
+  },
+  {
+    "image_id": 40,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: piano. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am an AI visual assistant and cannot provide tactile cues. However, I can describe the scene to you. In the image, there is a piano in the living room, which is a large, black, and wooden instrument. It is located near the center of the room, surrounded by chairs and other furniture. The piano is a prominent feature in the living room, and it is likely the target object you are looking for."
+  },
+  {
+    "image_id": 41,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the toilet, you should first move forward and slightly to the right. As you continue moving forward, you will feel the toilet seat against your hand. The toilet is located in the middle of the bathroom, so keep moving in that direction until you feel the toilet seat."
+  },
+  {
+    "image_id": 42,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: double sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a large living room with a double sofa in the center. The sofa is positioned in front of a window, and there are two chairs nearby. Additionally, there is a dining table in the room. The living room is well-lit, and there is a fireplace in the background."
+  },
+  {
+    "image_id": 43,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: armchair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am an AI visual assistant and do not have the ability to physically guide you. However, I can provide you with information about the armchair's location in the image. The armchair is situated in the living room, near a window. It is positioned between two couches, and there is a vase on a table nearby. If you can provide me with more specific details about the armchair's appearance or any other landmarks in the scene, I can try to help you locate it."
+  },
+  {
+    "image_id": 44,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: washing machine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The washing machine is located in the kitchen, near the sink. It is a white appliance with a door that is currently closed. To approach the washing machine, you can start by moving forward and slightly to the right. As you continue, you will come across a sink on your left side. Keep moving forward and you will see the washing machine on your right side."
+  },
+  {
+    "image_id": 45,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the right side of the sink. To approach it, you can start by moving forward and slightly to the right. As you get closer, you'll feel the edge of the sink, which will guide you towards the faucet. Once you reach the faucet, you can feel the cold water coming out of it. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 46,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a living room with a couch and a chair. The couch is located on the right side of the room, and the chair is situated on the left side. The room also features a dining table, a vase, and a potted plant. The couch is the target object you want to approach."
+  },
+  {
+    "image_id": 47,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the toilet is located in the middle of the bathroom, with a sink on the left side and a shower on the right side. To approach the toilet, you can start by moving towards the sink, then continue to the right side of the bathroom, where the shower is located. Once you reach the shower area, you should be able to locate the toilet."
+  },
+  {
+    "image_id": 48,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The desk chair is located in the middle of the room, in front of the desk. It is a brown chair with a red cushion. To approach the chair, you can start by moving forward and slightly to the right. As you continue, you will feel the chair's backrest against your back. The chair is positioned in front of the desk, so you should be able to reach it without any obstacles."
+  },
+  {
+    "image_id": 49,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. Based on the image, the kitchen faucet is located on the right side of the sink. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll feel the faucet handle, which is likely to be made of metal or plastic. Once you find the handle, you can grasp it and turn it to open the faucet."
+  },
+  {
+    "image_id": 50,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the three-seat sofa, you can follow these tactile cues:\n\n1. First, locate the chair that is positioned to the left of the sofa.\n2. Next, find the chair that is positioned to the right of the sofa.\n3. Finally, identify the chair that is located in the middle of the sofa.\n\nOnce you have identified these chairs, you can move towards the sofa by following the path between the chairs. The sofa will be situated in the middle of the space, with the chairs on either side."
+  },
+  {
+    "image_id": 51,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: cup. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a dining table with a vase of flowers on it. The table is surrounded by chairs. There is a cup placed on the table, and a refrigerator can be seen in the background. If you can provide me with more specific details about the cup's location on the table, I may be able to help you locate it."
+  },
+  {
+    "image_id": 52,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a dining table with a chair in front of it. The table is surrounded by several books, vases, and potted plants. The chair is positioned near the table, and it appears to be the target object you want to approach."
+  },
+  {
+    "image_id": 53,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the toilet, you should first move forward and slightly to the right. As you continue moving forward, you will come across a sink. The toilet is located to the right of the sink. To reach the toilet, you should continue moving forward and slightly to the right, following the path of the sink."
+  },
+  {
+    "image_id": 54,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the left side of the sink. To approach it, you can start by moving forward and slightly to the left. As you get closer, you'll feel the faucet's presence under your hand. Once you feel the faucet, you can continue to move your hand towards it to feel its shape and texture."
+  },
+  {
+    "image_id": 55,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: washing machine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The washing machine is located on the right side of the image, near the bottom. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll see the washing machine in front of you. You can also use your sense of smell to locate the washing machine, as it often has a distinctive odor. If you have any questions or need further assistance, please let me know."
+  },
+  {
+    "image_id": 56,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: microwave. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the microwave, you should first move to the left side of the image, where you will find a refrigerator. The microwave is located above the refrigerator, so you should move upwards and slightly to the right. You will feel the microwave's presence as you get closer to it. Once you reach the microwave, you can touch it to confirm its location."
+  },
+  {
+    "image_id": 57,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bathtub. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the bathtub is located on the right side of the scene. To approach it, you can start by moving forward and slightly to the right. As you continue, you will come across a toilet on your left side. Keep moving forward and you will eventually reach the bathtub."
+  },
+  {
+    "image_id": 58,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fridge. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the fridge, you should first move forward and to the left. As you continue, you will come across a sink. Keep moving forward and to the right, and you will eventually reach the fridge. The sink is located on the left side of the image, and the fridge is on the right side."
+  },
+  {
+    "image_id": 59,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The desk chair is located in the center of the room, in front of the desk. It is surrounded by a few books and a potted plant. To approach the desk chair, you can start by moving forward and feeling the floor for any obstacles. Once you have cleared the path, continue moving forward and you will feel the chair. You can also use your other senses, such as smell, to locate the chair. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 60,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: stairway. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am an AI visual assistant and cannot provide tactile cues. However, I can describe the scene to you. In the image, there is a stairway in the middle of the room, surrounded by furniture such as a couch, chairs, and a dining table. The stairway is made of wood and has a railing. The room is filled with various items, including a potted plant, a vase, and a bowl. The stairway is the main focus of the scene, and it is located in the center of the room."
+  },
+  {
+    "image_id": 61,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the toilet, you should first head towards the sink area, which is located on the left side of the image. As you move towards the sink, you will notice a toilet paper roll on the right side of the sink. The toilet is situated behind the sink, so once you reach the sink area, you can turn right and walk towards the toilet. The toilet is positioned close to the wall, so you should be able to locate it easily."
+  },
+  {
+    "image_id": 62,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the desk chair is located in the foreground, to the left of the desk. It is a wooden chair with a white cushion on it. To approach the chair, you can feel the floor in front of you, and then move your hand towards the chair, feeling the cushion and the backrest of the chair. Once you have located the chair, you can then move your hand towards the chair to feel the cushion and the backrest."
+  },
+  {
+    "image_id": 63,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fridge. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The fridge is located on the right side of the image, near the wall. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll see the fridge in front of you. You can also use the edge of the table or the chairs as a reference point to guide your movement."
+  },
+  {
+    "image_id": 64,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fridge. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. Based on the image, the fridge is located on the left side of the kitchen. To approach it, you can start by moving forward and slightly to the left. As you continue, you'll come across a dining table with chairs around it. The table is positioned in front of the fridge. To reach the fridge, you can either move around the table or ask someone to move the table for you."
+  },
+  {
+    "image_id": 65,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am an AI visual assistant and do not have the ability to physically guide you. However, I can describe the scene to you and you can use your other senses to approach the dining chair.\n\nIn the image, there is a dining table with chairs around it. The chairs are arranged in a way that allows for comfortable seating. The table is set with various items, including cups, bowls, and vases. The chairs are positioned around the table, with some closer to the foreground and others further back. The overall scene is well-organized and inviting."
+  },
+  {
+    "image_id": 66,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: armchair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the armchair is located on the right side of the room, near the window. It is positioned in front of a couch and a coffee table. To approach the armchair, you can start by moving towards the couch, and then continue moving towards the right side of the room. As you get closer to the armchair, you can feel the cushions and the backrest to confirm that you have reached the target object."
+  },
+  {
+    "image_id": 67,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the three-seat sofa, you can follow these tactile cues:\n\n1. First, locate the dining table in the scene. It is a large, white table with multiple wine glasses on it.\n2. Next, find the chairs surrounding the dining table. There are at least two chairs visible in the image.\n3. Once you have identified the chairs, move towards the chairs and then look for the sofa. The sofa is situated in the living room area, which is adjacent to the dining room.\n4. As you approach the sofa, you will notice that it is a three-seat sofa, with one seat on the left side, one in the middle, and one on the right side.\n\nBy following these tactile cues, you should be able to locate and approach the three-seat sofa."
+  },
+  {
+    "image_id": 68,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: ottoman. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help you. The ottoman is located in the center of the room, in front of the couch. It is a large, round, and brown piece of furniture. To approach it, you can start by moving forward and slightly to the right, as the ottoman is positioned on the right side of the couch. As you get closer, you can feel the couch's edge and then the ottoman's edge. Once you feel the ottoman, you can continue moving forward and slightly to the right to reach it."
+  },
+  {
+    "image_id": 69,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bed. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the bed is located in the center of the room, with a window nearby. The bed is covered with a white comforter and has a brown headboard. To approach the bed, you can start by moving towards the window, and then continue moving towards the center of the room. As you get closer to the bed, you can feel the comforter and the headboard to confirm that you have reached the target object."
+  },
+  {
+    "image_id": 70,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am a text-based AI assistant. However, I can describe the scene to you. In the image, there is a dining table with chairs around it. The chairs are arranged in a semi-circle, and there are multiple chairs in the scene. The table is set with plates, cups, and a vase. The chairs are arranged in a way that makes it easy to approach and sit down."
+  },
+  {
+    "image_id": 71,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the faucet is located on the left side of the sink. To approach the faucet, you can start by moving your hand towards the sink, feeling the edge of the countertop. As you continue to move your hand, you should feel the faucet. Once you locate the faucet, you can then use your fingers to turn on the water and adjust the flow as needed."
+  },
+  {
+    "image_id": 72,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located near the sink, which is situated under a window. The sink is surrounded by wooden cabinets. To approach the kitchen faucet, you can start by feeling the wooden cabinets on your left side, then move forward and feel the sink area. Once you find the sink, continue moving forward and you will find the faucet. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 73,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fridge. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The fridge is located on the right side of the image, and it is a large white appliance. To approach the fridge, you can start by moving forward and slightly to the right. As you continue, you will see the fridge in front of you. You can also use your sense of smell to locate the fridge, as it is likely to have a cooler or refrigerated air coming from it. Additionally, you can use your sense of touch to feel the surface of the countertop, which is where the fridge is likely to be placed."
+  },
+  {
+    "image_id": 74,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: recyclable rubbish bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am an AI visual assistant and do not have the ability to interact physically. However, I can guide you by describing the scene in the image. In the image, there are three recyclable rubbish bins, each with a different color. They are arranged in a row, with one on the left, one in the middle, and one on the right. The bins are open, and they are placed next to each other. The middle bin is the one you should approach."
+  },
+  {
+    "image_id": 75,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: shower faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the shower faucet is located on the right side of the shower area. To approach it, you can start by moving forward and slightly to the right. As you continue, you will feel the shower faucet with your fingers. It is a metal faucet, so you can feel its shape and texture. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 76,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "The desk chair is located in front of the desk, which is situated in the middle of the room. To approach the chair, you can start by moving towards the left side of the room, where the desk is. As you get closer to the desk, you will notice the chair positioned in front of it. To reach the chair, you can either move around the desk or slide under it, depending on the available space. Once you are close to the chair, you can feel the backrest and the armrests to confirm that it is the target object."
+  },
+  {
+    "image_id": 77,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the three-seat sofa, you can start by moving forward and slightly to the right. As you continue, you will come across a chair. The sofa is located behind the chair. To reach the sofa, you can either move around the chair or ask someone to help you move the chair. Once you are close to the sofa, you can feel the backrest and the armrests to confirm that it is the correct sofa."
+  },
+  {
+    "image_id": 78,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The three-seat sofa is located in the room, and it is positioned in front of a window. To approach the sofa, you can start by moving forward and feeling the floor under your feet. As you move, you can use your hands to feel the edges of the furniture, and eventually, you will come across the sofa. Once you find the sofa, you can sit or interact with it as desired."
+  },
+  {
+    "image_id": 79,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kettle. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am an AI and cannot provide tactile cues. However, I can describe the scene to you. In the image, there is a kitchen with a sink, a dryer, and a window. The kettle is located on the countertop near the sink. To approach the kettle, you can start by moving towards the sink, then follow the countertop until you reach the kettle."
+  },
+  {
+    "image_id": 80,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bar stool. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am an AI visual assistant and cannot provide tactile cues. However, I can describe the scene to you. In the image, there is a kitchen with a bar stool positioned near the counter. The kitchen features a sink, an oven, and a refrigerator. There are also several bowls and cups placed on the counter. Additionally, there are potted plants and vases in the scene."
+  },
+  {
+    "image_id": 81,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The desk chair is located in the center of the room, in front of the desk. It is a grey chair with a wooden frame. To approach the chair, you can start by moving forward and slightly to the right, as the chair is positioned on the right side of the desk. As you get closer, you can feel the chair's wooden frame and the seat's cushioning. Once you reach the chair, you can sit down and feel the chair's support and comfort."
+  },
+  {
+    "image_id": 82,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help you approach the desk chair. Based on the image, the desk chair is located in the middle of the room, in front of the desk. To approach it, you can start by moving forward with your left foot, then your right foot, and finally your center of gravity. As you move, you can use your hands to feel the chair's shape and texture, helping you to identify it. Once you feel the chair, you can reach out with your hands and place them on the chair's backrest or armrests to confirm that you have found the correct object."
+  },
+  {
+    "image_id": 83,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: kitchen faucet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the kitchen faucet is located on the right side of the sink. To approach it, you can start by moving forward with your left foot, then use your right foot to step onto the kitchen counter. As you move forward, you'll see the sink and faucet in front of you. Once you reach the sink, you can use your hands to feel the faucet and turn it on if needed."
+  },
+  {
+    "image_id": 84,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the desk chair is located in the middle of the room, in front of a large window. The chair is positioned near a couch and a bookshelf. To approach the desk chair, you can start by moving towards the couch, then continue moving towards the bookshelf. Once you reach the bookshelf, you can turn to your right and follow the wall until you reach the desk chair."
+  },
+  {
+    "image_id": 85,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The desk chair is located in the foreground of the image, to the left of the desk. It is a black chair with wheels, and it is positioned in front of the desk. I hope this helps you locate the chair. Let me know if you need any further assistance."
+  },
+  {
+    "image_id": 86,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: floor cushion. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am an AI visual assistant and do not have the ability to physically guide someone. However, I can provide you with information about the scene in the image. The floor cushion is located in the center of the room, surrounded by other cushions. It is a large, white, and round cushion. If you can provide me with more information about the room, I may be able to help you better."
+  },
+  {
+    "image_id": 87,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the three-seat sofa, you can follow these tactile cues:\n\n1. First, you are standing in a room with a wooden floor. Feel the floor with your feet and move forward.\n2. As you walk, you will pass by a wooden desk with a chair on it. The chair is located on the left side of the desk.\n3. Continue walking and you will come across a bookshelf filled with books. The bookshelf is on the right side of the room.\n4. Keep moving forward and you will see a potted plant on the right side of the room.\n5. The three-seat sofa is located in the right corner of the room. You can feel the corner by placing your hand on it.\n\nFollow these tactile cues to approach the three-seat sofa."
+  },
+  {
+    "image_id": 88,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: double sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the double sofa, you can start by moving forward and slightly to the right. As you continue, you will come across a coffee table in front of the sofa. The sofa is located to the right of the coffee table. To reach the sofa, you can either move around the coffee table or ask for assistance from someone else in the room."
+  },
+  {
+    "image_id": 89,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fridge. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the fridge, you should first look to your left and then move forward. As you move, you will see a sink and a countertop. The fridge is located on the right side of the countertop. Once you reach the countertop, you can feel the edge of the countertop to guide you towards the fridge."
+  },
+  {
+    "image_id": 90,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: three-seat sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To approach the three-seat sofa, you can follow these tactile cues:\n\n1. First, locate the couch by following the direction of the long, narrow shape.\n2. As you move forward, you will feel the couch's backrest, which is the seat area.\n3. To reach the second seat, continue moving forward and feel the backrest of the second seat.\n4. To reach the third seat, continue moving forward and feel the backrest of the third seat.\n\nRemember to use your sense of touch and spatial awareness to navigate the room and find the couch."
+  },
+  {
+    "image_id": 91,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fridge. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The fridge is located on the right side of the image, near the edge of the frame. To approach it, you can start by moving forward and slightly to the right. As you continue, you'll see the fridge in front of you. You can also use your sense of smell to locate the fridge, as it is likely to have a strong odor of food or cooling agents."
+  },
+  {
+    "image_id": 92,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Based on the image, the desk chair is located in the middle of the room, in front of the desk. To approach the chair, you can start by moving forward and slightly to the right. As you continue, you will feel the chair's backrest against your back. The chair is made of wood and has a cushioned seat. Once you reach the chair, you can sit down and enjoy the view."
+  },
+  {
+    "image_id": 93,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bar stool. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "The bar stool is located in the kitchen area, near the counter. It is positioned close to the sink and the window. To approach the bar stool, you can feel the countertop and the sink to your left, and then move towards the window. Once you reach the window, you can feel the bar stool to your right."
+  },
+  {
+    "image_id": 94,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: armchair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. The armchair is located to the right of the scene, and it is partially visible. To approach the armchair, you can start by moving forward and slightly to the right. As you continue, you will see the armchair in front of you. You can then move towards it and feel the armrests and the backrest to confirm that it is the armchair you are looking for."
+  },
+  {
+    "image_id": 95,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help you approach the desk chair. Based on the image, the desk chair is located on the right side of the room, near the corner of the room. To reach the desk chair, you can start by moving forward and slightly to the right. As you continue moving, you will feel the corner of the room, and then you can turn right and continue moving until you feel the back of the chair. Once you feel the back of the chair, you can sit down and enjoy the view."
+  },
+  {
+    "image_id": 96,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the dining table is surrounded by chairs. The chairs are arranged in a semi-circle around the table. The chairs are made of wood and have white cushions. To approach the dining chair, you can start by moving forward and feeling the table in front of you. As you move closer to the table, you can use your hands to feel the back of the chair, which is the part of the chair that you would sit on. Once you find the chair, you can sit down and enjoy your meal."
+  },
+  {
+    "image_id": 97,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the sofa is located in the middle of the room, with a dining table and a kitchen area nearby. The sofa is positioned in front of a window, and there is a potted plant nearby. To approach the sofa, you can start by moving towards the window, and then follow the path of the dining table and kitchen area. Once you reach the kitchen area, you can continue moving forward until you reach the sofa."
+  },
+  {
+    "image_id": 98,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: dining  chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "I'm sorry, but I am unable to provide tactile cues as I am an AI visual assistant and do not have the ability to physically guide you. However, I can describe the scene to you and you can use your other senses to locate the dining chair.\n\nIn the image, there is a dining table with a marble top, surrounded by chairs. The chairs are arranged around the table, and there are several items on the table, including a bowl, a vase, and a bottle. The chairs are black and made of leather. The table is located in a kitchen area, which also features a sink and an oven."
+  },
+  {
+    "image_id": 99,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bathtub. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Sure, I'd be happy to help. In the image, the bathtub is located on the left side of the scene. To approach it, you can start by moving forward and slightly to the left. As you continue, you will see the bathtub in front of you. You can also use your sense of smell to locate the bathtub, as it is likely to have a distinctive scent. Additionally, you can use your sense of touch to feel the edge of the bathtub as you approach it."
+  }
+]

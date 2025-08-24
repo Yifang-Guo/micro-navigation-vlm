@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A bathroom with a white sink, a shower, and a mirror."
+  },
+  {
+    "image_id": 1,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large white couch is placed in a living room with a large window, a painting on the wall, and a lamp."
+  },
+  {
+    "image_id": 2,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A modern kitchen with a glass door and a tree design on it."
+  },
+  {
+    "image_id": 3,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large kitchen with a table and chairs, a refrigerator, an oven, a sink, and a window."
+  },
+  {
+    "image_id": 4,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A cozy living room with a tan couch, a bicycle, and a large window."
+  },
+  {
+    "image_id": 5,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A living room with a couch, a coffee table, and a bookshelf filled with books."
+  },
+  {
+    "image_id": 6,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large kitchen with a dining room table and chairs, a center island, and a large window."
+  },
+  {
+    "image_id": 7,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large, clean, and empty living room with a couch, a coffee table, a television, and a chandelier."
+  },
+  {
+    "image_id": 8,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large, open, and bright living room with a dining table, chairs, and a window."
+  },
+  {
+    "image_id": 9,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A kitchen with a refrigerator, a table, chairs, and a window overlooking the city."
+  },
+  {
+    "image_id": 10,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A living room with a couch, chair, and a table with a vase on it."
+  },
+  {
+    "image_id": 11,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large room with a desk, couch, and bookshelves, all in a dark color scheme."
+  },
+  {
+    "image_id": 12,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large kitchen with a wooden table and chairs, a stove, and a refrigerator."
+  },
+  {
+    "image_id": 13,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large, clean, and empty living room with a couch, a table, and a potted plant."
+  },
+  {
+    "image_id": 14,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A kitchen with a sink, a window, and a counter with various items on it."
+  },
+  {
+    "image_id": 15,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A kitchen with a sink, cabinets, and a window."
+  },
+  {
+    "image_id": 16,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large kitchen with a wooden dining table and chairs, a window, and a variety of potted plants and vases."
+  },
+  {
+    "image_id": 17,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A cozy living room with a couch, a desk with a computer, and a bookshelf filled with books."
+  },
+  {
+    "image_id": 18,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A bathroom with a toilet, sink, and shower."
+  },
+  {
+    "image_id": 19,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A kitchen with a sink, stove, and microwave, with a window overlooking a forest."
+  },
+  {
+    "image_id": 20,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A modern living room with a couch, a coffee table, and a dining table."
+  },
+  {
+    "image_id": 21,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large bookshelf filled with books and decorative items is situated in a living room with a couch and a coffee table."
+  },
+  {
+    "image_id": 22,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large, well-lit room with a wooden floor and a variety of furniture, including a dining table, chairs, and a couch."
+  },
+  {
+    "image_id": 23,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A large, well-lit living room with a TV, couch, and dining table."
+  },
+  {
+    "image_id": 24,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A kitchen with white cabinets, a stainless steel sink, and a potted plant."
+  }
+]

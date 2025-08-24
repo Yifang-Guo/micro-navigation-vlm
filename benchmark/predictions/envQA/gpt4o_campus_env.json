@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows an indoor corridor with emergency exit doors, waste bins, and fire safety equipment."
+  },
+  {
+    "image_id": 1,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A hallway with recycling and waste bins, lockers, and a person walking while looking at their phone."
+  },
+  {
+    "image_id": 2,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "This image shows a computer lab behind a closed door, with no smoking signs on the wall."
+  },
+  {
+    "image_id": 3,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a quiet, modern hallway with display boards, a row of blue lockers, and a person in the distance."
+  },
+  {
+    "image_id": 4,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with lockers on one side, a wet floor sign, and a seated person near the entrance doors leading outside."
+  },
+  {
+    "image_id": 5,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A person is walking through a spacious, modern hallway with lockers lining the wall and seating areas visible in the background."
+  },
+  {
+    "image_id": 6,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway in a building with doors, a row of blue chairs, and a bulletin board on the wall."
+  },
+  {
+    "image_id": 7,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with blue seating, a glass door leading to an elevator, notice boards, and overhead signage in what appears to be a hospital or clinic setting."
+  },
+  {
+    "image_id": 8,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a well-lit, clean corridor of a building, featuring a row of blue chairs and various informational posters on the walls."
+  },
+  {
+    "image_id": 9,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with informational posters on the walls and doors leading to various rooms."
+  },
+  {
+    "image_id": 10,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a corridor with a stairway, elevator, and yellow caution sign seen through a glass door."
+  },
+  {
+    "image_id": 11,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts a modern, empty indoor public space with circular seating and bright, minimalist decor."
+  },
+  {
+    "image_id": 12,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts an empty, modern diner area with swivel stools and circular tables, situated by large windows with a view outside."
+  },
+  {
+    "image_id": 13,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts a beverage station with a humorous sign, waste disposal bins, fire extinguishers, and refrigerators stocked with drinks against a blue wall."
+  },
+  {
+    "image_id": 14,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene shows a corner of a modern indoor dining area with round tables, stools, and large windows overlooking an outdoor patio with trees."
+  },
+  {
+    "image_id": 15,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with bulletin boards, a digital screen, waste bins, doors, and a bright entrance area."
+  },
+  {
+    "image_id": 16,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene shows a hallway with yellow and blue accents, featuring lockers, a blue door, and informational posters on the walls."
+  },
+  {
+    "image_id": 17,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts a modern, spacious indoor area with bulletin boards and doors, likely in an educational or office setting."
+  },
+  {
+    "image_id": 18,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene depicts a clean, well-lit corridor in an educational or office building featuring exit signs, informational posters, plants, and safety signage."
+  },
+  {
+    "image_id": 19,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A brightly lit corridor features colorful carpet patterns, doors, a fire extinguisher, and a printer on a cabinet."
+  },
+  {
+    "image_id": 20,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The scene shows a bright, modern hallway with colorful carpeting, waste bins, a first aid kit, and informational noticeboards on the walls."
+  },
+  {
+    "image_id": 21,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "A brightly lit hallway features colorful carpet and bulletin boards on the walls."
+  },
+  {
+    "image_id": 22,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a long, empty hallway with two-tone walls, patterned carpet, and fluorescent lighting."
+  },
+  {
+    "image_id": 23,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway with closed doors, safety equipment, and noticeboard posters."
+  },
+  {
+    "image_id": 24,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a hallway in a building with multiple doors, informational posters on the walls, and an exit sign at the end."
+  }
+]

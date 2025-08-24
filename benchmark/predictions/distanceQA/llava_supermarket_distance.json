@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the soy sauce. Output only the number.",
+    "instruction": "1.25"
+  },
+  {
+    "image_id": 1,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the frozen items. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 2,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the apple. Output only the number.",
+    "instruction": "1.29"
+  },
+  {
+    "image_id": 3,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the cabbage. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 4,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the leaf vegetables. Output only the number.",
+    "instruction": "1.2"
+  },
+  {
+    "image_id": 5,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the bread. Output only the number.",
+    "instruction": "1.2"
+  },
+  {
+    "image_id": 6,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the frozen meat. Output only the number.",
+    "instruction": "1.2"
+  },
+  {
+    "image_id": 7,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the watermelon. Output only the number.",
+    "instruction": "1.2"
+  },
+  {
+    "image_id": 8,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the bottled water. Output only the number.",
+    "instruction": "1.2"
+  },
+  {
+    "image_id": 9,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the bottled water. Output only the number.",
+    "instruction": "1.25"
+  },
+  {
+    "image_id": 10,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the bread. Output only the number.",
+    "instruction": "1.2"
+  },
+  {
+    "image_id": 11,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the tomatoes. Output only the number.",
+    "instruction": "1.28"
+  },
+  {
+    "image_id": 12,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the daily necessities. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 13,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the frozen fish. Output only the number.",
+    "instruction": "1.25"
+  },
+  {
+    "image_id": 14,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the boxed milk. Output only the number.",
+    "instruction": "1.25"
+  },
+  {
+    "image_id": 15,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the chips. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 16,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the bulk snacks. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 17,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the chips. Output only the number.",
+    "instruction": "0.49"
+  },
+  {
+    "image_id": 18,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the frozen food. Output only the number.",
+    "instruction": "1.2"
+  },
+  {
+    "image_id": 19,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the pepper. Output only the number.",
+    "instruction": "0.89"
+  },
+  {
+    "image_id": 20,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the drinks. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 21,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the mustard. Output only the number.",
+    "instruction": "1.25"
+  },
+  {
+    "image_id": 22,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the beer. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 23,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the vegetables. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 24,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the plastic chairs. Output only the number.",
+    "instruction": "1.25"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "image_id": 0,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain soy sauce. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various packaged food items (snacks, spreads).\n  - Distance Category: Close (\u22483 steps).\n  - Height Band: Floor.\n\n- **Centre Sector**\n  - Name: Jars of spreads and condiments.\n  - Distance Category: Close (\u22483 steps).\n  - Height Band: Floor.\n\n- **Right Sector**\n  - Name: Bottles of sauces and condiments.\n  - Distance Category: Close (\u22483 steps).\n  - Height Band: Floor.",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector, approximately three steps. As you approach the left side, you'll notice various packaged food items, primarily snacks and spreads, at your close distance (height band: floor). Once there, look for a jar or bottle that feels cool to the touch, as soy sauce tends to have a cooler temperature than other condiments. If you find one, you can identify its shape by its cylindrical or rectangular form."
+  },
+  {
+    "image_id": 1,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen items. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Bread in baskets: close (\u22483 steps), floor\n  - Orange structural beams: close (\u22483 steps), head\n  - Refrigerators: far (\u224812 steps), head\n\n- **Centre Sector**\n  - Shelves with products: close (\u22483 steps), head\n  - Signage on ceiling: close (\u22483 steps), head\n  - People shopping: mid (\u22487 steps), head\n  - Floor markings: close (\u22483 steps), floor\n\n- **Right Sector**\n  - Refrigerators: close (\u22483 steps), head\n  - KIKUSUSHI sign: close (\u22483 steps), head\n  - Ceiling lights: close (\u22483 steps), head",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the shelves with products, keeping in mind the close proximity (\u22483 steps) and head height. As you approach, you'll feel the texture of various items, looking for signs of frozen goods. If not immediately available on the shelves, continue on to the signage on the ceiling, which is also close (\u22483 steps) and at head level, where you might locate product information that could help identify frozen items. Remember to follow the floor markings closely (\u22483 steps) to maintain your path. If you encounter people shopping, ask them for assistance or wait until they clear the area before proceeding."
+  },
+  {
+    "image_id": 2,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain apple. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fruit display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Fruit display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Vegetable display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the fruit display, following the mid-distance tag of approximately 7 steps. As you approach, you'll notice the texture of the apples - they should feel firm and smooth to the touch. If you reach the bottom height band, which is the floor, you've found the fruit display. The apples will be located at your bottom right; you can identify them by their round shape and cool temperature."
+  },
+  {
+    "image_id": 3,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh produce section\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Vegetable display\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Fruit and vegetable section\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the fresh produce section, approximately 7 steps to your left. As you walk, you will notice the height band is at the floor level. Once you reach the Fresh produce section, look for cabbage; it's located at the bottom height band, typically identified by its firm texture and round shape. If needed, ask for assistance to locate it tactilely."
+  },
+  {
+    "image_id": 4,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain leaf vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - **Salient Objects/Hazards**\n    - Fresh produce displays (close, floor)\n    - Shopping carts (mid, floor)\n    - People shopping (mid, waist/above head)\n    - Signage (far, head)\n\n- **Centre Sector**\n  - **Salient Objects/Hazards**\n    - Fresh produce displays (close, floor)\n    - Shopping carts (mid, floor)\n    - People shopping (mid, waist/above head)\n    - Signage (far, head)\n\n- **Right Sector**\n  - **Salient Objects/Hazards**\n    - Fresh produce displays (close, floor)\n    - Shopping carts (mid, floor)\n    - People shopping (mid, waist/above head)\n    - Signage",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the fresh produce displays, keeping a moderate pace. As you approach, you will notice the leaf vegetables close to the floor. They have a distinctive texture, usually crisp and slightly rough. If needed, feel along the arrangement to locate them. Remember, stay aware of the shopping carts nearby, which might be in the mid-range, and avoid tripping. Keep moving until you reach the desired vegetables; once there, you can confirm their presence by their weight and shape."
+  },
+  {
+    "image_id": 5,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Bread display shelves\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Bakery products\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Shopping cart with person\n  - Distance Category: Mid\n  - Height Band: Knee",
+    "answer": "Remember, always trust your senses, especially touch, to navigate the scene."
+  },
+  {
+    "image_id": 6,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen meat. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Meat display case\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Signage on display cases\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Wall with signs and windows\n  - Distance Category: Far (\u224812 steps)\n  - Height Band: Head",
+    "answer": "Starting from your current position in the centre sector, move forward towards the meat display case, which is in the mid-distance category, approximately 7 steps away. As you approach, you'll notice the frozen meat; it has a cold temperature, and its texture feels firm and icy. Once you reach the case, you'll find the frozen items at the bottom height band, where they are typically stored. If needed, I can provide verbal descriptions to help you locate them further."
+  },
+  {
+    "image_id": 7,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain watermelon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - **Salient Objects/Hazards**\n    - Fresh produce (vegetables and fruits) on shelves\n    - Wooden crates with produce on the floor\n    - Shelves with packaged goods in the background\n  - **Distance Categories**\n    - Produce shelves: close (\u22483 steps)\n    - Wooden crates: close (\u22483 steps)\n    - Packaged goods: mid (\u22487 steps)\n  - **Height Bands**\n    - Produce shelves: waist/above head\n    - Wooden crates: floor/knee\n\n- **Centre Sector**\n  - **Salient Objects/Hazards**\n    - Curved display of fresh produce\n    - Wooden crates with produce on the floor\n    - Shelves with packaged goods in the background",
+    "answer": "Starting from your current position in the center sector, move forward towards the middle distance tag, approximately 7 steps. As you walk, you'll come across shelves with packaged goods, which are at a moderate distance. To locate the watermelon, focus on the curved display of fresh produce; it should be within reach, possibly at your waist or slightly above your head level. Remember that the watermelon might be cool to the touch, and its round shape can be identified by its texture. If you encounter any wooden crates with produce, avoid them as they are on the floor or at knee height, posing potential hazards. Stay cautious and follow these tactile cues to find the watermelon."
+  },
+  {
+    "image_id": 8,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottle of water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Beverage Shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Wine Display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, move forward towards the beverage shelves, which are indicated as the 'Beverage Shelves' in the scene. Since the distance is labeled as mid, approximately 7 steps, proceed with caution. As you approach, you'll notice the bottles; they are at your height level, typically on the floor. To locate the water bottle, you can identify it by its texture, which is likely to be cool and smooth due to being stored on the shelves. If needed, I can provide further guidance on specific touch points."
+  },
+  {
+    "image_id": 9,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottled water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack shelves\n  - Distance: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Beverage bottles and cans\n  - Distance: Close\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Counter area\n  - Distance: Mid\n  - Height Band: Waist",
+    "answer": "Starting from your current position in the centre sector, move forward towards the beverage bottles and cans, which are at a close distance and within your reach. As you approach, you'll notice the bottles' cool temperature through touch. Once you locate the bottled water, it's at your waist level, making it easily accessible. If needed, I can provide a more precise description to help you identify it by its texture or shape."
+  },
+  {
+    "image_id": 10,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Bread display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Bread display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Bread display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Remember, the bread might be in a basket or on shelves, so feel around for a raised surface or a container that could hold bread. If you need further assistance, let me know."
+  },
+  {
+    "image_id": 11,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tomatoes. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh produce section\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Vegetable display\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: More fresh produce\n  - Distance Category: Mid\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, move forward towards the left sector, which is described as the Fresh Produce section, classified as Close. As you approach, you will notice the vegetables at your height level, typically at the floor band. Once there, you should locate the tomatoes; they are typically round and firm to the touch, giving a distinct texture. If needed, feel around for a label or a plump surface to confirm their presence."
+  },
+  {
+    "image_id": 12,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain daily necessities. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Beverage display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Promotional signs\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Head\n\n- **Right Sector**\n  - Name: Shelves with household items\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move towards the beverage display, approximately 7 steps to your left. As you approach, you'll notice the distance is marked as mid. Once there, you'll find the 'Beverage display' that serves as your primary source for daily necessities. For identification, the items might be cool to the touch, typical of refrigerated items. For your next destination, proceed to the promotional signs located closely, just 3 steps ahead and at head height. These signs should be within easy reach. Remember, the centre sector is your reference point throughout this journey."
+  },
+  {
+    "image_id": 13,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen fish. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Refrigerator with various packaged goods\n  - Close (\u22483 steps)\n  - Floor\n\n- **Centre Sector**\n  - Woman wearing a mask and holding items\n  - Mid (\u22487 steps)\n  - Waist\n\n- **Right Sector**\n  - Display case with frozen food items\n  - Close (\u22483 steps)\n  - Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the right. As you approach the display case, you'll notice it's close, approximately three steps away. The floor beneath you is clearly identified by its texture. Once you reach the frozen food section, you'll feel the cold temperature of the\u5236\u51b7 unit. The item you're looking for, frozen fish, should be within reach or easily identifiable by its solid texture and\u4f4e\u6e29."
+  },
+  {
+    "image_id": 14,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain boxed milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Meiji milk cartons\n  - Greenfields milk cartons\n  - Height band: knee\n  - Rough distance category: close\n\n- **Centre Sector**\n  - Various milk cartons and bottles\n  - Height band: knee\n  - Rough distance category: close\n\n- **Right Sector**\n  - Soy milk cartons\n  - Coffee and tea products\n  - Height band: knee\n  - Rough distance category: close",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector. As you approach, you'll notice Meiji milk cartons at a distance suitable for close inspection, primarily at your knee level. Their texture will be smooth, providing a clear identifier. For the boxed milk, look for a rectangular shape and a solid feel. If needed, ask for assistance to locate the specific brand or type."
+  },
+  {
+    "image_id": 15,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Signage: \"Sobeys Scene\" (close, head height)\n  - Shopping cart (close, floor height)\n  - Customer pushing cart (mid, waist height)\n\n- **Centre Sector**\n  - Signage: \"So Many Rewards, So Many Places\" (close, head height)\n  - Shelves stocked with snacks and drinks (mid, knee height)\n  - Customer walking (mid, waist height)\n\n- **Right Sector**\n  - Signage: \"Scene\" (close, head height)\n  - Shelves stocked with snacks and drinks (mid, knee height)\n  - Customer walking (mid, waist height)",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the right. As you walk, you'll notice the signage 'Scene' close to your head level, indicating the right sector. Keep going; the shopping cart near the ground is within reach, a typical indicator of chips aisle. If you encounter a snack or drink shelf at mid-knee height, that's where the chips should be located. You can identify them by their texture, as they are usually crunchy and packaged in plastic or cardboard. Remember to pause and feel the packaging before picking up to confirm the correct item."
+  },
+  {
+    "image_id": 16,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bulk snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Orange boxes with Chinese text\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Various packaged goods on shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Orange baskets stacked on a cart\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the right sector, following these instructions: Step mid-distance, approximately 7 steps, keeping your focus on the right. As you approach, you'll notice a stack of orange baskets on a cart. The items are at your knee level, indicating a height band of 'Knee'. To identify them, you can feel the texture of the baskets, which are likely to be rough and have a distinct shape. Remember to stay aware of your surroundings and avoid any obstacles that may be in your path."
+  },
+  {
+    "image_id": 17,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Asian Seasonal Snacks Display\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Asian Seasonal Snacks Display\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Asian Seasonal Snacks Display\n  - Distance Category: Close\n  - Height Band: Floor",
+    "answer": "Remember, always trust your touch and listen for any distinctive features that help identify the chips."
+  },
+  {
+    "image_id": 18,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen food. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various packaged food items on shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist\n\n- **Centre Sector**\n  - Name: Shelves with bottles and jars of sauces and condiments\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: Person wearing a mask and cap, reaching into a display case\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Chest",
+    "answer": "Starting from your current position in the center sector, move forward towards the left sector, which is marked as Mid and has packed food items on shelves. Follow the pathway, keeping in mind the distance category is approximately 7 steps, suitable for mid-range navigation. Once you reach the left sector, you will find a variety of frozen food. To locate it, focus on the texture, as frozen items tend to be cold and firm. If needed, I can provide more specific tactile cues for identification."
+  },
+  {
+    "image_id": 19,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain pepper. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various vegetables (e.g., broccoli, cauliflower, chili peppers)\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Assorted vegetables and herbs (e.g., garlic, sage, thyme)\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Vegetables (e.g., jalape\u00f1os, zucchini)\n  - Distance Category: Close\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the center sector, move forward towards the right sector, which is marked as Close and at the floor level. As you approach the vegetables, you'll notice the texture of various vegetables, like zucchinis, which might feel firm and smooth. If you encounter chili peppers, they'll have a slightly spicy texture. To locate the pepper, you should focus on its size and shape; it's likely to be smaller and rounder than the others. If you need further assistance, feel free to say."
+  },
+  {
+    "image_id": 20,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain something to drink. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Grocery shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Beverage section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Beverage boxes\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the center sector, where the beverage section is marked as mid-distance (approximately 7 steps away) and at floor level, move towards the left. As you approach the grocery shelves, you'll notice the items are within the bottom height band. If you need assistance, the item you're looking for is located at your bottom right, providing a familiar texture for touch identification. For the beverage section, which is closer to you (3 steps away and at knee height), you'll find the beverage boxes; feel around to locate the one suitable for drinking."
+  },
+  {
+    "image_id": 21,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain mustard. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Grocery shelves stocked with various products.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Floor.\n\n- **Centre Sector**\n  - Name: Cardboard boxes stacked near the center aisle.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Floor.\n\n- **Right Sector**\n  - Name: Grocery shelves stocked with various products.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Floor.",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the grocery shelves, maintaining a distance tag of mid (approximately 7 steps). As you walk, keep in mind that the height band is at the floor level. When you reach the shelves, look for the mustard; it will be located at the bottom. You can identify it by its texture, which is typically smooth and cylindrical. If needed, follow the pathway description for a seamless transition."
+  },
+  {
+    "image_id": 22,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Beverage Cans\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Red Boxes\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Soft Drinks Bottles\n  - Distance Category: Close\n  - Height Band: Knee",
+    "answer": "Remember to always proceed with caution and rely on your tactile cues for accuracy."
+  },
+  {
+    "image_id": 23,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Fruits and vegetables (close, floor)\n  - Crates of produce (mid, floor)\n  - Packaged snacks (mid, floor)\n  - Refrigerated section (far, head)\n\n- **Centre Sector**\n  - Aisle with various products (mid, floor)\n  - Shopping cart (mid, floor)\n  - Signage (mid, head)\n  - Employees (mid, head)\n\n- **Right Sector**\n  - Produce section (close, floor)\n  - Crates of fruits (mid, floor)\n  - Grocery items (mid, floor)\n  - Signage (mid, head)",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector. As you approach the close proximity of the produce section, you'll notice the vegetables on the floor. They have a cool temperature and a firm texture. If needed, follow the crates or packaging to locate them specifically. Remember, the items are at your bottom right when you touch them."
+  },
+  {
+    "image_id": 24,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain plastic chairs. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Plastic stools\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Plastic storage bins\n  - Distance Category: Mid\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Stationery shelves\n  - Distance Category: Mid\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, move forward towards the right. As you approach the stationery shelves, you'll notice the plastic storage bins close to you, which are of mid-distance and at floor level. To locate the plastic chairs, you should feel for them; they are typically in the bottom height band, so look out for a change in texture or shape that indicates seating. If you encounter any obstacles or need assistance, let me know."
+  },
+  {
+    "image_id": 25,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chopsticks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Shelves with folded items and a keyboard-like object.\n  - Distance: Mid (\u22487 steps).\n  - Height Band: Floor.\n\n- **Centre Sector**\n  - Name: Wooden display rack filled with various household items like brushes, containers, and cleaning supplies.\n  - Distance: Close (\u22483 steps).\n  - Height Band: Knee.\n\n- **Right Sector**\n  - Name: Display of plush toys and small boxes on a wall-mounted shelf.\n  - Distance: Mid (\u22487 steps).\n  - Height Band: Knee.",
+    "answer": "Starting from your current position in the centre sector, move forward towards the wooden display rack, which is close and at your knee level. As you approach, you'll notice the brush and container items on the rack. After reaching the rack, turn left; you will find the chopsticks at your right hand. They have a typical texture, often smooth and slightly ribbed, making them easy to distinguish by touch."
+  },
+  {
+    "image_id": 26,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Cartons of milk and juice boxes\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist\n\n- **Centre Sector**\n  - Name: Cartons of milk and juice boxes\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: Cartons of milk and juice boxes\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist",
+    "answer": "Starting from your current position, which is in the center sector, move forward towards the left sector, taking approximately 7 steps, keeping your hands out to feel for the cartons. As you approach the first set of cartons, you will notice them being at waist height. Feel around until you locate the chocolate milk; it should have a distinct texture, typically smooth and cold to the touch. If needed, check the packaging for any embossed labels or texture differences that confirm it's chocolate milk. Once you find it, you can say, \"The chocolate milk is here, cool and creamy to the touch, located at the waist level, on the left side of the scene.\"."
+  },
+  {
+    "image_id": 27,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various packaged goods on shelves\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Variety of snacks and beverages\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Assorted drinks and snacks\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, which is marked as mid-distance and close to the floor, move forward towards the right. As you approach the snacks and beverages area, you'll notice a variety of items within arm's reach. Look for a row of packaged goods, specifically targeting chips. They are typically flat and crispy, with a distinct texture that you can feel. If you encounter a stack, the top layer should be the chips. Remember to scan the surface carefully before picking them up."
+  },
+  {
+    "image_id": 28,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Green beans \u22483 steps, knee\n  - Cucumbers \u22483 steps, knee\n  - Blue plastic bags \u22487 steps, waist\n  - Signboard \u224812 steps, head\n\n- **Centre Sector**\n  - Vendors wearing masks \u22483 steps, head\n  - Vegetable stalls \u22487 steps, waist\n  - Signboards \u224812 steps, head\n\n- **Right Sector**\n  - Purple eggplants \u22483 steps, knee\n  - White onions \u22487 steps, knee\n  - Signboard \u224812 steps, head",
+    "answer": "Starting from your current position, which is in the centre sector, move forward 3 steps towards the vegetable stalls. As you approach, you'll notice the vegetables at your waist level. They have a firm texture and can be identified by their weight. If needed, continue walking another 7 steps, keeping your hands out to feel the green beans, which are at your knees. The cucumbers are a bit further, also at your knees, with a slightly softer touch. Remember, always stay aware of your surroundings and follow the path marked by the signboards for guidance."
+  },
+  {
+    "image_id": 29,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh produce section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Produce display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Plant in red pot\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, move forward towards the fresh produce section, which is marked as Mid (approximately 7 steps away) and at the floor level. As you walk, you'll notice the familiar scent of fruits. When you reach the section, the item you need is at your front, providing a tangible identification through touch. For the plant in the red pot in the right sector, it's close by, approximately 3 steps away and at a height that reaches your knees, so you can easily recognize its texture by feeling it."
+  },
+  {
+    "image_id": 30,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Aisle Center\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Wine Bottles\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the snack aisle, approximately 7 steps. As you walk, you'll notice the height band is at the floor level. Once you reach the snack aisle, turn left, following the tactile cue for the left sector. Look out for a specific shape or texture that indicates red wine bottles; they are in the mid-distance category, around 7 steps away. If you encounter them, you can identify the wine by its unique texture or label."
+  },
+  {
+    "image_id": 31,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Canned Goods Display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Beverage Stacks\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, move forward towards the snack aisle, which is labeled as 'Snack Aisle' and classified as mid-distance (approximately 7 steps). As you walk, you'll notice the items around you are at floor level, falling within the height band. Once you reach the aisle, turn right 90 degrees to access the beverage stacks in the right sector. These stacks are also in the mid-distance category and at your knee level, providing tactile clues for identifying and selecting beverages."
+  },
+  {
+    "image_id": 32,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cooking oil. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Shelves with various bottles and jars\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Stacked boxes of beverages\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Shelves with bottles and jars\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre sector, move forward towards the right sector, which is marked as mid-distance (approximately 7 steps). As you walk, focus on the shelves with bottles and jars; you'll find the cooking oil on one of them. The item is at your bottom right; its texture should be smooth and solid, indicating the oil container."
+  },
+  {
+    "image_id": 33,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottled milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various milk products, yogurt containers, and other dairy items.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Waist.\n\n- **Centre Sector**\n  - Name: Assorted milk cartons, juice boxes, and beverage containers.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Knee.\n\n- **Right Sector**\n  - Name: More milk cartons, juice boxes, and beverage containers.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Knee.",
+    "answer": "Starting from your current position in the center of the scene, move forward towards the milk products, which are in the left sector. This distance is categorized as mid, approximately 7 steps away, and reaches at your waist level. Once you reach the dairy items, you'll be able to identify the milk cartons by their texture. If you need assistance, they are typically cool to the touch and have a cardboard or plastic feel. If you encounter any difficulties, let me know, and I'll guide you further."
+  },
+  {
+    "image_id": 34,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain a carton of milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Refrigerator with drinks and snacks\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Cashier working at the counter\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: Display of candy and small items\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the center sector, where the cashier is at close distance, move forward towards the right sector, which is labeled as having a mid-distance category (approximately 7 steps) and a height band at the knee level. As you approach the display of candy and small items, look for a carton of milk; it will have a specific texture, typically cold and smooth, to identify it. If you need assistance, the carton should be located at your right side."
+  },
+  {
+    "image_id": 35,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the snack aisle. It's marked as 'Mid' distance, approximately 7 steps away. As you walk, focus on the floor; you'll find the chips at the bottom height band. If you encounter any obstacles or turns, I'll guide you accordingly. Keep in mind that the aisle is on your left when you reach it. Once you locate the chips, you can identify them by their texture, as they are likely to be crispy and crunchy."
+  },
+  {
+    "image_id": 36,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Chocolate Butter Cookies\n  - Distance: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Tartelette Biscuits\n  - Distance: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Various Snacks and Biscuits\n  - Distance: Close (\u22483 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre sector, move forward towards the 'Tartelette Biscuits'. They are at a close distance, approximately three steps away, and are located on the floor. As you approach, you'll notice the 'Tartelette Biscuits' by their texture, which is likely soft and slightly crunchy. If needed, turn left 90 degrees after reaching the centre sector, and you will find the 'Chocolate Butter Cookies' on your left. These cookies might be slightly warm due to their proximity, feel warm to the touch. Lastly, to reach the 'Various Snacks and Biscuits' on your right, continue straight ahead; they are also at a close distance and within the height band of the floor. Remember, always rely on your tactile cues to navigate through the scene."
+  },
+  {
+    "image_id": 37,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain instant noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various packaged goods on shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Person wearing a black vest and red pants\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: Boxes of Fortuna products\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the right sector, approximately 7 steps, keeping in mind the mid-distance category. As you walk, you'll come across a row of boxes of Fortuna products, identifiable by their texture. Once you reach the end of that area, turn left 180 degrees. In the left sector, you'll find various packaged goods on shelves. To locate the instant noodles, focus on the items at your bottom, as they are at the height band you specified. Remember, these cues are based on the visual scene described; if needed, use your sense of touch to confirm their presence."
+  },
+  {
+    "image_id": 38,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen pork. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Meat section signage\n  - Distance: Mid (\u22487 steps)\n  - Height: Head\n\n- **Centre Sector**\n  - Name: \"Your choice for natural PORK\" sign\n  - Distance: Mid (\u22487 steps)\n  - Height: Head\n\n- **Right Sector**\n  - Name: \"Your choice for natural BEEF\" sign\n  - Distance: Mid (\u22487 steps)\n  - Height: Head",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector. You'll come across a sign labeled 'Meat section signage' at mid-distance, approximately 7 steps away. As you approach, notice the height is at head level. Once there, turn right 90 degrees. In the right sector, you'll find the sign 'Your choice for natural BEEF,' also at mid-distance and head height. Continue until you locate the 'Your choice for natural PORK' sign, which indicates the frozen pork. You can identify it by its texture, as it's likely to be cold and firm to the touch."
+  },
+  {
+    "image_id": 39,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh produce section\n  - Distance: Close (\u22483 steps)\n  - Height Band: Floor\n  - Objects: Bananas, tomatoes, cucumbers, cabbage\n\n- **Centre Sector**\n  - Name: Produce section\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Floor\n  - Objects: Various fruits and vegetables\n\n- **Right Sector**\n  - Name: Snack aisle\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Knee\n  - Objects: Snack boxes on shelves",
+    "answer": "Starting from your current position in the centre sector, move forward towards the fresh produce section, which is close and at floor level. As you approach, you'll notice the bananas; they have a round shape and a slightly cool texture. Once you reach the bananas, you can confirm their location by feeling their curvature and firmness. If needed, ask for assistance to select one."
+  },
+  {
+    "image_id": 40,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain watermelon cut. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Refrigerated section with beverages and snacks\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Produce section with fruits and vegetables\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Meat and deli section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the middle, approximately 7 steps. As you progress, you'll enter the refrigerated section with beverages and snacks. To locate the watermelon, look for a\u6e05\u51c9, pliable texture; it should be at your bottom right, within the height band of the floor. If you encounter any\u6e05\u51c9 and round objects, that's likely the watermelon ready for you to cut."
+  },
+  {
+    "image_id": 41,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain soymilk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various milk cartons\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Price tags and milk cartons\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Milk cartons\n  - Distance Category: Mid\n  - Height Band: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the milk cartons. As you approach, the soymilk, being in the close distance category and at the bottom height band, should be easily identifiable by its texture. If you encounter milk cartons, feel around for the ones labeled 'soymilk'; their rough surface will help you locate it. If you need further assistance, remember that the scene's left sector has various milk cartons, while the right sector also holds milk cartons, both at a mid-distance and knee-height level."
+  },
+  {
+    "image_id": 42,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Man in beige jacket and mask: close, head/above head\n  - Shopping cart with items: close, floor/knee\n\n- **Centre Sector**\n  - Man in dark jacket and cap: close, head/above head\n  - Grocery shelf with packaged goods: mid, waist/above head\n\n- **Right Sector**\n  - Grocery shelf with packaged goods: mid, waist/above head\n  - Shopping cart with items: close, floor/knee",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the right sector. As you walk, you'll notice the shopping cart with items on the floor, just at your knee level. After passing it, continue until you reach the grocery shelf with packaged goods, which is at your mid-height, around waist level. You can identify the noodles by their texture; they should feel smooth and slightly slimy, typically found in the pasta section."
+  },
+  {
+    "image_id": 43,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain instant noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Cardboard boxes stacked on the floor.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Floor.\n\n- **Centre Sector**\n  - Name: Various instant noodle packages on shelves.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Knee.\n\n- **Right Sector**\n  - Name: Instant noodle packages on shelves.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Knee.",
+    "answer": "Starting from your current position in the center sector, move forward towards the right sector, which is marked as mid-distance (approximately 7 steps). As you approach the shelves, you'll notice the instant noodle packages at your knee level. To locate them, focus on the texture, which should be the packaging material. Follow the path along the shelves until you feel the raised edges of the packets, indicating their presence. If needed, use your hands to confirm the shape and size before picking up the desired package."
+  },
+  {
+    "image_id": 44,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain paper towel household pack. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Diapers\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Shopping Cart\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Balloons\n  - Distance Category: Mid\n  - Height Band: Head",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the shopping cart. As you approach, you'll notice the Shopping Cart at your mid-height level, easily accessible. To locate the paper towel household pack, feel along the cart until your hand encounters a roll that's at the bottom height band, indicating its packaging. If needed, ask for assistance to confirm the texture and shape."
+  },
+  {
+    "image_id": 45,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain onion. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Green beans, radishes, carrots\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Centre Sector**\n  - Name: Tomatoes, cucumbers, eggplants, onions, corn, leafy greens\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Red cabbage, purple cabbage, tomatoes, cucumbers, corn, leafy greens\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre of the scene, move forward towards the left sector, which is marked as Middle distance (approximately 7 steps) and at your knee level. As you approach the vegetables, you'll come across a round, firm object. That's the onion; its texture feels smooth and slightly rough due to the skin. If needed, I can provide more specific guidance or identify other details."
+  },
+  {
+    "image_id": 46,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hami melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Bananas: \u22483 steps, knee height\n  - Apples: \u22487 steps, waist height\n  - Milk section: \u224812 steps, head height\n\n- **Centre Sector**\n  - Tomatoes: \u22483 steps, knee height\n  - Avocados: \u22487 steps, knee height\n  - Cantaloupe: \u224812 steps, knee height\n\n- **Right Sector**\n  - Mangoes: \u22483 steps, knee height\n  - Broccoli: \u22487 steps, knee height\n  - Carrots: \u224812 steps, knee height",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the milk section, approximately 12 steps, keeping your head height. As you pass the milk, feel for the low-hanging objects. Once you reach the tomatoes, which are at knee height, gently run your hand over them to locate the hami melon. It should be around the same height as the tomatoes, with a round shape and a slightly rough texture. If you encounter any difficulties, let me know, and I'll guide you further."
+  },
+  {
+    "image_id": 47,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Grocery shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Grocery shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Grocery shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Remember to pause and check your surroundings at each step for any snacks or other objects that might be within reach."
+  },
+  {
+    "image_id": 48,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh produce section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Fruit display\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Additional produce section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre sector, move forward towards the Fresh produce section, which is marked as Mid (approximately 7 steps away) and at your height level (on the floor). As you approach the fresh produce area, you'll notice a change in height; the bananas will feel cooler to touch due to their typical temperature. Follow the path along the left side until you reach the Fresh produce section. You should find the banana at your bottom right, easily identifiable by its smooth skin and slightly firm texture."
+  },
+  {
+    "image_id": 49,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bowls. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Display shelves with plates and bowls\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Shopping cart\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Cookware on display tables\n  - Distance Category: Mid\n  - Height Band: Waist",
+    "answer": "Starting from your current position in the centre sector, where the shopping cart is at a moderate distance (mid) and approximately at waist height, move forward towards the left sector. The Display shelves with plates and bowls are close, so you'll find them easily. As you approach, you can identify the bowls by their texture, which might be cool to the touch due to being made of ceramic or metal. If you need assistance, feel around the shelves until you locate a set of bowls; they should be at the bottom level."
+  },
+  {
+    "image_id": 50,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain canned food. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Canned goods on shelves\n  - Floor signs\n  - Mid (\u22487 steps)\n  - Floor\n\n- **Centre Sector**\n  - Stacked boxes of products\n  - Yellow promotional banners\n  - Far (\u224812 steps)\n  - Floor\n\n- **Right Sector**\n  - Instant noodles on shelves\n  - Red promotional banners\n  - Mid (\u22487 steps)\n  - Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the mid-point, approximately 7 steps. As you walk, you'll notice the canned goods on the shelves to your left. Once you reach that area, you can identify the cans by their texture, as they'll feel cool to touch due to the refrigeration. If needed, follow the floor signs for guidance."
+  },
+  {
+    "image_id": 51,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain office supplies. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Plastic stools\n  - Distance: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Shelves with stationery items\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Knee / Waist\n\n- **Right Sector**\n  - Name: Hanging items and wall-mounted display\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Waist / Chest",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the middle, approximately 7 steps. As you walk, you'll come across shelves filled with stationery items, marking the Centre Sector. To locate these supplies, you'll notice them at your knee or waist level. If you need to proceed further, remember that the Left Sector has plastic stools close by, approximately 3 steps away, which could be identified by their lightweight and flat surface. For any assistance, feel free to touch or follow the tactile cues provided by the items."
+  },
+  {
+    "image_id": 52,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various packaged goods on shelves\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Variety of snacks and beverages\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Assorted drinks and snacks\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the right sector, following these instructions: Start by stepping mid-distance, approximately 7 steps, keeping your focus on the right. As you progress, you'll notice a collection of snacks and beverages at your knee level, indicating the Right Sector. The items are within the middle distance category, making them easily accessible. To identify the beverages, pay attention to their texture \u2013 they will feel cool and smooth, typical of canned or bottled drinks."
+  },
+  {
+    "image_id": 53,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate favor cornmeal. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Various cereal boxes (e.g., Shreddies, Alpha Bites, Corn Flakes)\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Various cereal boxes (e.g., Frosties, Golden Grahams, Crunchy Nut)\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Various cereal boxes (e.g., Kellogg's products)\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is the centre of the scene, move forward towards the left sector. You'll find a collection of cereal boxes, primarily\u8fd1\u8ddd\u79bb, around the floor level, labeled as 'Various cereal boxes (e.g., Shreddies, Alpha Bites, Corn Flakes)' \u2013 these are in the Close distance category. Once you reach the left sector, look for the chocolate-flavored cornmeal; it has a distinct texture, typically grainy with a slightly sweet aroma. If you need assistance, feel the boxes' edges or shapes to locate the desired item."
+  },
+  {
+    "image_id": 54,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Checkout Counter\n  - Distance Category: Close\n  - Height Band: Waist\n\n- **Centre Sector**\n  - Name: Fruit Display\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Produce Section\n  - Distance Category: Mid\n  - Height Band: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the fruit display, keeping in mind it's at a mid-distance category and approximately at your knee level. As you approach the Fruit Display, you'll notice the Banana. It has a distinct shape, feel, and temperature. Look for a curved, slightly ribbed texture and a weight that's typical of a banana. If you encounter any difficulties, let me know, and I'll guide you further."
+  },
+  {
+    "image_id": 55,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bowls. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Signboards with prices and promotions: Close (\u22483 steps), Head\n  - Shoppers browsing items: Mid (\u22487 steps), Head\n  - Shopping carts: Mid (\u22487 steps), Floor\n\n- **Centre Sector**\n  - Person in checkered jacket: Close (\u22483 steps), Head\n  - Person in black top holding a bag: Close (\u22483 steps), Head\n  - Display of packaged goods on shelves: Mid (\u22487 steps), Floor\n  - Signboard with \"1800\" offer: Mid (\u22487 steps), Head\n\n- **Right Sector**\n  - Display of packaged goods on shelves: Mid (\u22487 steps), Floor\n  - Signboard with \"9.50\"",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the signboard with \"1800\" offer, approximately 3 steps. As you approach, you'll notice a shopping cart nearby, mid-ground, on the floor. After that, continue straight until you reach the display of packaged goods on shelves, marking the mid-point. The items here are likely to include bowls; you can identify them by their texture, as they are typically smooth and solid. If you need assistance further, feel free to say."
+  },
+  {
+    "image_id": 56,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Display shelves with packaged goods\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Centre Sector**\n  - Name: Wall-mounted flags\n  - Distance Category: Far (\u224812 steps)\n  - Height Band: Ceiling\n\n- **Right Sector**\n  - Name: Counter with stacked items and display boxes\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Waist",
+    "answer": "Starting from your current position in the centre sector, move forward towards the right sector, which is close and at a distance suitable for waist-height objects. As you approach the counter, you'll notice the stacked items and display boxes. The snacks are likely to be within reach, so focus on the texture and shape. If you encounter a box, it might be rectangular or square, and if there are snacks on a plate, they could be cool to the touch, indicating a\u51b7\u85cf item. Remember to pause and feel around before taking any action to confirm the location."
+  },
+  {
+    "image_id": 57,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Shelves with various products\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Display counter with items\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Shelves with kitchenware and containers\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre sector, move forward towards the display counter, which is approximately 7 steps away and at the floor level. As you approach the counter, you'll notice the basin at your bottom right. Its shape will be recognizable by its curvature and weight, providing a tactile identification."
+  },
+  {
+    "image_id": 58,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain zucchini. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - **Name**: Frozen food section\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Floor\n\n- **Centre Sector**\n  - **Name**: Fresh produce section\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Floor\n\n- **Right Sector**\n  - **Name**: Fresh produce section\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Floor",
+    "answer": "Starting from your current position in the center sector, which is marked as the mid-distance category (approximately 7 steps away) and located at the floor level, move towards the fresh produce section on your right. As you traverse, you will come across the zucchini; it has a cylindrical shape, so you can recognize it by its texture, which is firm and slightly ribbed. If needed, ask for assistance or follow any visual cues provided by staff or labels to locate the specific zucchini."
+  },
+  {
+    "image_id": 59,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen chicken. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - **Name**: Customer in white shirt and jeans\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Waist\n\n- **Centre Sector**\n  - **Name**: Worker in blue uniform and cap\n  - **Distance Category**: Close (\u22483 steps)\n  - **Height Band**: Knee\n\n- **Right Sector**\n  - **Name**: Display case with meat products\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Floor",
+    "answer": "Starting from your current position in the center sector, move forward towards the right sector, which is marked as having frozen chicken. Given the distance category is mid, approximately 7 steps, you'll traverse the middle ground. As you approach, you will notice the texture of the floor, which might indicate cold surfaces due to the frozen items. Once you reach the display case, you should be able to identify the frozen chicken by its cold temperature and perhaps its shape, if not specified in the image. If the worker in the blue uniform and cap is within reach, they might be able to provide further assistance or guidance."
+  },
+  {
+    "image_id": 60,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Red promotional stand with text and images\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Display of toy figures stacked on boxes\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Snack section with shelves stocked with products\n  - Distance Category: Far (\u224812 steps)\n  - Height Band: Waist",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the snack section. As you traverse, you'll notice the distance is marked as mid, approximately 7 steps. Look for the right-hand side; the Snack section is located there. Its height level is at waist level, so you can identify it by the texture of the shelves and the weight of the products. Proceeding to the right, you'll come across the snack section with its stocked products."
+  },
+  {
+    "image_id": 61,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain ham. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Grocery shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Red promotional banner\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Waist\n  - Name: Red gift boxes\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: \"SKIN CARE\" sign\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Chest\n  - Name: Green exit sign\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Head",
+    "answer": "Starting from your current position in the centre sector, move forward towards the grocery shelves, which are labeled as Mid (approximately 7 steps away). As you walk, focus on the floor level, as that's the height band mentioned. Once you reach the shelves, locate the ham by feeling its texture, which should be firm and cold, typical of fresh meat. If you need assistance, the item will be at your right hand side. Remember to follow the path described, ensuring a clear route."
+  },
+  {
+    "image_id": 62,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - **Salient Object**: Refrigerated section with beverages and snacks.\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Floor\n\n- **Centre Sector**\n  - **Salient Object**: Fresh produce section including vegetables and fruits.\n  - **Distance Category**: Close (\u22483 steps)\n  - **Height Band**: Floor\n\n- **Right Sector**\n  - **Salient Object**: Shelves stocked with packaged goods and snacks.\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the fresh produce section, approximately 3 steps away. As you approach, you will notice the vegetables at your close height band, typically on the floor. They have a recognizable texture \u2013 firm and crisp for most greens, and smoother for tomatoes or cucumbers. If needed, feel around for their rounded or tuberous shapes to identify them."
+  },
+  {
+    "image_id": 63,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Juice boxes, milk cartons\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Centre Sector**\n  - Name: Snacks (chips, cookies)\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Jars of pickles, snacks\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector, taking about 7 steps, keeping your focus on the knee-height level. On your left, you will find the rows of juice boxes and milk cartons. Once you reach that area, look for the texture of the packaging, which should be cardboard or plastic, to identify the chips. If needed, ask for assistance to locate the specific brand or type you're looking for."
+  },
+  {
+    "image_id": 64,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Shelves with various imported food products\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Signboard reading \"Import Food\"\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: More shelves stocked with imported food items\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the signboard reading 'Import Food'. This action takes you approximately 7 steps, placing you in the middle distance category. As you reach the sign, you'll notice the text at waist height. After that, turn right 90 degrees to access the right sector. In this sector, you'll find shelves stacked with imported food items, where your beverages are likely to be located. To identify them, you can focus on their texture, as they would be cool to the touch due to being stored on shelves."
+  },
+  {
+    "image_id": 65,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Bread shelves\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Wall display\n  - Distance Category: Mid\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: Bread display case\n  - Distance Category: Mid\n  - Height Band: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move towards the left sector. The bread shelves are described as being close, so you'll be moving approximately at waist height. As you approach, you'll notice the texture of the bread, feeling its roughness or smoothness. Once you reach the shelves, locate the bread display; it's at your feet, providing a solid touch. If you need assistance, the bread is typically in a stack or loaf form, so you can identify it by its weight and shape."
+  },
+  {
+    "image_id": 66,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Plastic baskets and containers\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Plastic bowls and containers\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Plastic containers and baskets\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector, approximately 7 steps. As you approach the plastic baskets and containers, you'll notice a change in height, indicating the transition. The basin is likely to be on the floor, so look out for a colder, smoother surface that might be a basin. If you encounter any raised items, they could be the handles or edges; feel around to confirm its shape and size. Once you locate the basin, you can identify it by its texture and size."
+  },
+  {
+    "image_id": 67,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Eggplants\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Broccoli\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Peppers\n  - Distance Category: Close\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the scene. As you move, you'll notice the cabbage, classified as 'Close' and within the 'Floor' height band. It's located to your right. To identify it, you can feel its firm texture and confirm its round shape."
+  },
+  {
+    "image_id": 68,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated meat. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - People shopping \u22483 steps away\n  - Floor level\n\n- **Centre Sector**\n  - Packaged meat products \u22487 steps away\n  - Knee level\n  - Price tags \u22487 steps away\n  - Knee level\n\n- **Right Sector**\n  - More packaged meat products \u22487 steps away\n  - Knee level\n  - Price tags \u22487 steps away\n  - Knee level",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the packed meat products, approximately 7 steps. As you walk, keep in mind that the scene is at floor level. When you reach the knee level area, you will find the refrigerated meat. You can identify it by its cold temperature, which will feel cooler than the surrounding environment. If you need assistance, the items will have a firm texture and a distinct chill to them. Remember to stay aware of people shopping nearby, who are approximately 3 steps away."
+  },
+  {
+    "image_id": 69,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack shelves\n  - Distance: Close (\u22483 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Aisle\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Toy shelves\n  - Distance: Close (\u22483 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the snack shelves, approximately 7 steps away. As you approach, you'll notice the height band is at the floor level. On your left, you'll find the snack shelves, close and easily reachable. To locate the snacks, you can identify them by their texture, as they are likely to be packaged in a familiar, snack-like material."
+  },
+  {
+    "image_id": 70,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Snack shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Snack shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre sector, move forward towards the snack shelves, which are indicated as Mid (approximately 7 steps away). As you approach, you'll find the chips at the bottom height band, typically on the floor. The pathway is clear, ensuring a smooth journey. To locate the chips, you can focus on the texture, feeling for a rough or crunchy surface, or if they're in a container, you might recognize the weight or shape."
+  },
+  {
+    "image_id": 71,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain champagne. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Beverage shelves\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Beverage aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Wine bottles\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the center sector, move forward towards the beverage aisle, which is indicated as the Middle (approx. 7 steps) distance category and at your floor height. As you approach, you'll notice the left sector, where the Beverage shelves are located. To locate champagne, you should look for a cooler or a display stand, which might have the cold bottles. The texture of champagne bottles is typically cool and smooth, so you can identify them by touch. If needed, ask for assistance to feel the bottles for their shape and chilliness."
+  },
+  {
+    "image_id": 72,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Blue shopping basket: close, floor\n  - Person in black jacket: far, head\n\n- **Centre Sector**\n  - Grocery shelves with various products: close, floor\n  - Price tags on shelves: close, floor\n  - Ceiling lights and ventilation system: far, head\n\n- **Right Sector**\n  - BN cereal boxes: close, floor\n  - BN cereal boxes: close, floor\n  - BN cereal boxes: close, floor\n  - BN cereal boxes: close, floor\n  - BN cereal boxes: close, floor\n  - BN cereal boxes: close, floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the middle. As you advance, you'll notice the grocery shelves with various products close to the floor. To locate the biscuits, feel for the items, starting from the bottom, where the price tags are typically placed. If you encounter any packaging, the texture will help you identify them. If you need assistance, the items will be within reach or at a distance that allows for tactile identification. Stay cautious and don't forget to check your surroundings for any nearby Blue shopping baskets, as they might be holding the biscuits."
+  },
+  {
+    "image_id": 73,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate favor biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Aisle Center\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre sector, move forward towards the snack aisle, which is marked as Mid (approximately 7 steps) and at the floor level. As you approach the left sector, you'll find the Snack Aisle. To locate the chocolate favor biscuits, they are typically round and have a smooth, slightly cool texture. If you come across any packaging, feel the ridges and embossed patterns to identify them. Keep going until you reach the desired item."
+  },
+  {
+    "image_id": 74,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Bananas\n  - Price sign (close, floor)\n  - Cardboard boxes (mid, floor)\n  - Person walking (far, waist)\n\n- **Centre Sector**\n  - Fruits in crates (close, floor)\n  - Price signs (close, floor)\n  - Refrigerator (mid, floor)\n  - Bread display (far, floor)\n\n- **Right Sector**\n  - Bread display (close, floor)\n  - Refrigerator (mid, floor)\n  - Wall (far, head)",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the fruits in crates. As you approach, you'll notice the crates are close to the floor and have a mid-distance tag. The fruits should feel soft and have a familiar fruit texture. If you need assistance, they're at your bottom right. For the price signs, they are close and on the floor, providing auditory cues for touch. Remember to keep your eyes on the scene as you navigate."
+  },
+  {
+    "image_id": 75,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Cardboard boxes stacked on the left side.\n  - Distance Category: Close (\u22483 steps).\n  - Height Band: Floor.\n\n- **Centre Sector**\n  - Name: Snack shelves stocked with various products.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Knee.\n\n- **Right Sector**\n  - Name: Additional snack shelves filled with products.\n  - Distance Category: Mid (\u22487 steps).\n  - Height Band: Knee.",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the snack shelves, keeping in mind they are at a mid-distance, approximately 7 steps away. As you approach, you'll notice the height band is at your knee level. On your left, you'll find a stack of cardboard boxes, classified as close, about 3 steps away. To locate the biscuits, look for a change in texture or shape, indicating the desired snack item. If you need assistance, feel free to say, and I'll provide further guidance."
+  },
+  {
+    "image_id": 76,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: PX MART Sign\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Head\n  - Name: Canned Goods Display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the center sector, move forward towards the snack aisle, which is marked as 'Mid' and located at approximately 7 steps away. As you walk, focus on the floor level, as the height band is specified as 'Bottom'. Once you reach the snack aisle, look for a visual or tactile cue that indicates the chips. If not immediately visible, continue walking until you come to the 'PX MART Sign', which is 'Close' and at head level, serving as a reference point. After that, turn right 90 degrees to proceed towards the canned goods display, also classified as 'Mid' and situated at a knee-level height. Keep an eye out for the chips or ask for assistance to locate them based on the texture or shape."
+  },
+  {
+    "image_id": 77,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated pork. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - **Name**: Stroller with child\n  - **Distance Category**: Close (\u22483 steps)\n  - **Height Band**: Floor\n\n- **Centre Sector**\n  - **Name**: Grocery shelves\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Knee\n\n- **Right Sector**\n  - **Name**: Packaged meat products\n  - **Distance Category**: Mid (\u22487 steps)\n  - **Height Band**: Knee",
+    "answer": "Starting from your current position, which is in the centre sector, move towards the right. You'll find the packaged meat products, approximately 7 steps away and at your knee level. Follow the path along the shelves. As you reach the right sector, you'll notice the refrigerated pork; it has a cool temperature and a dense texture, making it easy to identify by touch."
+  },
+  {
+    "image_id": 78,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Bread display\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Signage with prices\n  - Distance Category: Mid\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: Large window\n  - Distance Category: Far\n  - Height Band: Head",
+    "answer": "Starting from your current position, which is in the centre sector, move towards the 'Bread display' in the left sector. This is a close distance, so you'll be able to reach it easily. As you approach, you'll notice the bread; it has a typical loaf shape, cool to the touch, and a solid texture. If needed, I can provide more specific details or guidance."
+  },
+  {
+    "image_id": 79,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain family pack rice. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n  - Name: Plastic Bags with Food Items\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Knee\n\n- **Centre Sector**\n  - Name: Doorway\n  - Distance Category: Far (\u224812 steps)\n  - Height Band: Head\n  - Name: Red Banner with Chinese Characters\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Head\n\n- **Right Sector**\n  - Name: Snack Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n  - Name: Snack Packages on Sh",
+    "answer": "Starting from your current position in the center sector, move forward towards the snack aisle, which is marked as Mid and close, approximately 3 steps away. As you walk, you'll notice the plastic bags with food items at your knee level, indicating the height band. Once you reach the snack aisle, look for the family pack rice; it should be within reach or at a lower height, possibly on the floor. If you encounter any obstacles or need assistance, feel free to touch the surface to identify texture or temperature, and I'll guide you further."
+  },
+  {
+    "image_id": 80,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Lay's chips (various flavors)\n  - Close (\u22483 steps)\n  - Floor\n\n- **Centre Sector**\n  - Man reaching for a snack\n  - Mid (\u22487 steps)\n  - Waist\n\n- **Right Sector**\n  - Shopping cart\n  - Far (\u224812 steps)\n  - Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector. As you approach, you'll notice Lay's chips close by, approximately three steps away. They are on the floor; their texture will be crispy and slightly cool to the touch. Remember, the chips are located in the 'Close' area."
+  },
+  {
+    "image_id": 81,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Shopping cart with items \u22483 steps away, floor level\n  - Yellow line on the floor \u22487 steps away, floor level\n\n- **Centre Sector**\n  - Man in blue suit \u22487 steps away, knee level\n  - Green shopping bag \u22487 steps away, floor level\n  - Signage on the wall \u224812 steps away, head level\n\n- **Right Sector**\n  - Man in beige shirt \u22483 steps away, knee level\n  - Shopping basket \u22483 steps away, floor level\n  - Wine bottles \u22487 steps away, floor level\n  - Information board \u22487 steps away, waist level",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the right sector. As you walk, you'll notice the shopping basket at your feet, indicating proximity. After approximately three steps, you'll come across the man in a beige shirt, who's at knee level. Keep going; the red wine bottles are just ahead, about three steps more. Their cold, metallic texture should be distinguishable as you approach. If needed, you can also rely on the cold surface and the weight of the bottles for confirmation. The wine is located at the right sector, waist level, close to the information board."
+  },
+  {
+    "image_id": 82,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tomato. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Bananas: \u22483 steps, waist height\n  - Garlic: \u22483 steps, knee height\n  - Tomatoes: \u22487 steps, waist height\n\n- **Centre Sector**\n  - Tomatoes: \u22483 steps, waist height\n  - Cucumbers: \u22487 steps, waist height\n  - Peppers: \u22487 steps, waist height\n  - Cabbage: \u22487 steps, waist height\n\n- **Right Sector**\n  - Cucumbers: \u22483 steps, waist height\n  - Cabbage: \u22483 steps, waist height\n  - Pickles: \u22487 steps, waist height\n  - Shelves with products: \u22487 steps,",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the tomatoes. They are approximately 3 steps away, at waist height. As you approach, you'll notice them by their weight and texture; they feel firm and slightly round. If needed, ask for assistance to locate the exact one."
+  },
+  {
+    "image_id": 83,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - **Name:** Fresh produce display\n  - **Distance Category:** Mid (\u22487 steps)\n  - **Height Band:** Floor\n\n- **Centre Sector**\n  - **Name:** Aisle with refrigerated sections\n  - **Distance Category:** Far (\u224812 steps)\n  - **Height Band:** Floor\n\n- **Right Sector**\n  - **Name:** Fruit display\n  - **Distance Category:** Mid (\u22487 steps)\n  - **Height Band:** Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector, following the description. This sector is labeled as 'Fresh produce display' and is classified as mid-distance, approximately 7 steps away. As you approach, you'll notice the height is at the floor level. Once you reach the fresh produce area, you can identify the refrigerated fruits by their cool temperature and smooth texture. If needed, I'll provide additional guidance on identifying specific items."
+  },
+  {
+    "image_id": 84,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain gun mug. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Mugs and Cups\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Kitchenware Display\n  - Distance Category: Mid\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Cookware and Storage Containers\n  - Distance Category: Close\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move towards the left sector. The distance is marked as 'Close' and within the 'Floor' height band. You'll find the 'Mugs and Cups' area. Once there, look for the gun mug; it should have a distinct texture, typically with a handle and a solid, ridged surface for a better grip. If you need further assistance, feel the curvature or shape of the mugs to locate it."
+  },
+  {
+    "image_id": 85,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh fruits in baskets\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Refrigerated display of fruits and vegetables\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Signboard with Chinese text\n  - Distance Category: Mid\n  - Height Band: Waist",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the mid-distance area. As you approach the 'Refrigerated display of fruits and vegetables', you will notice its height level at your waist level. To reach the refrigerated section, follow the pathway that goes down. On your left, you'll find the 'Fresh fruits in baskets' at a close distance, ideal for touch exploration. Remember, the signboard with Chinese text is located to your right, at a mid-height level, providing a visual reference point during your journey."
+  },
+  {
+    "image_id": 86,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain celery. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh Produce Section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Refrigerated Produce Section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Frozen Food Section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, move forward towards the Fresh Produce Section, which is marked as Mid and situated at approximately 7 steps away. As you walk, you'll notice the height is at the floor level. Once you reach the section, look for celery; it has a distinctive texture, cold to the touch, and a straight, celery-like shape. If needed, follow the smooth pathway and avoid any obstacles along the way."
+  },
+  {
+    "image_id": 87,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain carrots. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh Produce Display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Refrigerated Section\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre sector, move forward towards the Fresh Produce Display, which is marked as Mid (approximately 7 steps away). As you approach, you'll notice the height is at the floor level. Once you reach the display, you'll find the carrots; they have a firm texture and a typical carrot shape. If you need further assistance, feel free to ask for specific locations within the display."
+  },
+  {
+    "image_id": 88,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain orange. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Fresh fruits and vegetables in baskets\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Fresh fruits and vegetables in baskets\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Fresh fruits and vegetables in baskets\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector, taking about 7 steps. As you approach the basket with fresh fruits and vegetables, you will notice the texture of theBasket Baskets, typically rough and fibrous. Look for a raised pattern or a slight indentation that indicates the presence of an orange. It should be at the bottom level, fitting within the height band specified. If you encounter any obstacles, feel around gently to locate the round, slightly firm, and cold object representing the orange."
+  },
+  {
+    "image_id": 89,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain orange. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Pasta packets\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n  - Name: Bread packets\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Centre Sector**\n  - Name: Orange crate\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Waist\n  - Name: Plastic bags\n  - Distance Category: Close (\u22483 steps)\n  - Height Band: Waist\n  - Name: Chocolate bars\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Spices and condiments\n  - Distance Category: Mid (\u22487 steps",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector. You'll find the pasta packets at a distance approximately equivalent to your mid-step level, around your knee height. After that, turn right 90 degrees to access the right sector. In this sector, you'll come across the Plastic bags, also close to waist height, and as you continue, you'll locate the Chocolate bars at a mid-step distance, suitable for your knee height band. Remember, the Orange crate is the closest object, just a few steps away and at waist height. To identify the orange, focus on its round shape and cool texture."
+  },
+  {
+    "image_id": 90,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tissue paper. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Beverage Display\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Aisle\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Toilet Paper Stacks\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, move forward towards the beverage display, which is in the left sector. This step is approximately 7 steps away and at the floor level. Once you reach the display, you'll notice the tissue paper stacks, indicated as 'Toilet Paper Stacks' in the right sector. They're in the mid-distance category, meaning they're not too close or far. To locate the tissue paper, you can focus on the texture, as it's typically rougher than other items in an aisle."
+  },
+  {
+    "image_id": 91,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hemi melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Bananas: \u22485 steps, knee\n  - Mop: \u22483 steps, floor\n  - Fruit display: \u224810 steps, head\n\n- **Centre Sector**\n  - Melons: \u22484 steps, knee\n  - Signboard: \u22488 steps, head\n  - People shopping: \u22486 steps, head\n\n- **Right Sector**\n  - Shopping cart: \u22482 steps, knee\n  - Green sign: \u22489 steps, head\n  - Staff cleaning: \u22487 steps, head",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the right sector. You will find the shopping cart approximately 2 steps away, at your knee level. After that, turn slightly right, about 45 degrees, to approach the green sign, which should be about 9 steps away, directly ahead. As you reach the sign, you'll notice the staff cleaning, about 7 steps to your left. Keep walking until you sense a melon, which should be around 4 steps further, at your knee height. This fruit should have a round shape and a slightly rough texture, indicating a melon."
+  },
+  {
+    "image_id": 92,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain pineapple. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Pineapple\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Oranges in net bags\n  - Distance Category: Mid\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Kiwi fruits\n  - Distance Category: Mid\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre of the scene, move forward towards the left sector. As you approach the Pineapple, which is classified as Close and at the floor level, you can feel its round shape through touch. Once you reach it, make a mental note of its location. Then, turn right 90 degrees to move into the centre sector. Here, you'll find the oranges in net bags, identifiable by their\u7f51\u72b6 texture and mid-range height, around your knee level. Remember to keep your path clear as you continue."
+  },
+  {
+    "image_id": 93,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Refrigerated section with beverages and snacks\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Aisle with shelves stocked with various products\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Snack aisle with chips and other packaged goods\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector, approximately 7 steps. As you approach the refrigerated section, you'll notice the milk, typically cold to the touch, located at the bottom height band. It's a rectangular container, so you can identify its shape by its edges. If needed, feel around the cooler to locate the specific carton."
+  },
+  {
+    "image_id": 94,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cherry. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Stacks of packaged berries\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Display of fresh fruits and vegetables\n  - Distance Category: Mid\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: Signage with sale information\n  - Distance Category: Mid\n  - Height Band: Chest",
+    "answer": "Starting from your current position in the centre sector, move forward towards the display of fresh fruits and vegetables, which is at a moderate distance, approximately waist height. As you approach, you'll notice the sign with sale information to your right, at a mid-range distance, around chest level. To locate the cherries, look for a stack of packaged berries; they should be close to you, at the bottom height band, providing a familiar texture for touch identification."
+  },
+  {
+    "image_id": 95,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain sparkling water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Grocery shelves with various products\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Centre Sector**\n  - Name: Refrigerator units\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee\n\n- **Right Sector**\n  - Name: Beverage bottles and boxes\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Knee",
+    "answer": "Starting from your current position in the centre sector, move forward towards the grocery shelves, which are indicated as the Left Sector. Follow the mid-distance category, approximately 7 steps, keeping your focus on knee-level items. Once there, you'll find the shelves stacked with various products. If you need assistance, the sparkling water can be identified by its\u6e05\u51c9 texture and typical plastic bottle shape. If you encounter any difficulties, let me know, and I'll guide you further."
+  },
+  {
+    "image_id": 96,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Refrigerated section with various products\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Display of snacks and candies\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist\n\n- **Right Sector**\n  - Name: SpongeBob SquarePants themed products\n  - Distance Category: Mid (\u22487 steps)\n  - Height Band: Waist",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the left sector, approximately 7 steps. As you approach the refrigerated section, you'll notice the cool temperature through the texture of the cold metal shelves. The chips should be located at the bottom height band, where you can identify them by their flat, crisp texture. Once you reach the desired area, you can say, \"The chips are at my bottom right.\"."
+  },
+  {
+    "image_id": 97,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain corncob. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Eggplants\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Cauliflower, Corn, Green Peppers\n  - Distance Category: Close\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Various Fruits and Vegetables\n  - Distance Category: Mid\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre of the scene, move forward towards the mid-sector. As you walk, you'll notice the cauliflower and green peppers at your feet, both classified as close and on the floor. After passing these, look for the corn; it's in the same distance category and height band. To locate the corncob, it should be either to your right or left, providing a tactile identification through its shape or texture. If you need further assistance, feel free to specify which direction you think it might be."
+  },
+  {
+    "image_id": 98,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain kiwifruit. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Stacks of boxes with produce (close, floor)\n  - Shopping cart (mid, floor)\n  - Person pushing cart (mid, waist)\n  - Signage on ceiling (far, above head)\n\n- **Centre Sector**\n  - Produce display (close, floor)\n  - Signage on ceiling (mid, above head)\n  - People shopping (mid, waist)\n  - Signage on wall (far, above head)\n\n- **Right Sector**\n  - Produce display (close, floor)\n  - Shopping cart (mid, floor)\n  - Signage on wall (mid, above head)\n  - People shopping (mid, waist)\n  - Signage on ceiling (far, above head)",
+    "answer": "Starting from your current position, which is in the centre sector, move forward towards the closest produce display, keeping in mind that the kiwifruits will be on the floor. As you approach, you'll notice the smoothness of the fruit, slightly round and firm to the touch. If you encounter a stack of boxes, gently lift one to feel the weight and texture of the kiwis. If you need assistance, the shopping cart is in the mid-range, so you can use it as a reference for height. Remember to avoid the people shopping around you, but don't hesitate to ask for help if needed. Once you locate the kiwifruits, you can identify them by their fuzzy skin and slightly sweet aroma."
+  },
+  {
+    "image_id": 99,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain Danish cookie. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "- **Left Sector**\n  - Name: Snack shelves\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Centre Sector**\n  - Name: Snack shelves\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Floor\n\n- **Right Sector**\n  - Name: Snack shelves\n  - Distance: Mid (\u22487 steps)\n  - Height Band: Floor",
+    "answer": "Starting from your current position in the centre sector, move forward towards the snack shelves, which are at a mid-distance, approximately 7 steps away. As you walk, focus on the floor height band, which is marked as 'Floor'. When you reach the left sector, turn 90 degrees to your right. The Snack shelves are present in all three sectors, so you'll find them easily. Keep in mind that the item you need, the Danish cookie, will be identified by its texture, so pay attention to any distinct change in surface feel as you explore."
+  }
+]

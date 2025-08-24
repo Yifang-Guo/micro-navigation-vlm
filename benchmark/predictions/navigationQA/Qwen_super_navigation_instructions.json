@@ -1,0 +1,502 @@
+[
+  {
+    "image_id": 0,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain soy sauce. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the soy sauce is located on the right side of the display. It's in the upper section of the rack, and there are several bottles of soy sauce with labels that appear to be in Chinese characters. The bottles are dark-colored, which typically indicates soy sauce. You can feel for the labels and the shape of the bottles to identify them."
+  },
+  {
+    "image_id": 1,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen items. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the frozen items are located on the right side of the aisle. You can identify them by the refrigerated units labeled \"KIKUSUSHI.\" These units are designed to keep food items at a low temperature, which is typical for frozen products.\n\nTo locate the frozen items:\n1. Move towards the right side of the aisle.\n2. Look for the refrigerated units with the \"KIKUSUSHI\" label.\n3. The frozen items will be stored inside these units.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 2,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain apple. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the apples are located in the middle section of the fruit display. They are part of a larger arrangement that includes various fruits such as oranges, bananas, and grapes. The apples are greenish-yellow in color and are situated among other fruits.\n\nTo locate them tactually:\n1. Move your hand along the fruit display from left to right.\n2. As you reach the middle section, feel for the greenish-yellow fruits. They should be relatively smooth and firm to the touch.\n3. You might need to move your hand slightly back and forth to find the exact spot where the apples are placed.\n\nIf you have any further questions or need more guidance, feel free to ask!"
+  },
+  {
+    "image_id": 3,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! In the image, the cabbage is located on the right side of the vegetable section. It's placed on the lower shelf, which is closest to the ground. The cabbage is green and appears to be arranged in a pile with other vegetables like lettuce and possibly some red bell peppers nearby. You can feel for the cabbage by touching the lower shelf where the vegetables are displayed."
+  },
+  {
+    "image_id": 4,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain leaf vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the leaf vegetables are located towards the center of the image, on the right side of the vegetable section. They are displayed on a table with a dark patterned cloth covering it. The leaf vegetables include items like lettuce, spinach, and possibly kale or collard greens.\n\nTo locate them more precisely:\n1. Move towards the center-right area of the image.\n2. Look for the table covered with a dark patterned cloth.\n3. The leaf vegetables will be on this table, likely in wooden crates or baskets.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 5,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bread section is located on the left side of the bakery display. Here\u2019s how you can navigate to it:\n\n1. **Identify the Bread Section**: The bread section is the area with various types of bread displayed on shelves. It includes items like baguettes, loaves, rolls, and other baked goods.\n\n2. **Locate the Bread**: Once you are in front of the bread section, look for the specific type of bread you want. If you need help identifying the bread, you can ask someone nearby or use your sense of smell to identify the different types.\n\n3. **Access the Bread**: If the bread is not accessible due to the glass display, you might need to ask an employee for assistance. They can open the display for you so you can touch and feel the bread before making a selection.\n\n4. **Purchase**: Once you have selected the bread, proceed to the checkout counter where you can pay for your purchase.\n\nIf you need further assistance or have any questions about the bread, feel free to ask!"
+  },
+  {
+    "image_id": 6,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen meat. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the frozen meat section is located at the bottom of the display case. Here\u2019s how you can locate it:\n\n1. **Identify the Display Case**: The image shows a long, horizontal display case with glass panels on top. This is where the frozen meat is stored.\n\n2. **Locate the Bottom Section**: The frozen meat is typically stored in the lower part of these display cases. In this image, the lower section appears to be the area where the frozen meat is kept.\n\n3. **Access the Frozen Meat**: You should be able to reach into the lower section of the display case to access the frozen meat. There might be a small door or a pull-out section that allows you to open it.\n\n4. **Check for Labels**: Look for any labels or signs indicating which section contains the frozen meat. These are usually placed on the glass panels or the front of the display case.\n\n5. **Safety Precautions**: Since you mentioned being visually impaired, ensure that you have someone with you who can assist you in navigating the store and opening the display case safely.\n\nIf you need further assistance or have more questions, feel free to ask!"
+  },
+  {
+    "image_id": 7,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain watermelon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the watermelons are located on the lower shelves of the produce section. They are placed in boxes with a green label that has white text on it. The watermelons are round and have a green rind. You can feel for the smooth, rounded shape and the characteristic green color to identify them. If you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 8,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottle of water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bottles of water are located on the left side of the aisle. They are arranged in rows on shelves that are clearly visible. Here\u2019s how you can locate them:\n\n1. **Start at the entrance**: Begin at the entrance of the aisle where the shelves start.\n2. **Follow the aisle**: Move along the aisle towards the left side.\n3. **Identify the bottles**: The bottles of water will be on the left side of the aisle, stacked neatly on the shelves.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 9,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottled water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bottled water is located on the lower shelves of the display unit. Here\u2019s how you can find it:\n\n1. **Identify the Display Unit**: The display unit is the large metal shelving unit with multiple levels.\n2. **Locate the Bottled Water**: On the lower shelves of this unit, you will see several rows of plastic bottles. These are the bottled water.\n3. **Tactile Cues**:\n   - **Shape**: The bottles are typically clear or light-colored plastic containers with caps.\n   - **Arrangement**: They are arranged in neat rows, often with labels facing forward for easy reading.\n   - **Position**: They are positioned at the bottom level of the display unit.\n\nYou should be able to locate them by feeling for the shape and arrangement of the items on the lower shelves. If you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 10,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bread is displayed on the shelves and tables in the bakery. Here\u2019s how you can locate it:\n\n1. **Identify the Bread Section**: The bread is arranged on multiple shelves and tables in the center of the bakery.\n2. **Locate the Shelves**: There are several shelves filled with different types of bread. Some are on the left side, some in the middle, and others on the right side of the image.\n3. **Point of Interest**: The bread appears to be neatly arranged and clearly visible. You can start by touching the edges of the shelves or tables where the bread is displayed.\n\nIf you need more specific guidance, let me know which type of bread you're interested in, and I can help you locate it more precisely."
+  },
+  {
+    "image_id": 11,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tomatoes. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the tomatoes are located in the lower right section of the vegetable display. They are placed in a black plastic crate and are surrounded by other vegetables like cucumbers and leafy greens. The tomatoes appear to be red and are arranged neatly within the crate.\n\nTo locate them more precisely:\n1. Move your hand towards the lower right area of the image.\n2. Feel for the black plastic crate that contains the tomatoes.\n3. Once you find the crate, you should be able to identify the tomatoes by their texture and color.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 12,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain daily necessities. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, it appears that the section with the promotional signs is where you can find daily necessities. Here's how you can navigate:\n\n1. **Identify the Promotional Signs**: The signs with \"Promotion\" written on them are typically placed over areas where daily necessities are displayed. These signs often indicate discounts or special offers.\n\n2. **Locate the Section**: In this image, there are several shelves with various products. The promotional signs are hanging above these shelves. You should focus on the area directly below these signs as they likely contain daily necessities.\n\n3. **Check for Everyday Items**: Look for items like:\n   - Bottled water\n   - Snacks\n   - Personal care products (toothpaste, soap)\n   - Cleaning supplies\n   - Small household items\n\n4. **Move to the Right**: If you're not sure which shelf contains what, move to the right side of the image. There are more shelves with similar items.\n\n5. **Use Your Hands**: As you move along the shelves, gently touch the items to feel their size and shape. This will help you identify what might be daily necessities.\n\n6. **Ask for Assistance**: If you need further guidance, don't hesitate to ask someone nearby for assistance.\n\nBy following these steps, you should be able to locate the daily necessities you're looking for."
+  },
+  {
+    "image_id": 13,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen fish. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the frozen fish section is located in the lower part of the display case with the glass doors. Here\u2019s how you can locate it:\n\n1. **Identify the Display Case**: The display case with glass doors is the one closest to you in the foreground of the image.\n2. **Locate the Frozen Fish Section**: The frozen fish section is at the bottom of this display case. You can see images of different types of fish on the front of the case, which indicates that these are the items available for purchase.\n3. **Access the Section**: Since the case has glass doors, you will need to open them to access the frozen fish.\n\nIf you have any further questions or need assistance with anything else, feel free to ask!"
+  },
+  {
+    "image_id": 14,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain boxed milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the boxed milk is located on the middle shelves of the refrigerated section. Here's how you can find it:\n\n1. **Identify the Middle Shelves**: The middle shelves are the ones that are slightly higher than the bottom shelf but lower than the top shelf.\n\n2. **Locate the Milk Boxes**:\n   - On the left side of the middle shelves, there are boxes labeled \"Greenfields\" which appear to be milk.\n   - In the center of the middle shelves, there are boxes with red and white labels, which also seem to be milk.\n   - On the right side of the middle shelves, there are more boxes with green and white labels, which might also be milk.\n\n3. **Check for Labels**: Look for the labels that indicate milk products. They often have images of cows or milk bottles on them.\n\n4. **Feel for Texture**: Milk boxes typically have a smooth texture compared to other items like juice boxes or coffee containers.\n\n5. **Read the Labels**: If possible, read the labels to confirm they are milk products.\n\nBy following these steps, you should be able to locate the milk boxes on the middle shelves."
+  },
+  {
+    "image_id": 15,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the chips are located on the right side of the aisle. They are displayed on shelves that are part of a larger section labeled \"Scene.\" The chips are arranged in bags and are positioned on the lower shelves of this section. You can feel for the bags as they are typically stacked in a way that makes them easy to reach and identify by touch. If you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 16,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bulk snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bulk snacks are located in the central area of the store. Here's how you can navigate to them:\n\n1. **Identify the Area**: The central area is filled with various snack items displayed on shelves and in boxes. These are likely the bulk snacks.\n\n2. **Locate the Orange Boxes**: There are orange boxes in the center of the image that appear to be part of a promotional display for snacks. These could be where you find bulk snacks.\n\n3. **Check the Signs**: Look for signs that indicate \"bulk snacks\" or \"snacks.\" These signs might be on the boxes or on the shelves above them.\n\n4. **Move Towards the Center**: If you're currently standing near the edge of the store, move towards the center where the bulk snacks are displayed.\n\n5. **Inspect the Items**: Once you reach the central area, look closely at the items on the shelves and in the boxes. You should see a variety of snack items that are typically sold in bulk.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 17,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! The image shows a section of a store with various snack items displayed on shelves. Here's how you can locate the chips:\n\n1. **Identify the Section**: Look for the area labeled \"ASIAN SEASONAL\" at the top left of the image. This is likely where the Asian snacks, including chips, are displayed.\n\n2. **Locate the Chips**: In this section, you'll see shelves filled with different types of snacks. The chips are typically packaged in bags or boxes and are usually arranged in a way that makes them easy to spot. They are often placed on the upper shelves or in the front rows.\n\n3. **Tactile Cues**:\n   - **Texture**: The chips are usually in bags or boxes that have a distinct texture compared to other items like cookies or crackers.\n   - **Color**: The bags of chips often have bright colors like red, yellow, or green, which stand out against the darker background of the shelves.\n   - **Arrangement**: They are usually stacked neatly and prominently displayed, making them easier to find.\n\n4. **Navigate**: Move your hand along the shelves, feeling for the items that have a baggy or boxy texture. You should be able to identify the chips by their packaging.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 18,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen food. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the frozen food section is located at the bottom of the display case. Here\u2019s how you can locate it:\n\n1. **Identify the Display Case**: The display case is the lower part of the image where there are various packaged items.\n2. **Locate the Frozen Food**: Look for the items that appear to be in plastic containers or wrapped packages. These are typically labeled as frozen foods.\n3. **Move Your Hand**: Place your hand near the bottom of the display case where the frozen food is likely to be.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 19,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain pepper. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the peppers are located on the lower shelves of the produce section. Here's how you can find them:\n\n1. **Identify the Shelves**: The shelves are labeled with different types of vegetables and herbs.\n2. **Locate the Peppers**: The red peppers are clearly visible on the lower shelves. They are placed in black trays.\n3. **Tactile Cues**:\n   - **Color**: The red peppers stand out due to their bright color.\n   - **Shape**: They are long and slender, similar to the shape of a hot dog but thinner.\n   - **Texture**: They have a smooth texture and are firm when touched.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 20,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain something to drink. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the functional beverages section is clearly marked with a sign that says \"functional beverage\" and has the number 15 on it. This section appears to be filled with various types of drinks.\n\nTo locate the functional beverages:\n\n1. **Identify the Sign**: Look for the green sign with the white text that reads \"functional beverage\" and the number 15.\n2. **Navigate to the Section**: Move towards the area where this sign is displayed. It's located on the right side of the image, near the center.\n3. **Locate the Drinks**: Once you reach the section, you'll see shelves stocked with different types of beverages. The functional beverages are likely among these options, possibly in boxes or bottles that stand out due to their packaging or labels.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 21,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain mustard. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the mustard is likely located on one of the shelves in the aisle. Here\u2019s how you can find it:\n\n1. **Identify the Mustard Section**: Look for a shelf that has jars or bottles that resemble mustard. Mustard typically comes in small jars or bottles with a yellowish color.\n\n2. **Navigate the Aisle**: The mustard is probably on a lower shelf, as it's common for smaller items like condiments to be placed there for easy access.\n\n3. **Check the Labels**: Once you're in the right area, look for labels that say \"mustard\" or have images of mustard on them. These will help you identify the correct product.\n\n4. **Reach Out**: If you need assistance reaching the item, let me know, and I can guide you further.\n\nIf you need more specific guidance, feel free to ask!"
+  },
+  {
+    "image_id": 22,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the beer section is located on the left side of the aisle. Here's how you can navigate:\n\n1. **Start at the entrance**: Begin at the entrance of the aisle where the shelves are fully stocked with various beverages.\n2. **Turn left**: As you enter the aisle, turn left towards the end of the aisle where the shelves are more densely packed with cans and bottles.\n3. **Locate the beer section**: The beer section will be on the left side of the aisle. It is clearly marked by the presence of multiple rows of cans and bottles that are typically arranged in a specific pattern for beer products.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 23,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the vegetables are located on the left side of the aisle. You can identify them by the green produce displayed on the shelves. Here\u2019s how you can navigate:\n\n1. **Start at the entrance**: If you are standing at the entrance of the store, the vegetables will be on your left as you walk into the store.\n2. **Follow the left aisle**: As you move forward, keep following the left aisle until you reach the section where the vegetables are displayed.\n3. **Look for the green produce**: The shelves on the left side will have various types of vegetables such as leafy greens, root vegetables, and possibly some fruits mixed in with the vegetables.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 24,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain plastic chairs. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! The image shows a store with various items displayed. To help you locate the plastic chairs, follow these tactile cues:\n\n1. **Identify the Area**: The plastic chairs are located towards the center of the image, stacked on pallets.\n2. **Color Cues**: The chairs come in different colors: pink, green, blue, and white. They are arranged in a grid-like pattern.\n3. **Texture**: The chairs have a smooth, slightly rounded texture typical of plastic materials.\n\nTo navigate:\n- Move your hand along the shelves and look for the grid-like arrangement of colorful objects.\n- Once you find the grid, feel the texture to confirm they are indeed plastic chairs.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 25,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chopsticks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! In the image, the chopsticks are located on the second shelf from the top of the wooden display unit. They are arranged vertically and are part of a larger collection of kitchen utensils and accessories. You can feel for the chopsticks by touching the items on that particular shelf. They should be relatively easy to identify due to their distinct shape compared to other items around them."
+  },
+  {
+    "image_id": 26,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the chocolate milk is located on the top shelf of the display. Here's how you can find it:\n\n1. **Identify the Chocolate Milk**: The chocolate milk cartons are easily recognizable by their green labels with white hearts and the word \"Chocolate\" written on them.\n\n2. **Locate the Top Shelf**: The chocolate milk is positioned on the very top shelf of the display.\n\n3. **Navigate to the Chocolate Milk**: Move your hand to the top shelf where the chocolate milk cartons are placed. They are arranged in a row, and you should be able to feel the distinct shape and color of the cartons.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 27,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the chips are located on the right side of the image, on the second shelf from the top. They are packaged in red and yellow colors. You can feel for the red and yellow packages among the other items on that shelf."
+  },
+  {
+    "image_id": 28,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the vegetables are located at the lower part of the image, specifically on the left side. Here's how you can find them:\n\n1. **Identify the Counter**: The counter with the vegetables is the one closest to the bottom left corner of the image.\n2. **Locate the Vegetables**: On this counter, there are various types of vegetables. You can feel for the green beans, which are piled up prominently on the left side of the counter. There are also other vegetables like cucumbers and possibly some leafy greens or squashes further back on the counter.\n\nFeel your way along the counter from left to right, and you should be able to locate the vegetables you're looking for. If you need more specific guidance, let me know!"
+  },
+  {
+    "image_id": 29,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! The image shows a vibrant fruit section in a store. Here\u2019s how you can navigate to the fruit section:\n\n1. **Identify the Fruit Section**: The image clearly shows a large area filled with various fruits. You should be able to locate this section by looking for an abundance of colorful produce.\n\n2. **Locate the Fruits**: Once you're in the fruit section, you'll see different types of fruits displayed on shelves and in baskets. Common fruits like apples, bananas, oranges, grapes, and kiwis are visible.\n\n3. **Navigate Using Tactile Cues**:\n   - **Fruit Baskets**: Look for baskets or containers that hold fruits. These are often placed on lower shelves.\n   - **Shelves**: If you need to move up, look for shelves that have fruits stacked on them. These are usually higher than the ground level.\n   - **Labels**: Some fruits might have labels attached to them. These labels can help you identify what kind of fruit you\u2019re looking at.\n\n4. **Accessing the Fruits**:\n   - **Baskets**: If the fruits are in baskets, gently touch the basket to feel if it's full or partially empty.\n   - **Shelves**: If the fruits are on shelves, you can reach out and touch the fruits directly. Be careful not to damage any fruits as you handle them.\n\n5. **Ask for Assistance**: If you find it difficult to navigate the section, don\u2019t hesitate to ask for assistance from someone who can guide you through the fruits.\n\nBy following these steps, you should be able to locate the fruits you're interested in within the fruit section."
+  },
+  {
+    "image_id": 30,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the red wine section is located on the right side of the aisle. Here\u2019s how you can navigate:\n\n1. **Start at the beginning of the aisle**: Stand at the start of the aisle where the shelves are filled with various items.\n2. **Turn right**: Move to the right side of the aisle where you will see rows of wine bottles.\n3. **Look for the labels**: Red wine bottles typically have labels that indicate they are red wines. You might look for labels that say \"Red Wine\" or have red-colored designs.\n4. **Check the price tags**: If you need to identify specific brands or prices, look for the price tags attached to the bottles. Red wine bottles are usually placed higher up on the shelves compared to white wines.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 31,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the beverages are located towards the right side of the scene. They are stacked in large quantities on shelves that are elevated from the ground. Here's how you can locate them:\n\n1. **Identify the Beverage Area**: The area with the stacked cans is on the right side of the image.\n2. **Locate the Shelves**: The cans are arranged on multiple shelves that are higher up than the snack areas.\n3. **Navigate to the Beverage Section**: Move towards the right side of the image where the stacked cans are displayed.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 32,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cooking oil. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the cooking oils are located in the central area of the aisle. Here's how you can locate them:\n\n1. **Identify the Aisle**: The image shows an \"Oils & Pantry\" section, which is likely where you'll find cooking oils.\n2. **Locate the Cooking Oils**: In the center of the aisle, there are several shelves stacked with various types of cooking oils. These are typically larger bottles or containers compared to other items like sauces or condiments.\n3. **Tactile Cues**:\n   - **Texture**: The cooking oil bottles usually have a smooth texture compared to the more textured surfaces of other products.\n   - **Size**: They tend to be larger and more substantial than smaller items like spices or sauces.\n   - **Placement**: They are often placed prominently in the middle of the shelf, making them easier to spot.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 33,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottled milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bottled milk is located on the lower shelves of the refrigerated section. Here\u2019s how you can find it:\n\n1. **Identify the Lower Shelves**: The bottom two rows of the refrigerated section appear to be dedicated to bottled milk.\n2. **Locate the Bottles**: Look for bottles that are typically white or light-colored with caps, which are common for milk packaging.\n3. **Check for Labels**: Ensure the labels indicate \"Milk\" or have images of cows or milk containers.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 34,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain a carton of milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the cartons of milk are located on the left side of the image. They are stacked on top of each other and are labeled with green packaging that has white text. You can feel for the green boxes with the white text to locate them."
+  },
+  {
+    "image_id": 35,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the shelves are stocked with various types of snacks, including chips. Here\u2019s how you can navigate to the chip section:\n\n1. **Identify the Chips**: Look for the shelves that have predominantly yellow, white, or other light-colored packaging. These are likely the chip sections.\n\n2. **Locate the Chips**: The chips are typically found on the middle and upper shelves. They are often arranged in rows and come in different colors and sizes.\n\n3. **Move Your Hand**: As you move your hand along the shelves, feel for the texture and shape of the packages. Chips usually have a crisp, thin texture compared to other snacks like cookies or crackers.\n\n4. **Select a Chip**: Once you find a package that feels like a chip, pick it up. You can also look at the labels if they are readable to confirm it's a chip.\n\nIf you need further assistance, let me know where you are in the store and I can provide more specific guidance."
+  },
+  {
+    "image_id": 36,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the biscuits are located on the lower shelves of the display. Here's how you can find them:\n\n1. **Identify the Biscuit Section**: The lower shelves are filled with various biscuit packages. They are stacked neatly and are clearly visible.\n\n2. **Locate the Biscuits**: Look for the packages that have a golden or light brown color, which typically represent biscuit products. These are usually rectangular boxes with a distinct shape and design.\n\n3. **Check for Branding**: If you're familiar with certain brands, look for those. For example, there are \"Tartelette\" and \"NATA\" biscuits prominently displayed on the lower shelves.\n\n4. **Accessibility**: Since the image is taken from a high angle, you might need to step back slightly to get a better view of the lower shelves. Ensure your path is clear and safe as you move around the display.\n\nIf you need further assistance or have any specific questions about the biscuits, feel free to ask!"
+  },
+  {
+    "image_id": 37,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain instant noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! The image shows a section of a grocery store with shelves stocked with various products. To help you locate the instant noodles:\n\n1. **Identify the Section**: Look for the area where there are multiple shelves filled with similar-looking products. These are likely the instant noodle sections.\n2. **Locate the Instant Noodles**: In this image, the instant noodles are on the middle and upper shelves. They are typically packaged in small, colorful containers or boxes.\n3. **Tactile Cues**:\n   - **Texture**: The instant noodles are usually packaged in smooth, plastic containers that have a distinct texture compared to other items like rice or snacks.\n   - **Color**: They often come in bright colors such as green, yellow, or red, which can be easily distinguished from other products.\n   - **Arrangement**: They are usually arranged in rows, making them easy to spot once you know what to look for.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 38,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen pork. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the frozen pork is located on the left side of the meat section. Here\u2019s how you can find it:\n\n1. **Identify the Section**: The sign above the shelves says \"MEAT,\" which indicates this is the meat section.\n2. **Locate the Pork Sign**: There is a sign that specifically mentions \"Your choice for natural PORK.\" This sign is on the left side of the image.\n3. **Navigate to the Left**: Move your hand to the left side of the image where the sign is displayed.\n4. **Find the Frozen Pork**: Below the sign, you will see a row of packages labeled \"Ground Turkey\" and \"Antibiotic Free Chicken.\" To the left of these, there should be a row of packages labeled \"Ground Pork.\" These are likely the frozen pork products.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 39,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bananas are located on the left side of the produce section. They are positioned on a shelf that is lower than the other fruits and vegetables. You can find them near the bottom left corner of the image, where there is a display of bananas alongside some green vegetables like cucumbers and leafy greens. If you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 40,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain watermelon cut. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the watermelons are located near the center of the produce section. They are stacked in boxes and are green in color. To locate them:\n\n1. Move towards the center of the produce section.\n2. Look for the area where the watermelons are displayed. They are typically larger and have a distinctive green rind.\n3. You should be able to find them near the middle of the produce section, surrounded by other fruits like cucumbers and possibly some leafy greens.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 41,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain soymilk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the soymilk products are located towards the bottom of the display. They are arranged in rows with green packaging that has white caps. The price tags indicate they are priced at 99 yen.\n\nTo locate them:\n1. Move your hand down from the top of the display.\n2. Feel for the rows of products with green packaging and white caps.\n3. The price tag should be visible next to these products, indicating the price as 99 yen.\n\nThese are likely the soymilk products you're looking for."
+  },
+  {
+    "image_id": 42,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! In the image, the noodles are located on the upper shelves of the grocery store aisle. Here\u2019s how you can locate them:\n\n1. **Identify the Noodle Section**: The noodles are typically packaged in boxes or bags and are usually placed on the higher shelves for easy access by taller shoppers.\n\n2. **Locate the Shelves**: Look for the upper shelves where the noodles are displayed. They are often stacked in rows with various types of noodles visible.\n\n3. **Check the Packaging**: The noodles will be in boxes or bags that are clearly labeled as \"noodles.\" You might see different varieties like instant noodles, dried noodles, or fresh noodles.\n\n4. **Use Tactile Cues**: If you have a shopping cart, gently push it towards the upper shelves where the noodles are likely to be found. You can also ask someone to help you reach up if needed.\n\n5. **Ask for Assistance**: If you need further assistance, feel free to ask someone nearby to help you locate the noodles.\n\nBy following these steps, you should be able to find the noodles you're looking for."
+  },
+  {
+    "image_id": 43,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain instant noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! The image shows a section of a grocery store aisle filled with various instant noodles. Here\u2019s how you can locate them:\n\n1. **Identify the Shelves**: The instant noodles are arranged on multiple shelves. They are stacked vertically, with different brands and flavors visible.\n\n2. **Locate the Instant Noodles**:\n   - Look for the colorful packaging that is characteristic of instant noodles.\n   - You'll see a variety of colors such as green, red, yellow, and blue, which correspond to different flavors like chicken, beef, seafood, and more.\n\n3. **Use Tactile Cues**:\n   - **Texture**: The packaging often has a smooth texture compared to other items around it.\n   - **Labels**: If you can feel the labels, they might have raised text or patterns that indicate they are instant noodles.\n   - **Branding**: Some brands have distinct shapes or designs on their packaging that make them stand out.\n\n4. **Navigate the Aisle**:\n   - Move your hand along the shelves from left to right and top to bottom.\n   - As you touch the items, feel for the packaging that feels like instant noodles.\n\n5. **Select Your Choice**:\n   - Once you find the packaging that feels like instant noodles, pick up the one you want to try.\n\nIf you need further assistance, let me know!"
+  },
+  {
+    "image_id": 44,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain paper towel household pack. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the paper towel household packs are located on the left side of the aisle. They are stacked on shelves and are clearly visible. Here's how you can locate them:\n\n1. **Start at the entrance**: Begin at the entrance of the aisle where the paper towels are displayed.\n2. **Follow the aisle**: Move along the aisle towards the left side.\n3. **Identify the products**: Look for the large white packages with blue labels that are stacked on the shelves. These are the paper towel household packs.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 45,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain onion. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! In the image, the onions are located on the second shelf from the top. They are grouped together with other vegetables like cucumbers and purple onions. The onions appear to be in a basket, and they are positioned towards the right side of that shelf. You can feel for the round, bulbous shapes among the other vegetables."
+  },
+  {
+    "image_id": 46,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hami melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the hami melons (also known as cantaloupe melons) are located towards the right side of the fruit section. They are stacked in a bin with a price tag that reads $2.87. The hami melons have a light green color with a netted skin, which is characteristic of this type of melon.\n\nTo locate them more precisely:\n1. Move towards the right side of the fruit section.\n2. Look for the bin filled with round, light green fruits with a netted skin.\n3. The bin should be labeled with the price of $2.87.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 47,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the snack section is located on the right side of the aisle. Here\u2019s how you can navigate:\n\n1. **Start at the beginning of the aisle**: Stand at the start of the aisle where the shelves are empty.\n2. **Turn right**: Move to the right side of the aisle.\n3. **Follow the shelves**: The snack section is on the right-hand side of the aisle. You'll see shelves stocked with various snack items.\n\nThe snacks are arranged neatly on the shelves, so you should be able to find what you're looking for easily. If you need further assistance or have any specific types of snacks in mind, feel free to ask!"
+  },
+  {
+    "image_id": 48,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bananas are located on the right side of the fruit display. They are arranged in a large pile, with some boxes underneath them for support. The bananas are yellow and appear fresh. You can feel their texture by touching them gently. If you need more specific guidance or have any other questions, feel free to ask!"
+  },
+  {
+    "image_id": 49,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bowls. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bowls are located on the left side of the image. They are displayed on wooden shelves that are part of a larger section dedicated to kitchenware. The shelves are filled with various types of bowls, plates, and other kitchen items.\n\nTo locate the bowls:\n1. Move your hand towards the left side of the image.\n2. Feel for the wooden shelves that have a light brown color.\n3. The bowls are arranged neatly on these shelves, some stacked and others placed individually.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 50,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain canned food. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the canned goods are located on the left side of the aisle. Here's how you can navigate:\n\n1. **Identify the Canned Goods**: Look for the shelves filled with stacked cans. They are primarily on the left side of the aisle.\n2. **Navigate to the Left**: Move your hand along the aisle towards the left until you feel the edge of the shelf where the cans are placed.\n3. **Locate the Cans**: Once you reach the left side, you should be able to feel the cans as they are stacked vertically on the shelves.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 51,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain office supplies. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the office supplies are located on the shelves in the background. Here\u2019s how you can navigate to them:\n\n1. **Identify the Shelves**: The shelves are filled with various items that appear to be office supplies. They are stacked with boxes, folders, pens, and other stationery.\n\n2. **Locate the Items**: \n   - **Top Shelf**: Look for boxes and folders.\n   - **Middle Shelves**: These have a variety of items including pens, markers, and possibly some stationery sets.\n   - **Bottom Shelves**: These might contain larger items like folders or boxes of paper.\n\n3. **Navigate Using Tactile Cues**:\n   - **Shelf Height**: The shelves are at different heights. You can feel the height difference as you move your hand along the wall.\n   - **Items on the Shelves**: As you reach out, you can feel the texture and shape of the items. For example, folders will be thicker and more rigid compared to pens which are smaller and smoother.\n   - **Labels**: If there are labels on the shelves, they might provide additional guidance. However, since this is an image, you would need to rely on the tactile feedback from the items themselves.\n\n4. **Move Slowly and Carefully**: As you move your hand along the shelves, move slowly and carefully to avoid knocking over any items. If you encounter something that feels heavier or thicker, it might be a folder or box of papers.\n\n5. **Ask for Assistance**: If you need help navigating through the shelves, feel free to ask someone nearby for assistance.\n\nBy following these steps, you should be able to locate the office supplies you need."
+  },
+  {
+    "image_id": 52,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the beverages are located on the right side of the image. They are arranged on a metal shelf that is positioned against the wall. The beverages include various types of drinks such as bottled water, juice boxes, and possibly some canned beverages. You can feel for the bottles and boxes on the lower shelves to find what you're looking for. If you need more specific guidance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 53,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate favor cornmeal. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the chocolate-flavored cornmeal is located on the second shelf from the top, towards the left side of the image. It's a box labeled \"Shreddies\" with a chocolate flavor. You can feel for the box that has a brown color and a picture of a bear on it. It should be easy to locate due to its distinct packaging compared to the other cereals around it."
+  },
+  {
+    "image_id": 54,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bananas are located on the lower shelf of the fruit display area. Here\u2019s how you can find them:\n\n1. **Identify the Fruit Display**: Look for the section with various fruits. It's the area where you see different types of fruits arranged neatly.\n2. **Locate the Lower Shelf**: In this fruit display, there is a lower shelf specifically designated for bananas. They are usually placed at the bottom or slightly higher up compared to other fruits like apples or oranges.\n3. **Access the Area**: If the display is behind a counter or a barrier, you might need to ask for assistance to access the bananas.\n\nIf you have any further questions or need more guidance, feel free to ask!"
+  },
+  {
+    "image_id": 55,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bowls. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bowls can be found on the right side of the scene. They are displayed on a shelf that is located towards the back-right area of the image. The shelves are filled with various items, including what appear to be bowls. You should be able to locate them by following the path of the aisle and looking for the section where the bowls are placed."
+  },
+  {
+    "image_id": 56,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the snack section is located towards the center of the store. Here's how you can navigate:\n\n1. **Identify the Snack Section**: The middle area of the store has shelves filled with various snack items. These shelves are stacked with boxes and packages that appear to be snacks.\n\n2. **Locate the Snacks**: The snacks are primarily found on the middle shelves. They are arranged in rows and are clearly visible. You can feel for the textures of the packages\u2014some might be smooth, while others could have a crinkly texture if they are chips or crackers.\n\n3. **Move Towards the Center**: If you're currently standing near the left side of the store, move towards the center where the shelves are most prominent. The snacks are more centrally located compared to the other sections like the left side which seems to have more packaged goods but not specifically snacks.\n\n4. **Check the Lower Shelves**: Sometimes, snacks are also placed lower down on the shelves. If you don't find them immediately on the upper shelves, check the lower ones as well.\n\n5. **Use Your Fingers**: As you move along the shelves, use your fingers to gently touch the packages. This will help you identify the different types of snacks available. For example, the texture of a bag of chips would be different from a box of cookies.\n\n6. **Ask for Assistance**: If you need further assistance, feel free to ask someone nearby who can guide you more precisely.\n\nBy following these steps, you should be able to locate the snack section and find what you're looking for."
+  },
+  {
+    "image_id": 57,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the basins are located on the right side of the aisle. They are arranged on shelves that are filled with various kitchenware items. You can feel for the basins by moving your hand along the shelves from left to right until you find them. They are typically larger and more rounded compared to other items like plates or bowls. If you need further assistance, let me know!"
+  },
+  {
+    "image_id": 58,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain zucchini. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the zucchini can be found in the section of the grocery store that is labeled \"FRUITS.\" It appears to be located towards the right side of the image, near the green vegetables. The zucchini is likely among the green bell peppers or other similar green vegetables displayed in that area. You should look for the section with the price tags showing \"5.98\" and \"8.98,\" as these are typically used to indicate the price of fruits and vegetables."
+  },
+  {
+    "image_id": 59,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen chicken. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the frozen chicken is located towards the right side of the meat display case. Here\u2019s how you can locate it:\n\n1. **Identify the Meat Display Case**: The meat display case is the long, refrigerated section filled with various cuts of meat.\n2. **Locate the Frozen Chicken**: Towards the right end of this display case, you'll see a section that appears to be labeled or marked for frozen items. This area likely contains frozen chicken.\n3. **Tactile Cues**:\n   - **Temperature**: The frozen chicken should feel cold to the touch compared to the other items.\n   - **Appearance**: It might have a different texture or packaging compared to fresh chicken. It could be wrapped in a clear plastic bag or have a label indicating \"Frozen.\"\n   - **Location**: It's positioned at the end of the display case, away from the fresh meat sections.\n\nIf you need further assistance, let me know!"
+  },
+  {
+    "image_id": 60,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the snack section is located towards the back of the store. Here\u2019s how you can navigate:\n\n1. **Identify the Snack Sign**: Look for a sign that says \"SNACK\" or something similar. It's typically placed above the shelves where snacks are displayed.\n\n2. **Follow the Aisle**: Once you find the \"SNACK\" sign, follow the aisle that leads away from the entrance and towards the back of the store. The aisle will be well-lit and clearly marked as a snack aisle.\n\n3. **Check the Shelves**: As you move down the aisle, look at the shelves on both sides. Snacks are usually stocked on these shelves. You might see various types of snacks like chips, candies, and other packaged goods.\n\n4. **Use Your Tactile Senses**: As you walk, use your hands to feel the textures of the items on the shelves. Snacks often have distinct textures that can help you identify them. For example, chips might be crisp, and candy bars might be smooth.\n\n5. **Ask for Help**: If you need assistance, don't hesitate to ask someone in the store for help. They can guide you more precisely to the snack section.\n\nBy following these steps, you should be able to locate the snack section effectively."
+  },
+  {
+    "image_id": 61,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain ham. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the ham is likely located under the red banner with Chinese characters that say \"\u814a\u5473\u5e72\u8d27\" (translated as \"Dried Meat Products\"). The banner is prominently displayed above the section where the ham is presumably sold.\n\nHere\u2019s how you can locate it:\n\n1. **Identify the Banner**: Look for the large red banner with Chinese characters. It's positioned above the display of products.\n2. **Locate the Section**: The banner indicates that this area is dedicated to dried meat products. You should see a variety of red boxes and packages below it.\n3. **Navigate to the Section**: Move towards the area where the banner is displayed. The section will be clearly marked by the presence of these red boxes and packages.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 62,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the vegetables are located in the lower part of the image, specifically in the black crates arranged in a row. Here's how you can find them:\n\n1. **Locate the Vegetable Section**: The vegetables are situated in the lower section of the image, where there are several black crates filled with various types of vegetables.\n\n2. **Identify the Crates**: There are multiple black crates containing different vegetables. You can feel the textures and shapes of the vegetables through your hands as you touch each crate.\n\n3. **Select Your Vegetables**: Once you've identified the crates with the vegetables you're interested in, reach out and feel the texture and shape of the vegetables inside. For example:\n   - **Cabbage**: It will be firm and have a smooth, slightly rough surface.\n   - **Carrots**: They will be smooth and have a cylindrical shape.\n   - **Onions**: They will be round and have a papery skin that feels slightly rough when touched.\n\n4. **Check for Labels**: If the vegetables are labeled, try to read the labels by feeling the texture of the paper or plastic covering them. This can help you identify what type of vegetable you are touching.\n\n5. **Ask for Assistance**: If you need help identifying the vegetables, ask someone nearby if they can assist you. They can point out the specific types of vegetables and help you make your selection.\n\nBy following these steps, you should be able to locate and select the vegetables you need."
+  },
+  {
+    "image_id": 63,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the chips are located on the middle shelf of the display. They are stacked towards the right side of the shelf, with various brands and colors visible. You can feel for the bags that have a distinct shape and texture typical of chips packaging. If you need more specific guidance, let me know your location within the store or any other details that might help."
+  },
+  {
+    "image_id": 64,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the beverages are located on the middle shelves of the \"Import Food\" section. Here's how you can locate them:\n\n1. **Identify the Section**: The sign that says \"Import Food\" is the area where you should look for beverages.\n2. **Locate the Middle Shelves**: In this section, there are multiple shelves. The middle shelves appear to be stocked with various beverages.\n3. **Navigate Tactilely**:\n   - Move your hand along the left side of the \"Import Food\" section until you reach the middle shelves.\n   - You'll feel a variety of items, including bottles and cans, which are likely the beverages.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 65,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the bread is displayed on the shelves in front of you. Here\u2019s how you can locate it:\n\n1. **Identify the Bread Section**: The bread is arranged on multiple shelves in the foreground of the image.\n2. **Locate the Shelves**: There are several rows of shelves filled with various types of bread. The shelves are clearly visible and are the main focus of the image.\n3. **Navigate the Shelves**: Move your hand along the shelves to feel the different types of bread. Each shelf has different items, so you should be able to distinguish between them by texture and shape.\n\nIf you need further assistance or have any specific questions about the bread, feel free to ask!"
+  },
+  {
+    "image_id": 66,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the basins are located on the shelves in the middle of the image. Here\u2019s how you can locate them:\n\n1. **Identify the Shelves**: The basins are arranged on multiple shelves.\n2. **Locate the Basins**: The basins come in various colors such as white, green, pink, and blue. They are placed in different sizes and shapes.\n3. **Navigate the Shelves**:\n   - Start from the bottom shelf where there are larger basins with lids.\n   - Move up to the next shelf where smaller basins are displayed.\n   - Continue moving up to find more basins in different sizes and colors.\n\nIf you need assistance navigating through the shelves, let me know your preferred starting point or any specific color or size you're looking for."
+  },
+  {
+    "image_id": 67,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! In the image, the cabbage is located towards the upper right section of the display. It's among other vegetables like broccoli and cauliflower. The cabbage appears to be green and is placed in a wooden crate. You can feel for the round, dense heads of the cabbage, which should be firm to the touch. If you need further assistance or have any questions about the location, feel free to ask!"
+  },
+  {
+    "image_id": 68,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated meat. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the refrigerated meat section is located on the right side of the image. Here\u2019s how you can navigate to it:\n\n1. **Identify the Refrigerated Section**: Look for the metal shelves that are covered with a transparent plastic wrap, which typically indicates a refrigerated section.\n2. **Locate the Meat Products**: The products are packaged in clear plastic containers with labels. You can feel the texture of the packaging to identify the meat products.\n3. **Read the Labels**: Each container has a label with text and images. Use your fingers to trace the edges of the containers and read the labels to find the type of meat you're looking for.\n\nIf you need further assistance or have any specific types of meat in mind, let me know!"
+  },
+  {
+    "image_id": 69,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the snack section is clearly marked with a sign that says \"SNACKS\" above the shelves. Here\u2019s how you can navigate to the snack section:\n\n1. **Identify the Sign**: Look for the sign that reads \"SNACKS.\" It's located at the back of the aisle, above the shelves.\n\n2. **Follow the Aisle**: Once you see the \"SNACKS\" sign, follow the aisle towards the back of the store. The aisle will lead you directly to the snack section.\n\n3. **Check the Shelves**: As you walk down the aisle, you'll see various shelves filled with different types of snacks. You can touch the shelves to feel what's available.\n\n4. **Select Your Snack**: Once you reach the snack section, you can touch the items on the shelves to feel their textures and sizes. This will help you identify which snacks you might like.\n\nIf you need further assistance or have any questions about the specific items, feel free to ask!"
+  },
+  {
+    "image_id": 70,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the area with the yellow bags of chips is located towards the center-left side of the image. The yellow bags are stacked on a circular display stand. Here's how you can locate them:\n\n1. **Identify the Display Stand**: Look for the circular wooden display stand that contains the yellow bags.\n2. **Locate the Yellow Bags**: The yellow bags are arranged vertically on this stand. They are the most prominent items in that section.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 71,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain champagne. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the champagne is located on the right side of the image. Here's how you can find it:\n\n1. **Identify the Section**: Look for the area with shelves that contain bottles of champagne. These bottles are typically larger and more prominently displayed compared to other items.\n\n2. **Locate the Champagne Bottles**: The champagne bottles are arranged on a wooden shelf. They are white with pink labels, which makes them stand out from the rest of the products.\n\n3. **Navigate to the Shelf**: Move towards the right side of the image where the champagne bottles are displayed. You should be able to see the bottles clearly as they are well-lit and prominently placed.\n\n4. **Access the Bottles**: Once you reach the shelf, you can touch and feel the bottles to identify the champagne. The labels will help you distinguish between different types if needed.\n\nIf you need further assistance or have any questions about the location, feel free to ask!"
+  },
+  {
+    "image_id": 72,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! In the image, the biscuits are located on the upper shelves of the aisle labeled \"Gouter.\" The biscuits are packaged in boxes with colorful designs. You can feel for the boxes that have a rectangular shape and are stacked higher up compared to the other items. They are positioned towards the left side of the image, above the rows of smaller items like cereals."
+  },
+  {
+    "image_id": 73,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate favor biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the chocolate favor biscuits are located on the right side of the aisle. They are stacked on the lower shelves and are clearly visible among other snack items. The packaging appears to be dark-colored with some text or design that indicates they are chocolate flavored. You can feel for the dark-colored packages on the lower shelves as you move along the right side of the aisle."
+  },
+  {
+    "image_id": 74,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the fruits are located in the lower part of the image, specifically in the baskets that are labeled with price tags. Here's how you can find them:\n\n1. **Identify the Price Tags**: Look for the price tags that are displayed above the baskets. These will help you identify which fruits are available.\n2. **Locate the Baskets**: The fruits are placed in black plastic baskets. They are arranged in rows, and each basket contains different types of fruits.\n3. **Move Your Hand**: As you move your hand towards the baskets, feel the texture and shape of the items inside. The fruits will have a distinct feel compared to other items like bread or packaged goods.\n\nIf you need further assistance, let me know!"
+  },
+  {
+    "image_id": 75,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the biscuits are located on the lower shelves of the snack section. Here\u2019s how you can find them:\n\n1. **Identify the Snack Section**: Look for the sign that says \"SNACKS\" at the top of the image.\n2. **Locate the Lower Shelves**: The lower shelves are the ones closest to the floor where the boxes are stacked.\n3. **Find the Biscuits**: On these lower shelves, you should see various biscuit packages. They are likely to be in white or light-colored boxes with images of biscuits on them.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 76,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the chips are located on the shelves to the left side of the image. Here's how you can navigate:\n\n1. **Identify the Sign**: The sign above the shelves reads \"PX MART,\" which indicates that this is the section where you can find various items.\n\n2. **Locate the Chips**: The chips are stacked on the lower shelves to the left. They are arranged in rows and are easily identifiable by their packaging.\n\n3. **Move Your Hand**: Move your hand along the shelves to the left until you feel the texture of the chips' packaging. The packaging will likely be smooth and have a distinct shape compared to other items around them.\n\n4. **Feel for the Packaging**: Once you've identified the area with the chips, run your fingers over the packaging to confirm what you're touching. The chips should be clearly distinguishable from other items like snacks or beverages.\n\nIf you need further assistance, let me know!"
+  },
+  {
+    "image_id": 77,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated pork. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the refrigerated pork is located on the right side of the image. Here\u2019s how you can locate it:\n\n1. **Identify the Section**: The section with the refrigerated pork is the one that contains various packaged meats. It's the area with clear plastic packaging and labels.\n\n2. **Locate the Packaging**: Look for the clear plastic containers labeled \"Chilled Pork\" or similar text. These are typically placed on the upper shelves where they are easily visible.\n\n3. **Check the Labels**: The labels on the packaging will indicate what type of meat it is. Look for the label that says \"Pork\" or \"Chilled Pork.\"\n\n4. **Accessibility**: Since the image shows a stroller, ensure that the packaging is within reach. If not, ask someone to assist you in reaching the items.\n\n5. **Safety**: Make sure the packaging is sealed properly and there are no signs of spoilage before selecting it.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 78,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! The image shows a bakery display with various types of bread arranged neatly on shelves and tables. Here\u2019s how you can locate the bread:\n\n1. **Identify the Bread Display**: Look for the area where the bread is displayed. It's typically a section with shelves or tables that hold different types of bread.\n\n2. **Locate the Bread**: Once you're in the bread display area, you'll see different types of bread arranged in baskets or on trays. Some breads might be covered with plastic wrap for freshness.\n\n3. **Use Tactile Cues**:\n   - **Texture**: The bread will have a certain texture when touched. For example, some breads are soft and fluffy, while others are crusty.\n   - **Weight**: Heavier loaves often indicate denser bread like rye or whole wheat.\n   - **Shape**: Different types of bread have distinct shapes. For instance, baguettes are long and thin, while rolls are round.\n\n4. **Ask for Assistance**: If you need help, don't hesitate to ask someone at the counter. They can guide you to the specific type of bread you're interested in.\n\n5. **Select Your Bread**: Once you've identified the bread you want, simply pick it up and ask for assistance if needed.\n\nIf you have any specific preferences or types of bread in mind, let me know, and I can provide more detailed guidance!"
+  },
+  {
+    "image_id": 79,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain family pack rice. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the family pack rice is likely located towards the left side of the aisle. Here\u2019s how you can find it:\n\n1. **Start at the entrance**: The image shows an aisle with shelves on both sides.\n2. **Move towards the left**: As you walk down the aisle, look for the shelves on the left side.\n3. **Identify the rice section**: On the left side, there are various packaged items. Look for large bags or boxes that appear to be rice. They are often larger than other items and may have labels indicating they are rice.\n4. **Check the packaging**: If you're not sure, look for packaging that looks like it could hold a family pack size. It might be in a box or a large bag.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 80,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the chips are located on the shelves in front of you. Here\u2019s how you can find them:\n\n1. **Identify the Shelves**: The shelves are filled with various types of chips. They are organized by color and flavor.\n2. **Locate the Chips**: Look for the Lay's brand, which is prominently displayed on the shelves. You'll see different flavors such as \"Yam Crisps,\" \"Original,\" and others.\n3. **Select Your Choice**: Once you find the type of chip you want, reach out and touch the packaging to feel its texture and size. This will help you identify the right one.\n\nIf you need further assistance or have any specific preferences, let me know!"
+  },
+  {
+    "image_id": 81,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the red wine section is located towards the right side of the image. Here\u2019s how you can navigate:\n\n1. **Identify the Wine Section**: Look for the area with shelves filled with bottles of wine. The sign above this section says \"Wine\" in English.\n\n2. **Locate the Red Wine**: Within the wine section, look for the red wine. It's typically placed on the lower shelves or in the front row if there are multiple types of wine displayed.\n\n3. **Use Tactile Cues**:\n   - **Shelf Layout**: Red wine is usually placed on the lower shelves or in the front row.\n   - **Signage**: There might be signs indicating different types of wine, which could help you identify red wine.\n   - **Bottle Shape**: Red wine bottles often have a distinct shape compared to white wine bottles. They tend to be taller and narrower.\n\n4. **Ask for Assistance**: If you need further assistance, feel free to ask someone in the store for help navigating to the red wine section.\n\nBy following these steps, you should be able to locate the red wine section and find what you're looking for."
+  },
+  {
+    "image_id": 82,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tomato. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the tomatoes are located in the center of the fruit and vegetable section. They are piled high on a display shelf, surrounded by other fruits and vegetables. Here\u2019s how you can locate them:\n\n1. **Identify the Display**: Look for the central area where there is a large pile of red, round objects that resemble tomatoes.\n2. **Position**: The tomatoes are situated in the middle of the fruit and vegetable section, slightly elevated from the ground.\n3. **Tactile Cues**:\n   - **Shape**: The tomatoes are round and have a smooth surface.\n   - **Texture**: They should feel firm but slightly soft when touched.\n   - **Color**: They are bright red.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 83,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the refrigerated fruits are located on the left side of the image. Here\u2019s how you can navigate:\n\n1. **Start at the center of the aisle**: Stand in the middle of the aisle where the fruits are displayed.\n2. **Move towards the left side**: As you move to the left, you will see the refrigerated section with various fruits.\n3. **Identify the refrigerated section**: Look for the section that has a cooler or a display case with a glass door. This is typically where refrigerated items like fruits are kept.\n4. **Check the signs**: There might be signs indicating which section contains refrigerated fruits.\n\nIf you need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 84,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain gun mug. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image provided, the gun mugs are located on the left side of the aisle. They are arranged on the lower shelves, and they have a distinctive shape that resembles a gun. The mugs are white with some designs on them.\n\nTo locate them more precisely:\n1. Move your hand along the left side of the aisle.\n2. Feel for the lower shelves where the mugs are displayed.\n3. You should be able to identify the gun-shaped mugs by their unique design and shape.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 85,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! The refrigerated section for fruits is located towards the right side of the image. It's the large display case filled with various types of fruits. You can feel the coolness of the air coming from the top of this case, which indicates that it's kept at a lower temperature to keep the fruits fresh.\n\nTo locate it more precisely:\n1. Move your hand along the wall where the colorful signs are displayed.\n2. Feel for the large, glass-enclosed display case that contains a variety of fruits.\n3. The case will be cooler than the surrounding area due to the refrigeration system.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 86,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain celery. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the celery is located on the right side of the image, inside the refrigerated section. Here\u2019s how you can locate it:\n\n1. **Identify the Refrigerated Section**: The refrigerated section is the area with shelves filled with various packaged items and fresh produce. It's the long, horizontal display case that runs along the right side of the image.\n\n2. **Locate the Celery**: Within this refrigerated section, look for the green, leafy vegetables that resemble celery. They are typically found near the bottom of the shelves, as celery is often stored at a lower temperature to keep it fresh.\n\n3. **Tactile Cues**:\n   - **Shape**: Celery has a distinctive cylindrical shape with a hollow center.\n   - **Texture**: It should feel firm but slightly bendable when touched.\n   - **Color**: It is usually a light green color, sometimes with a slight yellowish tint.\n\n4. **Accessibility**: If the shelves are too high or if there are obstacles, ask someone to assist you in reaching the celery.\n\nBy following these steps, you should be able to locate the celery within the refrigerated section."
+  },
+  {
+    "image_id": 87,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain carrots. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the carrots are located on the left side of the image, in the produce section. They are displayed in a basket, and you can identify them by their bright orange color and shape. To locate them more precisely:\n\n1. Move your hand towards the left side of the image.\n2. Feel for the basket that contains the carrots. It is positioned near the front of the produce section.\n3. The carrots will be the bright orange items within the basket.\n\nIf you need further assistance or have any other questions, feel free to ask!"
+  },
+  {
+    "image_id": 88,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain orange. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the oranges are located on the second shelf from the top, towards the left side of the fruit display. They are grouped together with other fruits like apples and pears. You can feel for the round, bright orange fruits among the other produce. If you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 89,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain orange. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! In the image, there is a crate filled with oranges located towards the center-right of the scene. The oranges are bright orange and appear to be fresh. You can feel for the crate and locate the oranges inside. They are placed on a wooden crate that has a blue plastic bag covering part of it."
+  },
+  {
+    "image_id": 90,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tissue paper. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the tissue paper is located on the right side of the aisle. It's stacked in blue boxes with white doves on them. You can feel for the boxes that are neatly arranged on the shelves. They are positioned higher up compared to the other items, so you might need to reach up slightly to grab one."
+  },
+  {
+    "image_id": 91,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hemi melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the hemi melons are located on the right side of the fruit display. They are green in color and are arranged in a row on the table. You can feel for the round, green fruits that have a slightly rough texture, which is characteristic of hemi melons. They are positioned near the edge of the display, close to the shopping cart area."
+  },
+  {
+    "image_id": 92,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain pineapple. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the pineapple is located on the left side of the fruit display. It's positioned above the oranges and below the kiwis. You can feel for the spiky texture of the pineapple, which should be distinct from the other fruits around it. If you need further assistance, let me know!"
+  },
+  {
+    "image_id": 93,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the milk is located on the left side of the image, inside the refrigerated section. Here\u2019s how you can locate it:\n\n1. **Identify the Refrigerated Section**: The left side of the image shows a large refrigerated section with various products displayed on shelves.\n2. **Locate the Milk**: Look for cartons or bottles that are typically labeled as milk. They are usually white or light-colored and may have a specific design or branding that indicates they are milk.\n3. **Access the Section**: Since you're visually impaired, you might need assistance to open the door of the refrigerated section if it's not accessible from the outside.\n\nIf you need further guidance or assistance, feel free to ask!"
+  },
+  {
+    "image_id": 94,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cherry. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the cherries are located on the second shelf from the top, towards the left side of the display case. They are packaged in clear plastic containers with red labels. You can feel for the containers that have a distinct shape and texture compared to other items around them."
+  },
+  {
+    "image_id": 95,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain sparkling water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the sparkling water is located on the right side of the aisle. Here's how you can find it:\n\n1. **Identify the Right Side**: The right side of the aisle is where the green bottles are displayed.\n2. **Locate the Sparkling Water**: The sparkling water is in the middle section of the right side shelf. It's the clear plastic bottles with blue caps.\n\nYou should be able to feel the texture of the bottles as you move along the aisle. The sparkling water will be among the clear plastic bottles with blue caps, which stand out from the other items on the shelves."
+  },
+  {
+    "image_id": 96,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! The image shows a store with various snack items displayed on shelves. To help you locate the chips, here's a description of their location:\n\n1. **Foreground**: There is a shelf in the foreground that contains bags of Doritos and Lay's chips. These are the most prominent items in this area.\n2. **Midground**: If you move your hand slightly to the right from the foreground shelf, you'll find more bags of Doritos and Lay's chips stacked on another shelf.\n3. **Background**: Further back, there are more shelves with various snack items, including what appear to be boxes of SpongeBob SquarePants-themed snacks.\n\nTo navigate:\n- Start by touching the edge of the shelf where the Doritos and Lay's chips are located.\n- Move your hand along the shelf to feel for the different flavors and types of chips.\n- If you need more specific guidance, let me know which brand or flavor you're looking for!\n\nIf you have any other questions or need further assistance, feel free to ask!"
+  },
+  {
+    "image_id": 97,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain corncob. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! In the image, the corncobs are located towards the right side of the display. They are arranged in a row, with their green husks still attached. You can feel for the hard, rounded ends of the corn cobs, which are typically the kernels. The corncobs are positioned near the cauliflower and other vegetables, so you should be able to locate them by touching the area where they are displayed."
+  },
+  {
+    "image_id": 98,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain kiwifruit. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the kiwifruit is located towards the back of the fruit section. It's positioned near the center of the image, slightly to the left. You can find it among the other fruits that are stacked higher up. The kiwifruit is typically green with a fuzzy skin, so look for the green, round fruits that are piled together. If you need further assistance or have any questions, feel free to ask!"
+  },
+  {
+    "image_id": 99,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain Danish cookie. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "Certainly! Based on the image, the Danish cookies are located on the upper shelves of the display. Here\u2019s how you can locate them:\n\n1. **Identify the Display**: The image shows a large display with various products. The Danish cookies are on the upper shelves.\n2. **Locate the Shelves**: The upper shelves are the ones closest to the ceiling. They are filled with different types of snacks and cookies.\n3. **Find the Danish Cookies**: Look for the round, golden-brown packages that resemble traditional Danish cookies. They are likely to be among the items on the upper shelves.\n\nSince you're visually impaired, you might need to use your other senses to identify the correct product:\n- **Smell**: Danish cookies often have a distinct aroma that can help you identify them.\n- **Texture**: If you can touch the items, the texture of the cookies should be crumbly and slightly crisp.\n- **Location**: The upper shelves are typically where larger, more prominent items are placed, so they should be noticeable even without seeing them.\n\nIf you need further assistance or have any questions, feel free to ask!"
+  }
+]

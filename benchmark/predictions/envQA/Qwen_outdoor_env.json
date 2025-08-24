@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a serene outdoor scene featuring a grassy area with young trees, a sign indicating a water feature nearby, and a road running alongside a body of water under a clear blue sky."
+  },
+  {
+    "image_id": 1,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern building labeled \"Computer Science Building\" with a staircase leading up to it, surrounded by greenery and a clear blue sky."
+  },
+  {
+    "image_id": 2,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern outdoor seating area with transparent shelters, a trash bin labeled \"LITTER,\" and a sign featuring a QR code, set against a backdrop of greenery and a partly cloudy sky."
+  },
+  {
+    "image_id": 3,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a serene outdoor park area with picnic tables, a paved walkway, and lush greenery under a bright blue sky with scattered clouds."
+  },
+  {
+    "image_id": 4,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a parking area with several cars parked under a clear blue sky, featuring a row of bicycle racks and a building on the right side."
+  },
+  {
+    "image_id": 5,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern urban area with a paved walkway, a bus stop shelter, and a building featuring large windows under a partly cloudy sky."
+  },
+  {
+    "image_id": 6,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a well-maintained outdoor area with green grass, hedges, and a building featuring large windows and brickwork under a bright blue sky with scattered clouds."
+  },
+  {
+    "image_id": 7,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a street scene with a pedestrian crossing, a blue recycling bin labeled \"BRUGCAR General Waste,\" and a building with large windows on the right side, under a partly cloudy sky."
+  },
+  {
+    "image_id": 8,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a serene outdoor area with a paved path leading towards modern buildings surrounded by lush greenery and trees under a partly cloudy sky."
+  },
+  {
+    "image_id": 9,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a sunny outdoor scene featuring a covered information board covered with various posters and flyers, surrounded by greenery and a modern building in the background."
+  },
+  {
+    "image_id": 10,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a sunny day at a campus or institutional area with a paved pathway, a signboard, and several bicycles parked near a building surrounded by greenery."
+  },
+  {
+    "image_id": 11,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a serene outdoor pathway lined with benches and surrounded by green grass, trees, and modern buildings, suggesting a peaceful urban park setting."
+  },
+  {
+    "image_id": 12,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern building with a staircase leading up to it, featuring a signboard on the left side and a clear blue sky with scattered clouds above."
+  },
+  {
+    "image_id": 13,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a modern building with large glass windows and a concrete facade, featuring a sign that reads \"Arts / Science Building,\" under a bright blue sky with scattered clouds."
+  },
+  {
+    "image_id": 14,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows a modern building labeled \"Arts / Science Building\" with large glass windows and a flat roof, situated under a clear blue sky with scattered clouds, where a few people are seated at picnic tables outside."
+  },
+  {
+    "image_id": 15,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows the entrance to a modern building with a pharmacy sign, featuring large glass windows and a set of stairs leading up to it, under a clear blue sky."
+  },
+  {
+    "image_id": 16,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a designated smoking shelter at a bus stop, surrounded by trees and a modern building, with a clear blue sky overhead."
+  },
+  {
+    "image_id": 17,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a parking area with several cars parked under trees and near a building, with a pedestrian crossing and a sign indicating an assembly point."
+  },
+  {
+    "image_id": 18,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern outdoor area with paved walkways, green grass, and young trees, set against a backdrop of a gray building with large windows."
+  },
+  {
+    "image_id": 19,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a quiet suburban street lined with trees and parked cars, featuring a pedestrian crossing marked by yellow lines and a \"Litter\" bin on the sidewalk."
+  },
+  {
+    "image_id": 20,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a parking area with several cars parked near a small building and a fenced-off section, under a partly cloudy sky."
+  },
+  {
+    "image_id": 21,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows the entrance to a fitness facility with large glass windows displaying promotional advertisements for pool, gym access, and free Les Mills virtual classes, along with a \"Unleash Your Potential\" motivational sign."
+  },
+  {
+    "image_id": 22,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image shows the exterior of a fitness facility called \"Kingfisher Club,\" with a green motorcycle parked outside and a bicycle leaning against a pole, under a clear blue sky."
+  },
+  {
+    "image_id": 23,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a modern urban setting with a pedestrian walkway, a bicycle rack on the left, a public water dispenser in the center, and a bus stop shelter in the background under a clear blue sky."
+  },
+  {
+    "image_id": 24,
+    "question": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "instruction": "The image depicts a serene park setting with a paved path lined by lush green trees, where people are leisurely walking and enjoying the outdoors under a bright blue sky with scattered clouds."
+  }
+]

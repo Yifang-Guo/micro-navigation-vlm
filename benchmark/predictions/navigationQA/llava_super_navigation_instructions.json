@@ -1,0 +1,502 @@
+[
+  {
+    "image_id": 0,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain soy sauce. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a shelf with various food items and bottles. To find the soy sauce, you can follow these tactile cues:\n\n1. Feel the shelf for a bottle that is taller and thinner than the others. This is likely the soy sauce bottle.\n2. The bottle is located on the right side of the shelf.\n3. The bottle is placed near the edge of the shelf, so you can easily reach it.\n\nBy following these tactile cues, you should be able to locate the soy sauce bottle on the shelf."
+  },
+  {
+    "image_id": 1,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen items. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of food items, including frozen items. To guide you to the frozen items, I can provide you with tactile cues based on the scene.\n\n1. The frozen items are likely to be found in the refrigerated section of the store.\n2. The refrigerated section is typically located towards the back of the store.\n3. The frozen items are usually stored on the lower shelves, as they are more accessible and easier to reach.\n4. The frozen items are often placed in aisles or sections dedicated to frozen foods.\n5. You can also look for signs or labels indicating the location of the frozen items.\n\nBy following these tactile cues, you should be able to locate the frozen items in the grocery store."
+  },
+  {
+    "image_id": 2,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain apple. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a fruit stand with a variety of fruits, including apples. To guide you to the apples, I can describe the tactile cues in the scene. The apples are located on the left side of the stand, with a few of them placed in the middle. They are arranged in a way that makes them easily accessible. You can feel the apples by reaching out your hand and placing it on the fruit. The apples are also placed at a comfortable height for you to pick them up."
+  },
+  {
+    "image_id": 3,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the produce section of a grocery store is shown, with a variety of fruits and vegetables on display. To guide you to the cabbage, I can describe the location of the cabbage in the scene. The cabbage is placed on the right side of the image, near the center. It is surrounded by other fruits and vegetables, such as apples and oranges. To reach the cabbage, you can start by moving towards the right side of the image, and then look for the cabbage among the other produce items."
+  },
+  {
+    "image_id": 4,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain leaf vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of vegetables on display. To guide you to the leaf vegetables, I can provide you with tactile cues based on the scene.\n\n1. The leaf vegetables are likely to be found in the produce section, which is typically located near the entrance of the store.\n2. As you enter the store, you will see a variety of fruits and vegetables on display. The leaf vegetables are likely to be among them.\n3. The leaf vegetables are usually displayed in a group or a section, so look for a group of vegetables that resemble leaves.\n4. The leaf vegetables are often placed in baskets or on shelves, so keep an eye out for these types of displays.\n5. As you walk around the store, you may come across the leaf vegetables. Pay attention to the different sections and displays, and you will likely"
+  },
+  {
+    "image_id": 5,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of various types of bread in a bakery. The display is filled with different kinds of bread, including donuts and other pastries. To guide you to the bread, I would suggest following these tactile cues:\n\n1. Feel the display case: The display case is likely to be made of glass or acrylic, which can be felt by touching it.\n2. Locate the donuts: The donuts are likely to be placed in a separate section or on a shelf within the display case. You can feel the donuts by touching them.\n3. Identify the different types of bread: The various types of bread are likely to be arranged in a visually appealing manner. You can identify the different types by observing their shapes, sizes, and textures.\n4. Reach for the bread: Once you have identified the type of bread you want, you can"
+  },
+  {
+    "image_id": 6,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen meat. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display case filled with various types of frozen meat. The case is divided into sections, with each section containing different types of meat. To find the frozen meat you are looking for, you can follow these tactile cues:\n\n1. Feel the case to locate the section with the frozen meat.\n2. Run your fingers along the edge of the display case to identify the sections.\n3. Look for the frozen meat in the sections that feel colder or have a more solid texture.\n4. Pay attention to the labels or signs on the display case to identify the specific type of meat you are looking for.\n\nRemember that the tactile cues may vary depending on the specific layout of the display case and the type of meat being sold."
+  },
+  {
+    "image_id": 7,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain watermelon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the watermelon is located on the right side of the scene, near the bottom. To find it, you can start by feeling the surface of the table where the watermelon is placed. The table is made of wood, and the watermelon is sitting on top of it. As you move your hand along the table, you will feel the watermelon's shape and texture. It is a large, round fruit with a slightly rough surface. Once you have located the watermelon, you can pick it up and enjoy it."
+  },
+  {
+    "image_id": 8,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottle of water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of products, including bottles of water. To guide you to the bottle of water, I can describe the scene in a way that you can feel the location of the bottle.\n\nThe store has a large section with a variety of items, including a large number of bottles. The bottle of water is located near the center of the store, slightly to the right. It is placed on a shelf or a display, making it easily accessible.\n\nTo find the bottle of water, you can start by moving to the left side of the store, then gradually move towards the center, and finally, you will find the bottle of water on the right side of the store."
+  },
+  {
+    "image_id": 9,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottled water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of food items and drinks. To find the bottled water, you should look for a refrigerated section or a cooler, as bottled water is typically stored in cooler areas to maintain its freshness. You can also look for a dedicated section for bottled water or any other beverages.\n\nTo navigate the store more easily, you can use the following tactile cues:\n\n1. Feel the surface of the shelves and coolers to locate the area where bottled water is stored.\n2. Listen for the sound of refrigeration or cooling equipment, which can indicate the presence of cold storage.\n3. Ask for assistance from store staff or other shoppers, as they may be able to guide you to the location of the bottled water.\n\nRemember to be patient and take your time while navigating the"
+  },
+  {
+    "image_id": 10,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large bakery with a wide variety of breads displayed on shelves. The bakery has a large selection of breads, including different types and flavors. To guide you to the bread, I would suggest following these tactile cues:\n\n1. Look for the shelves with the most breads on display. These shelves are likely to be the most prominent and accessible.\n2. Pay attention to the arrangement of the breads. They are likely to be organized by type, flavor, or freshness.\n3. As you approach the bakery, you may feel the presence of the shelves under your hands. This could be a good indication of the location of the breads.\n4. Once you find the shelves with the most breads, you can use your hands to feel the different types and flavors of breads.\n5. If you are"
+  },
+  {
+    "image_id": 11,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tomatoes. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of tomatoes in a bin. To guide you to the tomatoes, I would suggest following these tactile cues:\n\n1. Feel the surface of the bin where the tomatoes are placed. The bin is likely to be a raised platform or a shelf, which makes it easier to locate the tomatoes.\n2. Use your fingers to explore the bin and feel the tomatoes. They should be firm and have a slightly rough texture.\n3. If the bin is filled with other fruits or vegetables, you can use your sense of smell to locate the tomatoes. They should have a distinct, slightly sweet aroma.\n4. If the bin is placed near other fruits or vegetables, you can use your sense of touch to identify the tomatoes by feeling their shape and size.\n\nBy following these tactile cues, you should be able to locate the tomatoes in"
+  },
+  {
+    "image_id": 12,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain daily necessities. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a grocery store with a variety of products displayed. The store has a large section dedicated to milk, with multiple bottles of milk arranged in different sections. To find the daily necessities, you can follow these tactile cues:\n\n1. Locate the milk section: The milk section is large and occupies a significant portion of the store.\n2. Identify the bottles: The bottles of milk are arranged in different sections, with some placed closer to the front and others further back.\n3. Look for the milk: The milk bottles are placed in various positions, so you may need to move around the section to find the specific bottle you are looking for.\n4. Check the labels: Once you find the milk bottle, check the label for the specific product you need.\n\nRemember that the store layout may change over time, so it's essential to be patient and explore the store"
+  },
+  {
+    "image_id": 13,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen fish. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a woman standing in front of a refrigerator, which is filled with various food items. To find the frozen fish, you can follow these tactile cues:\n\n1. Feel the refrigerator door: The frozen fish is likely to be stored on the lower shelves, as they are more accessible and less likely to be moved.\n2. Look for the fish: The frozen fish is typically placed in a container or a plastic bag, which is usually located on the lower shelves.\n3. Listen for the fish: The sound of the fish's packaging can help you locate it.\n4. Ask the woman or any other person in the scene for assistance: They might be able to guide you to the frozen fish more efficiently.\n\nRemember to be patient and considerate of others while navigating the store."
+  },
+  {
+    "image_id": 14,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain boxed milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of milk and other beverages in a grocery store. The milk is arranged in multiple rows, with some bottles placed higher and others lower. To find the boxed milk, you should look for the bottles that are placed at a lower height, as they are more likely to be the boxed milk.\n\nTo navigate the display, you can use your hands to feel the bottles and their shapes. The bottles are likely to have a curved or slightly rounded shape, which is typical for milk bottles. By running your hands along the display, you can identify the bottles and locate the boxed milk."
+  },
+  {
+    "image_id": 15,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with aisles and shelves filled with various products. To find the chips, you can follow these tactile cues:\n\n1. Locate the chips by following the aisles and shelves. Since the store is large, you may want to use the overhead view or ask for assistance from a store employee.\n2. As you walk through the store, pay attention to the textures and materials of the shelves and aisles. The chips are likely to be on a shelf or aisle with a smooth or slightly rough texture, depending on the type of chips.\n3. When you find the chips, you will likely hear the sound of the chips being sold or feel the weight of the chips when you pick them up.\n4. The chips are likely to be in a packaging that is easy to open and handle."
+  },
+  {
+    "image_id": 16,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bulk snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large store with a variety of snacks displayed on shelves. The snacks are organized in boxes and bins, making it easy to find and select the desired items. To guide you to the bulk snacks, I would suggest following these tactile cues:\n\n1. Look for the shelves with the most snacks displayed. These shelves are likely to be the most prominent and accessible.\n2. Pay attention to the arrangement of the snacks. They are likely to be grouped together or separated by type or category.\n3. If the snacks are in boxes, you can feel the edges of the boxes to determine their size and shape.\n4. If the snacks are in bins, you can feel the sides of the bins to determine their size and shape.\n5. If the snacks are in bags, you can feel the bags to determine their size and shape."
+  },
+  {
+    "image_id": 17,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of chips in a grocery store. The chips are arranged in various shelves and stacks, with some chips placed on the top shelves and others on the lower shelves. To find the chips, you can start by feeling the top shelves, which are likely to have the chips placed higher up. As you move down the shelves, you will find more chips. The chips are likely to be in bags or boxes, so you can also feel the bags or boxes to locate the chips. Once you find the chips, you can pick them up and bring them to the cashier for purchase."
+  },
+  {
+    "image_id": 18,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen food. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of frozen foods in a grocery store. The frozen foods are located on the right side of the image, near the bottom. To guide you to the frozen foods, I would suggest following these tactile cues:\n\n1. Feel the right side of the image, starting from the bottom.\n2. As you move upwards, you will feel the frozen foods.\n3. The frozen foods are arranged in a display, so you can feel the edges of the display.\n4. The frozen foods are likely to be in a refrigerated section, so you can feel the cooler surface.\n\nBy following these tactile cues, you should be able to locate the frozen foods in the grocery store."
+  },
+  {
+    "image_id": 19,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain pepper. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the peppers are located on the right side of the scene. To find them, you can feel the shelf on the right side, and then move your hand towards the front of the shelf. You will feel the peppers in a container, which is placed on the shelf. The peppers are in a container, so you can easily identify them by their shape and texture."
+  },
+  {
+    "image_id": 20,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain something to drink. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of drinks available. The drinks are displayed in a refrigerated section, which is located on the left side of the store. To find the drinks, you can start by feeling the left side of the store, where the refrigerated section is likely to be. Once you locate the refrigerated section, you can feel the different shelves and compartments to find the drinks. The drinks are likely to be stored in bottles or cans, so you can also feel the bottles or cans to identify the drinks. Remember to be patient and take your time to explore the store and locate the drinks."
+  },
+  {
+    "image_id": 21,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain mustard. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the mustard is located on the right side of the scene, near the bottom. To guide you to it, I would suggest following these tactile cues:\n\n1. Feel the floor for a slight incline, as the mustard is placed on a shelf.\n2. As you approach the mustard, you will feel the shelf's edge, which is where the mustard is placed.\n3. Once you find the shelf, you can use your fingers to feel the mustard's location.\n4. The mustard is placed on the shelf, so you can use your fingers to gently slide them under the mustard bottle.\n\nRemember to be cautious and gentle when handling the mustard bottle, as it may be fragile or have a narrow neck."
+  },
+  {
+    "image_id": 22,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the beer section is located on the right side of the store. To find the beer, you should move forward and to the right. As you progress, you will encounter a row of bottles on the right side. The beer is likely to be among these bottles. To identify the specific beer, you may need to use your sense of touch to feel the bottles and their labels. Alternatively, you can ask a store attendant for assistance in locating the beer section."
+  },
+  {
+    "image_id": 23,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of fruits and vegetables on display. The store has aisles and shelves filled with produce, including oranges and apples. To guide you to the vegetables, I would suggest following these tactile cues:\n\n1. Look for the shelves with the most produce on display. These shelves are likely to be located in the center or towards the back of the store.\n2. As you walk through the store, pay attention to the aisles and shelves. You will likely hear the sound of produce being moved or restocked.\n3. When you find the shelves with the most produce, you will likely feel the weight of the items on the shelves. This will help you identify the vegetables.\n4. Once you have located the vegetables, you can use your sense of touch to feel the produce and select"
+  },
+  {
+    "image_id": 24,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain plastic chairs. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of plastic chairs in a store. The chairs are arranged in various colors and sizes. To guide you to the plastic chairs, I would suggest following these tactile cues:\n\n1. Look for a large, colorful display of chairs.\n2. The chairs are arranged in different colors and sizes.\n3. The display is likely to be in the center of the store or near the back wall.\n4. The chairs are stacked on top of each other, making them easily accessible.\n5. The chairs are placed on a hard surface, such as a tile floor.\n\nBy following these tactile cues, you should be able to locate the plastic chairs in the store."
+  },
+  {
+    "image_id": 25,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chopsticks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a wooden display case filled with various items, including chopsticks. To locate the chopsticks, you can feel the wooden structure of the display case and the different items inside. The chopsticks are likely to be placed in a container or a section with other utensils. You can also use your sense of touch to identify the chopsticks by feeling the different textures and shapes of the items inside the display case."
+  },
+  {
+    "image_id": 26,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the chocolate milk is located on the right side of the scene. To guide you to it, I will describe the scene using tactile cues.\n\n1. The chocolate milk is placed on a shelf, which is a raised surface.\n2. The shelf is filled with various milk products, including chocolate milk.\n3. The chocolate milk is positioned towards the right side of the shelf.\n4. To reach the chocolate milk, you would need to move your hand towards the right side of the shelf.\n\nPlease note that the tactile cues provided are based on the visual information available in the image. If you require more specific guidance, please let me know, and I will do my best to assist you."
+  },
+  {
+    "image_id": 27,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a refrigerator with a variety of food items, including chips. To guide you to the chips, I can describe the scene in a way that you can feel the location of the chips. The refrigerator is filled with food items, and the chips are placed on the middle shelf. The chips are located in the middle of the shelf, and they are surrounded by other food items. To reach the chips, you can move your hand towards the middle of the shelf, and you will feel the chips."
+  },
+  {
+    "image_id": 28,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large market with a variety of vegetables on display. The vegetables are arranged in different sections, and some are placed in baskets. To guide you to the vegetables, I would suggest following these tactile cues:\n\n1. Look for the baskets: The vegetables are placed in baskets, which are typically larger and more noticeable. You can find these baskets in different areas of the market.\n2. Pay attention to the arrangement: The vegetables are organized in rows or sections, making it easier to locate them.\n3. Use your sense of touch: As you walk through the market, feel the different textures of the vegetables to identify their presence.\n4. Ask for assistance: If you are unsure about the location of the vegetables, you can ask the vendors or other shoppers for guidance.\n\nBy following these tactile cues, you should"
+  },
+  {
+    "image_id": 29,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large fruit display with various fruits such as apples, oranges, and bananas. The apples are located on the left side of the display, while the oranges are on the right side. The bananas are placed in the middle of the display. To reach the fruits, you can use your hands to feel the different textures and shapes of the fruits. For example, you can feel the smooth surface of the apples, the slightly rough texture of the bananas, and the slightly harder surface of the oranges. By following these tactile cues, you can navigate the fruit display and find the fruits you are looking for."
+  },
+  {
+    "image_id": 30,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the red wine is located on the right side of the scene. To guide you to the red wine, I would suggest following these tactile cues:\n\n1. Move forward and to the right.\n2. As you progress, you will encounter a row of wine bottles.\n3. Keep moving right and you will find the red wine bottle.\n4. The red wine bottle is placed on a shelf, so you may need to reach up slightly to grab it.\n\nRemember to be cautious and mindful of your surroundings while navigating the store."
+  },
+  {
+    "image_id": 31,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of food and drinks. To guide you to the beverages, I can describe the scene in a way that you can feel the different areas.\n\n1. Start by feeling the floor near the left side of the image. This area is likely to have a variety of food items, such as fruits, vegetables, and other groceries.\n2. Move towards the center of the image, where you can find the beverages. This area might have a variety of drinks, such as bottled water, juices, and soda.\n3. As you continue to explore the scene, you will come across a large stack of canned drinks. This is likely to be the area where you can find the beverages you are looking for.\n4. Finally, you can feel the right side of the image, which is likely to have more food items,"
+  },
+  {
+    "image_id": 32,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cooking oil. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the cooking oil is located on the left side of the scene. To guide you to it, I would suggest following these tactile cues:\n\n1. Feel the floor for a smooth, even surface.\n2. Move your hand to the left side of the image.\n3. As you continue moving to the left, you will feel the edge of a shelf.\n4. Keep moving to the left until you feel the edge of a shelf.\n5. You will feel a row of bottles on the shelf.\n6. Keep moving to the left until you feel the edge of a shelf.\n7. You will feel a row of bottles on the shelf.\n8. Keep moving to the left until you feel the edge of a shelf.\n9. You will feel a row of bottles on the shelf.\n10. Keep moving to the left until you feel the edge"
+  },
+  {
+    "image_id": 33,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bottled milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of milk bottles in a grocery store. The milk bottles are arranged on a shelf, with various sizes and shapes. To guide you to the bottled milk, I can provide you with tactile cues based on the scene.\n\n1. The milk bottles are arranged in a way that allows for easy access.\n2. The bottles are placed on a shelf, which is likely to be a raised surface.\n3. The bottles are grouped together, making it easier to locate the milk bottles.\n\nTo find the milk bottles, you can start by feeling the shelf where the bottles are placed. Once you locate the shelf, you can then use your fingers to explore the arrangement of bottles. The bottles are likely to be grouped together, so you can use your sense of touch to identify the milk bottles.\n\nRemember that the tactile c"
+  },
+  {
+    "image_id": 34,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain a carton of milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the milk is located on the left side of the scene, near the bottom. To guide you to the milk, I would suggest following these tactile cues:\n\n1. Feel the red carton with the word \"milk\" on it.\n2. Move your hand towards the left side of the scene.\n3. As you continue moving, you will feel the carton of milk.\n\nRemember that the image is a visual representation, and the actual tactile experience may vary. However, these cues should help you locate the milk carton in the scene."
+  },
+  {
+    "image_id": 35,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of chips in a grocery store. The chips are arranged in a circular fashion, with a variety of colors and flavors. To guide you to the chips, I would suggest following the circular arrangement of the chips. Start by identifying the outermost chips, then move inward towards the center of the display. As you approach the center, you will find the chips that are most likely to be the ones you are looking for. Once you have found the chips, you can either pick them up or ask for assistance from a store employee."
+  },
+  {
+    "image_id": 36,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of biscuits in a grocery store. The biscuits are arranged in a visually appealing manner, with some stacked on top of each other and others placed in rows. To locate the biscuits, you can feel the shelves and the items on display. The biscuits are likely to be in the middle or towards the back of the shelves, as they are a popular and frequently stocked item. You can also use your sense of smell to locate the biscuits, as they often have a distinct aroma. Additionally, you can ask a store attendant for assistance in finding the biscuits, as they are trained to help customers locate items within the store."
+  },
+  {
+    "image_id": 37,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain instant noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the noodles are located on the top shelf of the grocery store. To find the instant noodles, you should start by feeling the top shelf, which is the highest shelf in the store. As you move your hand along the shelf, you will feel the instant noodles, which are likely to be in a container or a box. The instant noodles are likely to be placed near the center or the back of the shelf, as they are a popular and frequently stocked item. Once you have located the instant noodles, you can then proceed to pick them up and bring them to the cashier for purchase."
+  },
+  {
+    "image_id": 38,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen pork. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of frozen pork in the grocery store. To guide you to the frozen pork, I would suggest following these tactile cues:\n\n1. Look for a refrigerated section in the store, as frozen foods are typically stored in the refrigerated areas.\n2. Listen for the sound of the refrigeration unit, which will indicate that the area is cold and contains frozen foods.\n3. Feel the surface of the display for any cold spots, which could be the refrigeration unit.\n4. Once you find the refrigerated section, look for a display case or shelf that has frozen pork.\n5. Use your sense of touch to feel the frozen pork, as it will likely feel cold to the touch.\n\nBy following these tactile cues, you should be able to locate"
+  },
+  {
+    "image_id": 39,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of bananas in the grocery store. To guide you to the bananas, I can describe the scene in a way that you can feel the location of the bananas.\n\n1. The bananas are located on the left side of the image, near the bottom.\n2. They are placed in a large display, which is likely a fruit stand or a section dedicated to fruits.\n3. The bananas are arranged in a way that makes them easily visible and accessible.\n\nTo reach the bananas, you can start by moving towards the left side of the image, and then follow the path of the fruit display. As you approach the bottom of the image, you should be able to feel the presence of the bananas."
+  },
+  {
+    "image_id": 40,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain watermelon cut. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the watermelon is located in the middle of the scene, surrounded by other fruits and vegetables. To find the watermelon, you can follow these tactile cues:\n\n1. Feel the surface of the market area for a large, round, and slightly raised object. This should be the watermelon.\n2. As you approach the watermelon, you may feel a slightly rougher surface compared to the other fruits and vegetables.\n3. The watermelon is positioned between two other fruits, which are located on the left and right sides of the scene.\n\nBy following these tactile cues, you should be able to locate the watermelon and pick it up."
+  },
+  {
+    "image_id": 41,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain soymilk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a shelf with various bottles of milk and soymilk. To guide you to the soymilk, I can provide you with tactile cues based on the scene.\n\n1. The bottles of milk are arranged in a row, with some bottles being taller than others. The soymilk is likely to be shorter than the milk bottles.\n2. The milk bottles are placed on the shelf, while the soymilk bottle is likely to be positioned closer to the front of the shelf.\n3. The milk bottles have labels, and the soymilk bottle is likely to have a label as well.\n4. The milk bottles are placed in a way that they are easily accessible, while the soymilk bottle might be slightly more difficult to reach due to its position on the shelf.\n\nBy following these tactile c"
+  },
+  {
+    "image_id": 42,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a person shopping in a grocery store, surrounded by various food items. To guide you to the noodles, I can provide you with tactile cues based on the scene.\n\n1. Feel the cart: The cart is located on the left side of the image.\n2. Identify the noodles: The noodles are located on the right side of the image, near the top.\n3. Reach out and touch the noodles: The noodles are in a container, which is placed on a shelf.\n4. Locate the shelf: The shelf is located above the noodles.\n5. Reach up and touch the shelf: The shelf is made of metal, and the noodles are placed on it.\n\nBy following these tactile cues, you should be able to locate the noodles in the grocery"
+  },
+  {
+    "image_id": 43,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain instant noodles. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the shelves are filled with various canned and packaged food items, including a wide assortment of instant noodles. To guide you to the instant noodles, I can provide you with tactile cues based on the scene.\n\n1. Feel the shelves: The shelves are made of metal and are likely to be cold to the touch. You can feel the shelves to locate the instant noodles.\n2. Identify the cans: The instant noodles are likely to be in cans. You can feel the cans to locate the instant noodles.\n3. Look for the color: Instant noodles usually come in a variety of colors. You can look for the color of the instant noodles to identify them.\n4. Listen for the sound: When you move the cans, you might hear the sound of the instant noodles"
+  },
+  {
+    "image_id": 44,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain paper towel household pack. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, you are in a grocery store with aisles filled with various products. To find the paper towel household pack, follow these tactile cues:\n\n1. Move your hand along the left side of the image, starting from the bottom left corner.\n2. As you move your hand, you will encounter a row of bottles. Keep moving your hand along the row, and you will eventually find the paper towel household pack.\n3. The paper towel household pack is located near the center of the image, slightly above the middle row of bottles.\n\nFollowing these tactile cues will help you locate the paper towel household pack in the grocery store."
+  },
+  {
+    "image_id": 45,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain onion. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the onions are located in the lower-left area of the scene. To help you find them, I can guide you by describing the tactile cues. The onions are in a basket, which is placed on a shelf. The shelf is made of wood, and the basket is filled with onions. The onions are arranged in a way that makes them easily identifiable. You can feel the wooden shelf and the basket to locate the onions."
+  },
+  {
+    "image_id": 46,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hami melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the hami melon is located on the right side of the scene, near the top. To guide you to it, I would suggest following these tactile cues:\n\n1. Feel the wooden countertop where the melon is placed. The countertop is likely to be a bit warmer than the surrounding area due to the heat generated by the melon.\n2. Move your hand towards the right side of the scene, following the countertop's contours.\n3. As you approach the melon, you should feel a change in the countertop's temperature, indicating that you are getting closer to the melon.\n4. Once you have reached the melon, you will feel a distinct change in temperature, as the melon is likely to be cooler than the surrounding area.\n5. To pick up the melon, you can either use your hands or ask for assistance from a store employee."
+  },
+  {
+    "image_id": 47,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of snacks displayed on shelves. The snacks are organized in rows, and there are several aisles to explore. To guide you to the snacks, I would suggest following these tactile cues:\n\n1. Look for the shelves with the most snacks on display. These shelves are likely to be located in the center or towards the back of the store.\n2. As you walk through the aisles, pay attention to the different sections of the store. You may find snacks in the bakery, deli, or snack aisle.\n3. When you find a shelf with snacks, you may feel a variety of textures, such as the smooth surface of the shelf or the bumpy texture of the snacks.\n4. As you approach the snacks, you may hear the sound of the sn"
+  },
+  {
+    "image_id": 48,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a fruit stand with a variety of fruits, including bananas. To guide you to the bananas, I can describe the tactile cues in the scene. The bananas are located on the right side of the stand, and they are placed in a group. You can feel the bananas by reaching out your hand and placing it on the stand. The stand is made of a material that allows you to feel the fruits, such as wood or a smooth, textured surface. The bananas are also arranged in a way that makes them easily accessible, so you can find them by exploring the stand with your hands."
+  },
+  {
+    "image_id": 49,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bowls. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of items, including bowls. To guide you to the bowls, I can describe the scene in a way that you can feel the environment.\n\n1. The store is filled with aisles and shelves, and the bowls are located on the shelves.\n2. The bowls are placed at different heights, so you may need to bend down or reach up to find them.\n3. The bowls are arranged in rows, with some closer to the front and others further back.\n4. The bowls are placed near other items, such as bottles, cups, and other kitchenware.\n\nTo find the bowls, start by exploring the shelves at different heights, and you should be able to locate them by feeling their shapes and sizes. Once you find the bowls, you can pick them up and feel their"
+  },
+  {
+    "image_id": 50,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain canned food. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with aisles filled with various canned food items. To guide you to the canned food, I can provide you with tactile cues based on the scene.\n\n1. The floor is made of tiles, which can be felt underfoot.\n2. The aisles are wide and spacious, allowing for easy movement.\n3. The canned food items are placed on shelves or in bins, which can be identified by their height and organization.\n4. The cans are likely to be stacked or placed in groups, making them easy to locate.\n\nTo find the canned food, start by feeling the floor and identifying the tiles. Then, use your sense of touch to explore the wide aisles and locate the shelves or bins where the canned food is stored. Finally, use your sense of smell to identify the"
+  },
+  {
+    "image_id": 51,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain office supplies. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large store with a variety of office supplies. To guide you to the office supplies, I will describe the scene using tactile cues.\n\n1. The store has a large section with shelves filled with office supplies.\n2. The shelves are organized, with items grouped together.\n3. The office supplies are placed at different heights, with some items being taller and others being shorter.\n4. The store has aisles that run through the store, with the office supplies being located near these aisles.\n5. The store has a colorful atmosphere, with various colors and patterns on the shelves and items.\n\nTo find the office supplies, you can start by exploring the aisles and looking for sections with shelves. As you move through the store, you will encounter different heights of items, which can help you locate the office supplies. Pay attention to the"
+  },
+  {
+    "image_id": 52,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a refrigerator with various bottles on the shelves. To find the beverages, you can use the following tactile cues:\n\n1. Feel the refrigerator door to locate the bottles.\n2. Run your fingers along the shelves to find the bottles.\n3. Look for the bottles that are placed at different heights and angles.\n4. Pay attention to the bottles' shapes and sizes to differentiate between them.\n5. If the bottles are placed in a specific order, try to identify patterns in their arrangement.\n\nBy following these tactile cues, you should be able to locate the beverages in the refrigerator."
+  },
+  {
+    "image_id": 53,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate favor cornmeal. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To find the chocolate favor cornmeal, follow these tactile cues based on the scene in the image:\n\n1. Move your hand along the shelf from left to right.\n2. As you move, you will feel the cereal boxes with different shapes and sizes.\n3. When you feel a box with a chocolate flavor, you will notice that it is larger and has a more prominent chocolate taste.\n4. The chocolate favor cornmeal box is located on the right side of the shelf, near the edge.\n5. You can identify the box by its distinct size and the chocolate flavor description.\n\nRemember that the tactile cues may vary depending on the specific cereal boxes and their arrangement on the shelf."
+  },
+  {
+    "image_id": 54,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain banana. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the bananas are located in the produce section of the grocery store. To guide you to the bananas, I can describe the scene in a way that you can feel the environment. The store has a large open space with a variety of fruits and vegetables. The bananas are placed on a shelf, which is likely to be at a height that is comfortable for you to reach. As you walk through the store, you will encounter aisles with different products, and the bananas are situated in one of these aisles. To find the bananas, you can follow the path of the aisles, and when you come across the produce section, you will be able to locate the bananas on the shelf."
+  },
+  {
+    "image_id": 55,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bowls. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with aisles filled with various items. You are currently standing in the middle of the store, and you are looking for bowls. To guide you to the bowls, I will describe the scene using tactile cues.\n\n1. Move forward and to your right.\n2. As you walk, you will pass by a person wearing a black shirt.\n3. Keep moving forward and to your right.\n4. You will come across a person wearing a red shirt.\n5. Continue moving forward and to your right.\n6. You will see a person wearing a white shirt.\n7. Keep moving forward and to your right.\n8. You will come across a person wearing a yellow shirt.\n9. Continue moving forward and to your right.\n10. You will see a person wearing a blue shirt."
+  },
+  {
+    "image_id": 56,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of snacks available. The store has a large selection of food items, including different types of snacks. To guide you to the snacks, I would suggest following these tactile cues:\n\n1. Look for a section or aisle dedicated to snacks. This could be labeled as \"snacks,\" \"convenience foods,\" or \"candy.\"\n2. Pay attention to the arrangement of the snacks. They might be displayed in bins, on shelves, or in a dedicated snack area.\n3. Use your sense of touch to explore the different snack options. You can feel the texture of the snacks, such as the smoothness of chocolate or the crunchiness of a pretzel.\n4. If you are unsure about the location of a specific snack, ask a store employee for assistance. They can guide"
+  },
+  {
+    "image_id": 57,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of items on display. To help you locate the basin, I will provide you with tactile cues based on the scene.\n\n1. The basin is located on the right side of the image, near the top.\n2. It is placed on a shelf, which is positioned above the other items in the store.\n3. The shelf is filled with various items, including bottles and bowls.\n4. The basin is situated among these bottles and bowls, making it easier to spot.\n\nTo find the basin, start by looking for the shelf with the bottles and bowls. Once you locate the shelf, scan the area for the basin, which should be positioned above the other items. Since the basin is among the bottles and bowls, you can use your sense of touch to feel the shape and"
+  },
+  {
+    "image_id": 58,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain zucchini. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, you are in a grocery store with a large display of zucchini. To guide you to the zucchini, I can describe the scene in a way that you can feel the location of the zucchini.\n\n1. The zucchini is located in the middle of the display, surrounded by other vegetables.\n2. The zucchini is at a height that is comfortable to reach for someone with a visual impairment.\n3. The zucchini is placed on a surface that is easy to navigate, such as a flat, even surface.\n\nTo find the zucchini, follow these tactile cues:\n\n1. Move your hand towards the center of the display, feeling for the zucchini.\n2. As you approach the zucchini, you will feel the surface beneath it becoming more prominent.\n3. Once you have located the"
+  },
+  {
+    "image_id": 59,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain frozen chicken. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of frozen chicken in the store. To guide you to the frozen chicken, I would suggest following these tactile cues:\n\n1. Look for a refrigerated display case with a clear glass door.\n2. The frozen chicken is likely to be placed on the lower shelves of the display case.\n3. The chicken may be arranged in rows or stacked in a pyramid shape.\n4. The chicken is likely to be covered in plastic wrap or placed in a plastic bag.\n5. The chicken may be placed near other frozen items, such as vegetables or other meats.\n\nBy following these tactile cues, you should be able to locate the frozen chicken in the store."
+  },
+  {
+    "image_id": 60,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of food items and shelves. To guide you to the snacks, I can provide you with a tactile cue based on the scene.\n\n1. Locate the snack aisle: As you enter the store, you will see aisles lined with food items. The snack aisle is typically located near the entrance or in the middle of the store.\n2. Look for snack-specific sections: Snacks are often grouped together in designated sections, such as chips, pretzels, or candy. These sections may be labeled or have distinct visual cues, like colorful packaging or larger displays.\n3. Use your sense of touch: As you walk through the store, use your hands to explore the shelves and feel the items. This will help you identify snacks by their texture, size, and shape."
+  },
+  {
+    "image_id": 61,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain ham. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of red boxes and bags, which are likely filled with various items. To help you locate the ham, I can guide you by describing the tactile cues in the scene.\n\n1. The red boxes and bags are stacked on top of each other, with some boxes being taller than others.\n2. The boxes and bags are arranged in a way that makes it easy to identify the different items.\n3. The ham is likely to be in a box or bag that is larger and more prominent than the others.\n\nBased on these tactile cues, you can start by looking for a large red box or bag that stands out from the rest. Once you find it, you can feel the edges and the surface to determine if it contains the ham. Remember to be patient and attentive to your surroundings, as the tactile cues may not be immediately apparent."
+  },
+  {
+    "image_id": 62,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain vegetables. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of vegetables in a grocery store. The vegetables are arranged in several baskets and crates. To guide you to the vegetables, I would suggest following these tactile cues:\n\n1. Feel the baskets and crates to locate the vegetables. They are likely to be placed on the floor or lower shelves.\n2. Pay attention to the arrangement of the vegetables. They might be grouped together or separated by type.\n3. If you are familiar with the store layout, you can use your memory of the location to navigate towards the vegetables.\n4. If you are using a white cane, you can use the cane to feel the edges of the baskets and crates, helping you locate the vegetables.\n\nRemember to be patient and take your time while navigating the store. If you need further assistance, you can ask the"
+  },
+  {
+    "image_id": 63,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of chips on the shelf. To guide you to the chips, I would suggest following these tactile cues:\n\n1. Feel the shelf for a raised edge or a slightly elevated surface. This is likely the shelf where the chips are displayed.\n2. Run your fingers along the shelf, feeling for any irregularities or bumps. The chips are likely to be placed in a group or a cluster, so look for a cluster of bumps or irregularities.\n3. Once you have located the chips, you can feel the bags to determine which one contains the chips you want.\n\nRemember that the tactile cues may vary depending on the specific layout of the store, but these general guidelines should help you locate the chips."
+  },
+  {
+    "image_id": 64,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain beverages. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of food and drinks. To guide you to the beverages, I can describe the scene in a way that you can feel the different sections.\n\n1. Start at the left side of the image, where you can feel the fresh produce section.\n2. Move towards the center of the image, where you can feel the dairy and eggs section.\n3. Continue to the right side of the image, where you can feel the beverages section.\n\nThe beverages section is likely to be located near the right edge of the image. You can feel the different types of beverages, such as bottled water, juice, soda, and energy drinks. The tactile cues will help you navigate the store and find the beverages you are looking for."
+  },
+  {
+    "image_id": 65,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of bread in a grocery store. The bread is arranged on a long table, and there are several types of bread available. To guide you to the bread, I would suggest following these tactile cues:\n\n1. The table is long and spans across the entire image.\n2. The bread is arranged in rows, with each row containing different types of bread.\n3. The bread is placed on the table, and you can feel the texture of the bread as you approach.\n4. The table is likely made of a material that feels smooth and stable, such as wood or metal.\n\nBy following these tactile cues, you should be able to locate the bread and pick the type you prefer."
+  },
+  {
+    "image_id": 66,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain basin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of various bowls and basins in a store. The bowls are arranged on shelves, and some are placed on the floor. To help you locate the basin, I can guide you by describing the tactile cues in the scene.\n\n1. The bowls are of different sizes and shapes, so you can feel the differences in size and shape when you touch them.\n2. The bowls are arranged on shelves and placed on the floor, so you can feel the elevation changes when you touch them.\n3. The bowls are placed in a way that allows you to feel their edges and contours.\n4. The bowls are arranged in a way that makes it easy to identify the basin by its size and shape.\n\nBy using these tactile cues, you should be able to locate the basin in the store. Remember to be patient and take your time"
+  },
+  {
+    "image_id": 67,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cabbage. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the cabbage is located on the right side of the scene, near the top. To guide you to the cabbage, I would suggest following these tactile cues:\n\n1. Feel the wooden shelf or table where the cabbage is displayed. The shelf or table is likely to be made of wood, and the cabbage is placed on top of it.\n2. Use your fingers to explore the wooden surface, feeling the texture and any bumps or irregularities.\n3. As you move your fingers along the surface, you should come across the cabbage. It is likely to be a firm, slightly irregular shape, and its texture might be slightly rough or stiff.\n4. Once you have located the cabbage, you can either pick it up by grasping it firmly or ask for assistance from someone nearby.\n\nRemember to be cautious while handling the cabbage, as it might be heavy or"
+  },
+  {
+    "image_id": 68,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated meat. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a refrigerated meat section with various types of meat displayed. To guide you to the refrigerated meat, I would suggest following these tactile cues:\n\n1. Feel for the cold surface of the refrigerated meat section.\n2. Look for the meat products that are placed in the refrigerated area.\n3. You may also find the meat products in the refrigerated section by following the visual cues, such as the color of the meat and the packaging.\n\nBy following these tactile cues, you should be able to locate the refrigerated meat section and find the products you are looking for."
+  },
+  {
+    "image_id": 69,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain snacks. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a grocery store with a large aisle filled with various snacks. To guide you to the snacks, I can provide you with tactile cues based on the scene.\n\n1. The aisle is wide and spacious, allowing you to move around comfortably.\n2. The snacks are likely placed on shelves or in bins, which can be identified by their height and organization.\n3. The snacks may have different textures, such as crunchy, chewy, or soft, which can be felt when touching them.\n4. The snacks may have distinct smells, which can be detected by your sense of smell.\n5. The snacks may be grouped together based on their type, such as chips, candies, or granola bars.\n\nBy using these tactile cues, you can navigate the grocery store and find"
+  },
+  {
+    "image_id": 70,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of chips in a grocery store. The chips are arranged in a circular fashion, with a variety of flavors and colors. To guide you to the chips, I would suggest following these tactile cues:\n\n1. Feel the circular arrangement of chips.\n2. Look for the chips with different colors and flavors.\n3. The chips are placed on a shelf, so you can feel the shelf's edge.\n4. The chips are arranged in a way that makes it easy to pick one up.\n\nBy following these tactile cues, you should be able to locate the chips and pick one up."
+  },
+  {
+    "image_id": 71,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain champagne. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of products, including champagne. To guide you to the champagne, I can describe the scene in a way that you can feel the environment.\n\n1. The store is well-lit, with bright lights illuminating the aisles.\n2. The floor is made of tiles, which can be felt underfoot.\n3. The store has a wide aisle, allowing for easy movement.\n4. The champagne is likely to be located in the beverage section, which may be near the center of the store or towards the back.\n5. The store has a variety of products, including bottles and cans, which can be felt as you walk through the aisles.\n\nBy following these tactile cues, you should be able to locate the champagne section in the store."
+  },
+  {
+    "image_id": 72,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a grocery store with a variety of products, including biscuits. To guide you to the biscuits, I can describe the scene in a way that you can feel the location of the biscuits.\n\n1. The biscuits are located on the right side of the image, near the top.\n2. They are placed in a box, which is positioned on a shelf.\n3. The shelf is located in the middle of the image, with the biscuits being the main focus.\n\nTo find the biscuits, you should start by looking for the shelf in the middle of the image. Once you find the shelf, look for the box containing the biscuits. The biscuits are likely to be in the box, which is placed on the shelf."
+  },
+  {
+    "image_id": 73,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chocolate favor biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the chocolate favor biscuits are located on the right side of the scene, near the bottom. To find them, you can start by feeling the shelves on the left side of the image, as they are likely to contain other snack items. Once you have identified the shelves on the left side, move your hand towards the right side of the image, feeling the shelves as you go. As you reach the right side, you will find the chocolate favor biscuits on a shelf near the bottom."
+  },
+  {
+    "image_id": 74,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a fruit stand with a variety of fruits displayed. The fruits are organized in different sections, and there are several oranges and apples visible. To guide you to the fruits, I would suggest following these tactile cues:\n\n1. Feel the surface of the stand to locate the fruits.\n2. Look for the oranges, which are typically round and have a slightly rough texture.\n3. Search for the apples, which are usually round and have a smoother surface.\n4. Pay attention to the arrangement of the fruits, as they are often grouped together based on their type.\n5. If you are unsure, ask a store attendant for assistance.\n\nRemember that the fruits are placed in different sections, so you may need to move around the stand to find the fruits you are looking for."
+  },
+  {
+    "image_id": 75,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain biscuits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of food items, including biscuits. To guide you to the biscuits, I can describe the scene in a way that you can feel the environment. The store has aisles with shelves displaying food items. The biscuits are located on the shelves, which are arranged in a way that allows you to feel the different sections of the store.\n\nTo find the biscuits, you can start by feeling the shelves on the left side of the store, then move to the center, and finally, explore the right side. As you move through the aisles, you will come across various food items, including biscuits. By following this guidance, you should be able to locate the biscuits in the store."
+  },
+  {
+    "image_id": 76,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of products, including chips. To guide you to the chips, I can describe the scene in a way that you can feel the environment.\n\n1. The store has aisles with shelves filled with different products.\n2. The chips are located in the middle of the store, near the center.\n3. The chips are placed on a shelf, which is slightly elevated from the floor.\n4. The shelf is surrounded by other products, but the chips are the most prominent item in the area.\n\nTo find the chips, start by walking down the aisle and feeling the shelves as you go. When you reach the middle of the store, you should feel the elevated shelf where the chips are placed. The chips are likely to be on or near this shelf."
+  },
+  {
+    "image_id": 77,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated pork. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a refrigerated pork section located on the right side of the scene. To guide you to it, I can describe the tactile cues based on the scene.\n\n1. The pork section is located in the right-hand side of the image.\n2. The pork is placed in a refrigerated area, which is indicated by the cold temperature and the presence of a refrigerator.\n3. The refrigerator is situated in the middle of the scene, with the pork section being placed above it.\n4. The pork is displayed in a way that makes it easily accessible, with the items being well-organized and placed at a comfortable height for a visually impaired person to reach.\n\nBy following these tactile cues, you should be able to locate the refrigerated pork section in the image."
+  },
+  {
+    "image_id": 78,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain bread. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of various types of bread in a bakery. The display is filled with different kinds of bread, and they are arranged in a visually appealing manner. To guide you to the bread, I would suggest following these tactile cues:\n\n1. The display is located in the center of the image, with the bread arranged in a circular pattern.\n2. The bread is placed on a counter, which is likely made of wood.\n3. The counter is surrounded by a variety of bread, with some placed closer to the front and others further back.\n4. The bread is arranged in a way that makes it easy to see and access.\n\nBy following these tactile cues, you should be able to locate the bread and make your selection."
+  },
+  {
+    "image_id": 79,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain family pack rice. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of products, including a large selection of rice. To guide you to the family pack rice, I can describe the scene in a way that you can feel the environment.\n\n1. The store is filled with shelves and aisles, and the rice is located in the middle of the store.\n2. The rice is placed on a shelf, and it is surrounded by other products.\n3. The shelf is relatively high, and the rice is positioned near the top of the shelf.\n4. The rice is in a large container, which is placed on the shelf.\n5. The store is well-lit, and the rice is clearly visible.\n\nTo find the family pack rice, you should start by walking down the middle aisle of the store, and then look for a shelf with a large container. Once you find the container,"
+  },
+  {
+    "image_id": 80,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a man wearing a mask and a blue jacket, reaching for a bag of chips. The chips are located on the left side of the image, near the bottom. To find the chips, you can follow the man's hand movement and reach out to the left side of the image, where you will find the bag of chips."
+  },
+  {
+    "image_id": 81,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain red wine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a man walking with a shopping basket, which is filled with groceries. The man is wearing a face mask, indicating that it might be a time of concern for public health. The shopping basket is located in the center of the image, and the man is walking towards the right side of the frame.\n\nTo find the red wine, you can follow the man's path and look for a section of the store that sells wine. Since the man is carrying a basket, it is likely that the wine is stored in a section with other groceries. You can also ask the man for directions or assistance in locating the red wine."
+  },
+  {
+    "image_id": 82,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tomato. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the tomatoes are located in the middle of the scene, with a large pile of them. To guide you to the tomatoes, I would suggest following these tactile cues:\n\n1. Feel the surface of the image, and you will notice a large pile of tomatoes.\n2. The tomatoes are arranged in a stack, so you can feel the stack's shape and structure.\n3. The tomatoes are placed on a shelf, so you can feel the shelf's edges and the tomatoes' position on it.\n4. The tomatoes are surrounded by other fruits and vegetables, such as bananas and carrots. You can feel the different textures and shapes of these items.\n\nBy following these tactile cues, you should be able to locate the tomatoes in the image."
+  },
+  {
+    "image_id": 83,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of fruits on display. To guide you to the refrigerated fruits, I can provide you with tactile cues based on the scene.\n\n1. The fruits are placed in a refrigerated section, which is typically located in the back or side of the store.\n2. The fruits are organized in rows, with some placed on shelves and others in bins.\n3. The fruits are displayed in a way that makes them easily accessible, with some placed at eye level and others at a lower level.\n4. The fruits are well-organized, with each type of fruit grouped together.\n5. The refrigerated section is likely to be near the produce section, as it is common for fruits to be stored in the same area.\n\nBy following these tactile cues, you should be able to locate"
+  },
+  {
+    "image_id": 84,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain gun mug. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the gun mug is located on the right side of the scene, near the top. To find it, you can start by moving your hand towards the right side of the image, and then follow the path of the shelves downwards. As you move downwards, you will come across a shelf with a variety of cups and bowls. The gun mug is situated among these items. To identify it, you can feel the shape and size of the mug, and also look for any distinctive features or markings that might help you recognize it."
+  },
+  {
+    "image_id": 85,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain refrigerated fruits. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large refrigerated display filled with various fruits. To guide you to the refrigerated fruits, I would suggest following these tactile cues:\n\n1. Feel the floor for a cold surface, which indicates the presence of a refrigerator.\n2. Listen for the sound of the refrigerator's motor, which can be heard when the door is open.\n3. Locate the refrigerator by its size and shape, which is larger and more prominent than the other appliances in the store.\n4. Once you find the refrigerator, feel the door for a cold surface, which will indicate that the fruits are stored inside.\n5. To access the fruits, open the refrigerator door and feel for the shelves or compartments where the fruits are stored.\n\nBy following these tactile cues, you"
+  },
+  {
+    "image_id": 86,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain celery. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the refrigerator is filled with various food items, including broccoli and other vegetables. To find the celery, you can feel the refrigerator door and the shelves inside. The celery is likely to be placed on the shelves or in the lower sections of the refrigerator. You can also use your sense of smell to locate the celery, as it has a distinct aroma. Once you find the celery, you can easily identify it by its texture and feel."
+  },
+  {
+    "image_id": 87,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain carrots. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the carrots are located in the lower-left area of the scene. To guide you to the carrots, I would suggest following the path of the carrots by moving your hand in the direction of the carrots. As you move, you will feel the floor and the items in the store. The carrots are in a basket, so you can also feel the basket as you approach it. Once you reach the basket, you will be able to feel the carrots inside."
+  },
+  {
+    "image_id": 88,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain orange. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of fruits and vegetables in a grocery store. To find the oranges, you can follow these tactile cues:\n\n1. Feel the green shelves: The oranges are likely to be placed on the green shelves, as they are a common color for fruits and vegetables.\n2. Look for the shape: Oranges have a distinctive round shape, so you can identify them by their shape.\n3. Listen for the sound: When you gently tap the shelves, you might hear the sound of oranges, which can help you locate them.\n4. Use your sense of smell: Oranges have a strong, sweet aroma. You can use your sense of smell to locate them among the other fruits and vegetables.\n\nBy following these tactile cues, you should be able to find the oranges in the"
+  },
+  {
+    "image_id": 89,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain orange. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a wooden crate filled with oranges. To guide you to the oranges, I can describe the scene in a way that you can feel the crate and the oranges. The crate is located on the right side of the image, and it is filled with oranges. The oranges are arranged in a way that they are easily accessible. You can feel the crate by placing your hands on it, and the oranges can be felt by placing your hands on the oranges. The wooden crate is a sturdy and stable surface, making it easy to navigate and find the oranges."
+  },
+  {
+    "image_id": 90,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain tissue paper. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, you are in a grocery store with aisles filled with various products. To find tissue paper, follow these tactile cues:\n\n1. Move forward and to the right, as you are currently facing the left side of the store.\n2. As you continue walking, you will come across a refrigerator. The tissue paper is located on the right side of the refrigerator.\n3. Keep moving forward, and you will see a shelf with tissue paper on it.\n4. The tissue paper is placed on the shelf, and you can feel the texture of the shelf as you approach it.\n5. Once you find the tissue paper, you can pick it up and feel its weight and texture.\n\nRemember to use your sense of touch and spatial awareness to navigate the store and locate the tissue paper."
+  },
+  {
+    "image_id": 91,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain hemi melon. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the hemi melon is located on the right side of the scene, near the center. To guide you to it, I would suggest following these tactile cues:\n\n1. Feel the surface of the fruit stand where the melon is placed. The stand is likely to be a bit elevated, so you might need to use your hands to feel the surface.\n2. As you approach the stand, you will feel the melon's shape and texture. It is a round fruit with a slightly curved surface.\n3. Once you have located the melon, you can use your hands to gently pick it up and feel its weight.\n\nRemember to be cautious and respectful of other shoppers while navigating the market."
+  },
+  {
+    "image_id": 92,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain pineapple. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the pineapple is located on the left side of the scene, near the top. To guide you to it, I would suggest you to feel the left side of the image, starting from the top, and continue moving your fingers downwards. You should feel a slightly rough surface, which is the pineapple. Once you have located the pineapple, you can then proceed to pick it up."
+  },
+  {
+    "image_id": 93,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain milk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a refrigerator filled with various bottles, including milk. To guide you to the milk, I can describe the scene in a way that you can feel the location of the milk. The refrigerator is on the left side of the image, and the milk is placed on the middle shelf. To reach the milk, you can move your hand towards the left side of the refrigerator, and then slide your hand upwards to the middle shelf. The milk is located on the middle shelf, so you should feel the bottles in that area."
+  },
+  {
+    "image_id": 94,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain cherry. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the cherry is located on the right side of the refrigerator, near the top. To reach the cherry, you can feel the refrigerator door and slide your hand towards the cherry. The cherry is positioned at the top of the refrigerator, so you should be able to find it by following these tactile cues."
+  },
+  {
+    "image_id": 95,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain sparkling water. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large grocery store with a variety of products, including shelves filled with bottles and a refrigerator. To guide you to the sparkling water, I will describe the scene using tactile cues.\n\n1. The refrigerator is located on the right side of the store, near the back.\n2. The bottles are arranged on shelves, with some placed higher and others lower.\n3. The shelves are organized in a way that allows for easy access to the products.\n4. The store layout is designed to facilitate movement and navigation for customers.\n\nTo find the sparkling water, start by exploring the refrigerator area, as it is likely to contain a variety of beverages. Once you find the refrigerator, you can check the shelves for bottles. The bottles are arranged in a way that allows for easy"
+  },
+  {
+    "image_id": 96,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain chips. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, there is a large display of chips in the store. To guide you to the chips, I can describe the scene in a way that you can feel the chips' location. The chips are placed on a shelf, which is located on the left side of the image. The shelf is filled with various chips, and they are arranged in a way that makes it easy to pick them up. The chips are also placed in a way that allows you to feel their texture and size. By following these tactile cues, you should be able to locate the chips and pick them up with ease."
+  },
+  {
+    "image_id": 97,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain corncob. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the corn on the cob is located on the right side of the display, near the top. To find it, you can feel the wooden shelf and the corn on the cob should be on the right side. The shelf is made of wood, and the corn is placed on it. You can also use your sense of smell to locate the corn, as it should have a distinct smell."
+  },
+  {
+    "image_id": 98,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain kiwifruit. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "In the image, the kiwifruit is located in the lower-left corner of the scene. To guide you to it, I would suggest following these tactile cues:\n\n1. Feel the ground for a smooth, even surface.\n2. Move your hand towards the lower-left corner of the scene.\n3. As you approach the corner, you should feel a stack of boxes or crates.\n4. The kiwifruit is likely to be placed on top of these crates.\n5. Once you find the crates, you can feel the kiwifruit by placing your hand on top of it.\n\nRemember to be cautious and mindful of your surroundings while navigating the market."
+  },
+  {
+    "image_id": 99,
+    "question": "I am visually impaired, and the scene depicted in the image represents my current view. I wish to obtain Danish cookie. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "instruction": "To find the Danish cookie, you should look for a shelf with a variety of cookies. Since you are visually impaired, I can guide you by describing the scene in a more tactile manner. The Danish cookie is located on the shelf, which is positioned to the right of the image. You can feel the shelf by placing your hand on it. The Danish cookie is placed on the shelf, and you can find it by following the tactile cues provided."
+  }
+]

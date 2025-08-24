@@ -1,0 +1,552 @@
+[
+  {
+    "index": 0,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward 5 steps, then Remain standing. There are no significant obstacles along this short distance, though you may notice a rectangular floor mat beneath your feet, offering a slightly rough surface. The target object you want to approach is at your Front. The exit door is composed of large glass panels framed by metal; it feels smooth and cool if you brush the glass. This is an automatic door, approaching to open the door. The threshold is nearly level, though it may have a small lip or metal strip, so step with caution as you pass through.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A carpeted corridor leads to glass double doors marked as an emergency exit, flanked by fire extinguishers, waste bins, and restroom and stairwell signs."
+  },
+  {
+    "index": 1,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please turn slightly left (about 30 degrees) and move forward 2 steps, then remain standing. You may notice a slight transition from the textured floor mat to the smoother hallway floor beneath your feet. The target object you want to approach is at your Front-Left. The bin is a waist-high, rectangular container made of smooth  metal, with two separate openings on top\u2014one labeled for general waste and the other for dry recycling. Once you are within arm's reach, you can extend your hand at waist level to touch the rounded edges near the circular opening for the garbage bin.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A hallway with waste bins and side doors opens into a wider corridor where a person walks past lockers and a wet-floor caution sign."
+  },
+  {
+    "index": 2,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward one or two small steps until you feel the wall or door surface directly ahead. The door is a standard-height rectangle made of wood or metal with a smooth, painted finish; near your chest area, you will find a narrow rectangular glass window inset into the door, and just to the left side, a horizontal handle or lever made of cool, metallic material. As you reach out and touch the surface, the door should feel solid and slightly cool, with the window's glass portion giving a smooth, harder feel. If you run your hand along the door's edge, you can locate the handle at mid-torso height, which you can press downward or push outward (depending on the mechanism) to open.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A dark grey door labeled \u201cComputer Lab\u201d with a narrow viewing window stands beside a wall-mounted no-smoking sign and information notice."
+  },
+  {
+    "index": 3,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: wooden mail box. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward approximately 6 steps while remaining near the left wall, then remain standing. You will first pass a series of wall-mounted boards or posters, and as you continue, you may feel or hear a radiator against the wall to your left. The target object you want to approach is at your Front, located slightly in front of the radiator. It is a wooden box-like structure at around waist height, with a smooth, possibly varnished surface. Once you are within arm's reach, run your hand along its edges and top surface to confirm its shape and texture.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A spacious hallway lined with lockers, posters, and notice boards curves toward glass entrance doors where a person walks in the distance."
+  },
+  {
+    "index": 4,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: men's bathroom. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Please move forward about three steps while keeping slightly to the left, and take care not to collide with the yellow caution sign near the entry. You will notice lockers on your left-hand side, their smooth metal doors at about waist to head height. The men's bathroom door is a short distance beyond the lockers, marked by a sign above the door displaying the male symbol.You can  push  to open the door.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A corridor lined with teal lockers leads to glass exit doors, where a person sits near a wet-floor caution sign under an illuminated emergency exit."
+  },
+  {
+    "index": 5,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: female's bathroom. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about 6 steps, staying slightly to the right side of the hallway where you can feel the long row of lockers. You will pass under a sign displaying the female symbol, mounted above a smooth, painted door set flush with the same wall as the lockers. You can  push  to open the door. The door itself feels solid, with a cool, hard finish.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A spacious hallway curves past teal lockers toward glass entrance doors, notice boards, and blue seating, with a person standing in the open area."
+  },
+  {
+    "index": 6,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about 4 steps while keeping to the right side of the hallway, passing by the dark gray doors on your left. You will then encounter a waist-high, rectangular bin positioned just before a row of blue seats on your right. The container is made of smooth  metal and has two openings on top\u2014one labeled 'General Waste' (with a circular hole) and another for recycling. Once you are within arm's reach, extend your hand at about waist level to feel the rounded rim around the opening for the garbage bin.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A bright hallway features dark grey lab doors, notice boards, a row of blue seats, and glass entrance doors at the far end."
+  },
+  {
+    "index": 7,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: elevator. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about 8 steps, staying near the center of the hallway and passing the row of blue fabric seats on your left. The elevator is directly ahead, behind  smooth, metal doors set into the wall; above them, then move forward 4 steps. Once you are close, you can extend your hand at around waist height to locate the rectangular call panel on either the right or left side of the doors (likely the right). The panel and doors feel cool and firm to the touch; you will find small, raised buttons to press for calling the elevator.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A bright hallway centers on an elevator behind glass doors, surrounded by fire safety equipment, notice boards, and rows of blue seats."
+  },
+  {
+    "index": 8,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about 5 steps, staying close to the wall on your left so you can feel the smooth plaster surface or the edges of the notice boards if you're using your hands or cane. After these few steps, you will come into arm's reach of a row of bright-blue chairs that are attached to the wall at seat height. The seats themselves feel slightly padded, while the supporting frame\u2014likely metal\u2014is cool and firm to the touch and positioned around knee to mid-thigh height. Once you feel the edge of the seat cushion and the chair's back, you can orient yourself to sit down safely.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A quiet corridor with blue bench seating, bulletin boards, and a yellow-framed doorway curves toward darker side hallways under recessed ceiling lights."
+  },
+  {
+    "index": 9,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: lecture room. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please turn slight right (about 45 degree), then move forward about 4 steps, keeping to the right side of the corridor as it gently curves. You will pass a bright yellow alcove on your right, in which a set of large, dark double doors is recessed; each door is smooth and solid to the touch, with a narrow rectangular window set vertically. The sign above or beside the door indicates 'Theatre' or 'Lecture Room.' Once you are within arm's reach, the doors feel firm and slightly cool, and you should locate a vertical metal handle around mid-torso height, which you can pull or push to enter the lecture room.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A curved corridor lined with notice boards passes a yellow-framed theatre door and continues toward an emergency exit under soft overhead lighting."
+  },
+  {
+    "index": 10,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please push open the double doors in front of you by placing your hands at chest height on the smooth, rectangular metal push plates; once through, walk forward about three steps, passing a caution sign on the floor. The staircase is located on your left, with a sturdy handrail at about waist or chest height and steps roughly six to seven inches high. Gently place your foot on the first step and grip the rail for balance as you proceed upwards.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "Seen through glass fire doors, a corridor reveals a stairwell ascending on the left and a stainless-steel elevator ahead, with a yellow caution sign on the floor."
+  },
+  {
+    "index": 11,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about four or five steps toward the middle of the open lobby area. The target object is a large, circular seating structure, rising in tiers like a stepped platform. Around the outermost ring, at roughly knee height, you will find padded sections that feel firm yet slightly soft\u2014these are segmented cushions in orange and blue. As you approach, you may first contact a smooth, curved surface (the bench's outer shell). Once you reach it, run your hand along the rounded edge to locate a seating segment, and you can gently lower yourself onto the cushion.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A spacious lobby centers on a large circular tiered bench with blue and orange seating, framed by yellow-accented walls, lockers, and illuminated notice boards."
+  },
+  {
+    "index": 12,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward around four steps while keeping slightly to your left, passing a smooth countertop at waist height. You will then encounter a circular metal table accompanied by tall stools\u2014bar-style chairs with a padded, rounded seat at approximately mid-torso height, supported by a shiny chrome stem and base. Once you sense the stool's cool, metallic frame, run your hand along the underside of the seat to confirm the stool's position. Carefully place a hand on the seat's edge for balance, as it may swivel slightly, and then settle yourself onto the round, cushioned top.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A bright cafeteria nook with round tables and purple swivel stools overlooks treetops through a wrap-around band of windows."
+  },
+  {
+    "index": 13,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: beverage refrigerators. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please turn slightly to your right and move forward about one or two steps, keeping the wooden disposal unit on your left. The vending machine you want to approach is the tall, rectangular appliance with a glass front, situated immediately to the right of the wooden bin. Once you are within arm's reach, you can feel the cool, smooth glass panel at roughly chest height, and a metal or plastic casing on the sides. Depending on the machine's design, you may locate a handle or button panel near the front to access or purchase a drink; the surface around that area will feel slightly raised and possibly include a coin slot or card reader.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A blue-walled refreshment corner features a playful coffee sign, recycling station, and lit beverage coolers stocked with energy drinks and sodas beside fire extinguishers."
+  },
+  {
+    "index": 14,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward 3 steps, then Remain standing. The target object you want to approach is at your Front. This is a tall glass door framed with dark metal, located beside a metallic shuttered counter on your left. As you near it, you will feel a rectangular floor mat underfoot, which indicates the threshold area. Around waist height, you will find a horizontal handle that feels cool to the touch. Gently push or pull the handle to open the door, taking care if there is a small step or lip at the transition to the outside.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A bright cafeteria seating area with round tables and purple stools sits beside a doorway to an outdoor terrace and wrap-around windows overlooking trees."
+  },
+  {
+    "index": 15,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: DISC room. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward 3 steps, staying near the wall on your left. The first black door you encounter is  the correct one, you'll find a dark-colored door marked by a green circular 'DISC' sign above it. Once you reach this  door, feel around mid-torso height for a cool, metallic lever or handle. Press or pull the handle gently to open the door, and you will have arrived at the DISC room.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A well-lit hallway features a bulletin board with posters, dark doorways, recycling bins, and a wall-mounted TV, leading toward glass exit doors beside a yellow-accented corner and potted plant."
+  },
+  {
+    "index": 16,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: water bottle. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about three steps while keeping slightly to your left, heading toward the waist-high counter or shelf beneath the large poster on the yellow wall. As you reach this shelf, run your hand along its smooth, flat surface until you encounter a tall, cylindrical metal container\u2014this is the water bottle. It feels cool and solid to the touch, standing approximately a foot high, with a rounded cap at the top.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A brightly lit institutional corridor with curved yellow walls features a blue door and a built-in service counter displaying posters and power outlets."
+  },
+  {
+    "index": 17,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: poster board. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about six steps, angling slightly toward the wall on your left, until you're facing the white wall where multiple notices and posters are displayed. The target object is a rectangular poster board mounted at roughly chest to head height, surrounded by a smooth metal or plastic frame. As you reach out, you'll feel a firm, flat surface where papers or flyers may be attached with pins or tape. Running your hand along the edges will help confirm the board's boundaries; it will likely feel cooler and more rigid than any paper postings affixed to it.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A spacious, white-walled lobby with bulletin boards and black doors features curved bench seating beneath recessed ceiling lights."
+  },
+  {
+    "index": 18,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please turn slightly right and move forward about four steps while keeping the wall on your right. You will pass a plant in a pot on your left and a 'wet floor' sign somewhat to your left front. The staircase is accessible through the dark-colored door on your right, marked by a pink sign above it depicting stairs. Once you are within arm's reach, you can feel a smooth, solid surface and a cool, metallic handle or lever around mid-torso height. Gently push or pull this handle to open the door, and you will find the staircase just inside, with a handrail at about waist to chest height for support.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A corridor with glass exit doors leading to a skywalk features bulletin boards, a black doorway, a potted plant, and a caution wet floor sign."
+  },
+  {
+    "index": 19,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: printing machine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward 2 steps, staying slightly to the right side of the hallway. The target object you want to approach is a waist-high printing machine situated on top of a small wooden cabinet. As you draw near, you will feel the smooth, rectangular surface of the printer's plastic casing, and you might detect a paper tray or output slot at around chest height. The machine's edges are firm and cool, with raised buttons or a touch panel on the top/front area, where you can interact with the printer's controls.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A long institutional hallway with striped green carpet features gray doors, notice boards, a printer station, and glass doors at the far end."
+  },
+  {
+    "index": 20,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: aid box. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward 3 steps, slightly to the right side of the hallway. The target object you want to approach is a bright orange rectangular aid box mounted on the wall at about chest to shoulder height, positioned to the upper left of the waste bins. As you come within arm's reach, you will feel its smooth, plastic exterior\u2014relatively cool to the touch, with a small latch or hinge near the center or along one edge.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A bright hallway with striped carpet hosts a first-aid box and waste bins on one wall, while notice boards line the opposite side leading toward glass exit doors."
+  },
+  {
+    "index": 21,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: poster board. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about three steps while staying near the wall on your right, where you'll notice a painted cinder-block texture under your fingertips or cane. You will encounter a rectangular poster board at roughly chest to head height, framed by a cool, rigid metal or plastic border. Running your hand along the wall will help you detect the sudden change from the rough painted blocks to the smooth, framed surface of the poster board, which may have paper notices attached.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A brightly lit hallway with striped green-and-orange carpet leads to glass exit doors, and framed posters line the walls."
+  },
+  {
+    "index": 22,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire extinguisher. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about 10 steps along the narrow corridor, keeping slightly to the left side where you'll notice a metal radiator at around knee to waist height. As you near the dark doorway ahead, you will find  two red fire extinguishers mounted on the wall at about hip to chest height. Run your hand along the smooth cinder-block surface to feel where it transitions to the cool, cylindrical extinguisher body, which has a curved top carrying a handle or trigger assembly.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A narrow hallway with green and white brick walls and patterned carpet leads to a dark door under bright ceiling lights."
+  },
+  {
+    "index": 23,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: aid box. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about two or three steps, remaining near the wall on your right. You will pass two fire extinguishers mounted at around knee to hip height, and above them, at roughly head level, is the bright orange rectangular aid box with a small plus sign on the front. Its smooth plastic surface may feel cool or slightly textured, and you might detect a latch or hinge along one edge. Simply reach out at mid-chest height to confirm the box's presence by touch.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A hallway corner features dark double doors, a bulletin board of colorful posters, and mounted fire extinguishers beneath a fire point sign."
+  },
+  {
+    "index": 24,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move straight ahead about 6 steps along this narrow corridor, keeping roughly to the center of the walkway. You will pass one or two doorways on your left (including an accessible restroom marked by a pink sign overhead), and the exit door is located at the far end. Look for (or feel for) a smooth, solid door with a glass panel and a cool, metallic handle or push-bar near mid-torso height. There should also be a green illuminated 'EXIT' sign above it. Once within arm's reach, press or push the handle gently to open and step through the threshold.",
+    "EnvQ": "In one sentence, give an overall description of the scene in the image (no numbers).",
+    "EnvA": "A narrow corridor with green walls, patterned carpet, and emergency signage leads to an exit door lit by a glowing sign."
+  },
+  {
+    "index": 25,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about two steps, then Turn slightly left. The target object you want to approach is at your Front-Left. You will notice a low, rectangular seating area with two connected cushions and a smooth metal frame supporting it at around knee height. As you extend your arm, you may feel the cool, firm edge of the metal base and the slightly padded, tufted upholstery. Carefully reach down to gauge the seat's height, then lower yourself onto the cushions, which should feel firm yet somewhat soft under your hands."
+  },
+  {
+    "index": 26,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: men's bathroom. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please turn slight right (about 30 degree), then move forward about 3 steps toward the large blue wall until you can feel the door's smooth surface at approximately arm's reach. You will notice a raised male symbol or sign at about eye to chest level, indicating the men's bathroom. Along the door's center, around mid-torso height, there is a rectangular push plate\u2014cool, smooth to the touch\u2014which you can press to open. Simply push or pull gently as the door mechanism allows and step carefully through the threshold to enter."
+  },
+  {
+    "index": 27,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: water dispencer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward approximately three small steps while keeping slightly to your left, heading toward the partially open alcove where the white tiled area begins. You will feel a brief change in flooring as you approach the recessed space. The water dispenser stands at about waist to chest height, housed in a smooth, cylindrical or rectangular plastic unit. Once within arm's reach, you can touch the cool outer casing, and feel the small dispensing lever or button on the front. "
+  },
+  {
+    "index": 28,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about three or four small steps, then Turn slightly left. The target object is a row of connected, molded-wood or plastic chairs attached to a metal frame at roughly knee to mid-thigh height. As you approach, you may first notice the texture of the tiled floor, which is smooth yet slightly uneven at the seams. Once you're within arm's reach, extend your hand in front of you to feel the firm, cool metal seat supports before finding the curved seat surfaces. Carefully lower yourself onto a seat, ensuring you have a stable grip on the back or edges of the chair."
+  },
+  {
+    "index": 29,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about four steps, then Remain standing. The target object you want to approach is at your Front. It consists of three connected seats with smooth, slightly curved wooden surfaces and a sturdy metal frame at roughly knee to mid-thigh height. As you near the chairs, you may notice the transition onto a tiled floor underfoot, which can be slightly uneven at the seams. Extend your hand ahead to feel the cool metal frame supporting each seat, then carefully guide yourself onto one of the seats by gauging the seat height with your hand and lowering yourself safely."
+  },
+  {
+    "index": 30,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin . Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps while keeping slightly to your left, then Remain standing. The target object you want to approach is at your Front. It is a dual-section garbage and recycling bin, standing at around waist height with a white body and colored lids (black for general waste, blue for recycling). As you extend your hand toward the top of the bin at mid-torso height, you will feel a smooth, slightly cool surface and circular or rectangular openings for discarding waste."
+  },
+  {
+    "index": 31,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps, then Remain standing. The target object you want to approach is at your Front. It is a large, wooden-paneled waste-disposal station with multiple compartments labeled for different types of rubbish (such as 'General,' 'Recycling,' or 'Compostable'). The compartments are at about waist height, with rectangular openings on the top counter area. As you move closer, you may feel the change from the tiled floor underfoot to a slightly different surface near the station, then reach out in front of you at mid-torso height. You will notice a smooth or slightly textured wooden front, and as you pass your hand along the countertop, you will discover each waste slot\u2014cool or firm to the touch\u2014ready for disposing of various materials."
+  },
+  {
+    "index": 32,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 2 steps, then Remain standing. The target object you want to approach is at your Front, a standalone chair near a small wooden table. You will first notice the tiled flooring underfoot, which feels slightly uneven between tiles. As you approach, you can run your hand along the edge of the table at about waist height to confirm your position; the chair is at knee to mid-thigh height, with a firm seat and a supportive backrest. Gently reach out to touch the smooth or slightly textured seat and back before lowering yourself onto it, ensuring a secure grip on the chair's edges for balance."
+  },
+  {
+    "index": 33,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about five steps while keeping slightly to the right. The exit door is a full-height glass panel within a  metal frame, located just past the end of the windowed wall on your right. As you come near, you will feel the temperature or draft difference through the glass, and at about mid-torso height there should be a push bar\u2014cool and firm to the touch. Simply push the handle gently to open the door, stepping carefully over any slight threshold lip as you exit."
+  },
+  {
+    "index": 34,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: vending machine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 3 steps while keeping slightly to your right, then Remain standing. You may first feel the edge of a small wooden table with chairs around knee height, so take care as you navigate past them. The target object you want to approach is at your Front\u2014a tall, rectangular vending machine with a smooth, cool glass panel and a dark, sturdy casing. Once you're within arm's reach, run your hand along the machine's surface until you locate the buttons or a payment slot at about chest height; the machine may also have a protruding tray near waist level where items are dispensed."
+  },
+  {
+    "index": 35,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: microwave. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 3 steps. The target object you want to approach is at your Front, on top of a waist-to-chest-high counter labeled 'Food Heating Station.' As you near it, you may feel a slight difference in the tiled floor. Extend your hand in front of you at mid-chest level to encounter the smooth metal body of a microwave, which has a hinged door and a handle that may feel cool and firm. The control panel, likely a set of raised or flush buttons, will be located on either the right side or along the bottom edge of the door."
+  },
+  {
+    "index": 36,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: student enquiry center. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about 5 steps, angling slightly left toward the large glass entrance. You'll feel a patterned floor mat underfoot as you approach. The doors are tall and mostly glass with a metal frame, and around mid-torso height you can locate a  vertical handle plate\u2014cool and firm to the touch. The sign above the entrance reads 'Student Enquiry Centre,' so once you're within arm's reach, gently push or pull the handle to open the door and step through the threshold, taking care if there is a small lip at the transition."
+  },
+  {
+    "index": 37,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please move forward about four steps, staying slightly to the right of the corridor where you may notice a bright mural on the wall. After these steps, remain standing. Directly in front of you is a row of connected wooden chairs attached to a metal frame at around knee or mid-thigh height. You may feel a continued tile surface underfoot as you approach and sense the warmth of sunlight from the windows. Extend your hand at about knee height to locate the cool, metal support and the smooth wooden seat before slowly lowering yourself onto the chair."
+  },
+  {
+    "index": 38,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: vending machine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 5 steps while keeping slightly to your right, staying in the open area ahead, then Remain standing. The target object you want to approach is at your Front\u2014a tall, rectangular vending machine with a glossy black casing and a clear glass display window showing bottled drinks. As you near it, you will still feel the tiled floor beneath your feet, and at around mid-torso or chest height, there should be a payment panel or coin slot, which feels like a small protrusion or set of raised buttons. The dispensing slot is typically at waist level, where you can retrieve items after purchase."
+  },
+  {
+    "index": 39,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: lockers. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please turn slight right (about 45 degree), then move forward about 5 steps toward the lockers. The target object you want to approach is at your Front. These lockers form a long row of tall, rectangular compartments, each fitted with small metal doors and cool, painted surfaces. You may first sense the smooth, flat metal doors at about waist to chest height, each with a small handle or lock mechanism. As you run your hand along the door fronts, you will notice the slight contour of the handle or latch where you can potentially open or close each locker."
+  },
+  {
+    "index": 40,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: ATM. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please turn slight right (about 30 degree), then move forward about 7 steps toward the ATM, then Remain standing. The target object you want to approach is at your Front, within the recessed 'Express Banking' alcove. You will sense a transition from the tiled floor to a smoother surface as you near the ATM. Around mid-torso or chest height, you can feel the slightly protruding machine panel, which typically includes a touch screen or raised keypad, a card slot, and possibly a cash dispensing slot at around waist level. By running your hand along the front edges, you can locate these features for conducting your transaction."
+  },
+  {
+    "index": 41,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps while keeping centered on the patterned floor mat, then Remain standing. The target object you want to approach is at your left or right\u2014a full-height glass exit door framed in metal in 1 or 2 steps; at roughly waist level you will encounter a horizontal push bar that feels firm, cool, and slightly protruding. Once you reach the bar, press it gently to release the latch and swing the door outward, stepping carefully over the metal threshold and the first step of the exterior stairway immediately beyond."
+  },
+  {
+    "index": 42,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps while staying close to the wall on your left, then Remain standing. The target object you want to approach is at your Front. It is a dual-section garbage and recycling bin standing roughly waist-high, with a white body and two slanted lids\u2014one black for general waste and one blue for recycling. As you extend your hand at mid-torso level, you will feel the smooth, cool surface of the bin and the circular or rectangular openings on the top where rubbish is deposited."
+  },
+  {
+    "index": 43,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 7 steps, staying centered on the textured entrance mat beneath your feet, then Remain standing. The target object you want to approach is directly in Front\u2014a full-height glass exit door framed in dark metal; it has a horizontal band of small raised dots across the glass that you may brush at mid-torso height. As you draw close, you will sense a slight breeze or hear the mechanism as the automatic sliding panels separate; if they do not open automatically, lightly press the round push plate in the center of the right-hand panel. Once the doorway clears, step carefully over the narrow metal threshold to exit."
+  },
+  {
+    "index": 44,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire extinguisher. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward 2 steps while keeping close to the wall on your right, then Remain standing. The target object you want to approach is at your Right\u2014 a red, cylindrical fire extinguisher mounted at about knee-to-waist height. As you extend your hand sideways, you will feel the cool metal bracket first, then the smooth, curved body of the extinguisher with its firm handle and hose assembly at the top."
+  },
+  {
+    "index": 45,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: computer science building. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 18 steps, staying centered in the enclosed walkway. You will first cross a narrow metal threshold, then feel a smooth, level floor underfoot flanked on both sides by waist-high handrails and cool glass panels. As you continue, faint air currents and the echo of your steps confirm you are inside the bridge. After roughly 18 steps you will reach another set of double doors\u2014the entrance to the Computer Science Building\u2014where the doors are open. "
+  },
+  {
+    "index": 46,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 7 steps, then Remain standing. The target object you want to approach is at your Front: a large circular sofa with a smooth, curved outer surface and low, cushioned segments alternating in orange and blue at roughly knee height. As you reach it, the hard floor beneath you transitions seamlessly, and you can extend your hand to feel the sofa's firm, rounded edge; run your hand along until you locate a padded section, then lower yourself carefully onto the cushion, which will feel slightly springy yet supportive."
+  },
+  {
+    "index": 47,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 2 small steps, then Remain standing. The target object you want to approach is at your left\u2014a wooden classroom chair positioned beneath the nearest desk, with its backrest rising to around mid-thigh height. As you step closer, you will feel the low edge of the desk tabletop at about waist level; reach down just below the tabletop and you'll encounter the smooth, curved wooden seat and metal frame of the chair. Grasp the chair's back or side rails for balance, then slide it out slightly if needed and lower yourself carefully onto the seat, which is firm yet slightly contoured."
+  },
+  {
+    "index": 48,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: socket. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 3 steps until you feel the front edge of the long, waist-high counter that runs along the wall, then Remain standing. Directly in front of you\u2014just above the counter's surface and stretching horizontally\u2014is a strip of rectangular power sockets; as you slide your hand along the top edge of the counter, you will feel smooth plastic faceplates at mid-torso height, each with small toggle switches and three plug openings."
+  },
+  {
+    "index": 49,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: cafe. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Turn slightly left and Move forward about 3 steps, then Remain standing. The entrance to the cafe is immediately on your Left\u2014an open doorway set within the dark frame where you'll first feel the cool metal door edge at arm's reach. Step through this opening and you'll notice a change in flooring and the subtle scent of food or coffee. Inside, round tables with tall stools are arranged at about knee height, and you can guide yourself by lightly brushing the table edges until you find a clear spot to sit or stand."
+  },
+  {
+    "index": 50,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward 1 step, then Remain standing. The target object you want to approach is at your Front\u2014the top landing of a staircase that descends to the lower level. As you advance, you will encounter a metal handrail on both sides at about waist height, each mounted atop smooth glass panels. Grasp either handrail firmly; you'll feel the edge of the first wooden tread directly in front of your toes. From here, maintain your grip and step carefully downward, noting that each subsequent tread is hard and evenly spaced as you continue your descent."
+  },
+  {
+    "index": 51,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps while keeping close to the wall on your Left, then Remain standing. The target object you want to approach is at your Front\u2014a rectangular folding desk positioned lengthwise against the wall, its top surface at roughly waist height. As you extend your hand sideways, you will first feel the smooth, cool laminate tabletop edge, and just below that the thin metal legs that angle slightly inward; the surface is firm and flat, ideal for placing items, and the legs form an open space beneath where you can comfortably stand or slide a chair."
+  },
+  {
+    "index": 52,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 3 steps while keeping close to the wall on your left, then Remain standing. The target object you want to approach is at your Front\u2014a dual-section waste unit roughly waist-high with a white body and two slanted lids (black for general waste, blue for dry recyclables). As you extend your hand at mid-torso height, you'll feel the smooth, cool surface of the bin and the circular or rectangular openings on top; there is also a fold-out caution sign positioned just beyond the bin, so stay centered on the bin's front face to avoid tripping over it."
+  },
+  {
+    "index": 53,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: elevator. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 3 steps, angling slightly left toward the smooth wall, then Remain standing. The target object you want to approach is at your Front\u2014a pair of stainless-steel elevator doors; you will feel their cool, flat surface at chest height. Just to the left of the doors, around mid-torso level, is a small raised rectangular call button\u2014slightly protruding and cool to the touch. Press this button gently; when the doors slide open, you will sense a slight breeze and hear a chime before stepping carefully across the narrow threshold into the elevator cab."
+  },
+  {
+    "index": 54,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: toilet. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 3 steps, angling slightly left toward the wooden doorway ahead, then Remain standing. The target object you want to approach is at your Front\u2014a solid wooden toilet door framed in wood, with a small rectangular window inset near eye level and a printed 'Toilets' sign affixed at chest height. As you reach it, you will feel the smooth, warm wooden surface; just below the window on the right side is a cool, vertical metal handle that you can  push, and slightly lower you may detect a rounded lock or latch. Gently press or pull the handle to open the door and step carefully across the threshold into the restroom."
+  },
+  {
+    "index": 55,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 6 steps while staying centered on the textured entrance mat, then Remain standing. The target object you want to approach is at your Front\u2014tall glass exit doors framed in metal; as you near them you may hear the mechanism and feel a slight draft as the sliding panels part automatically. If they do not open, lightly press the horizontal green push bar on the left-hand panel at waist height or the small round push plate near the right frame. Once the doorway is clear, step carefully over the narrow metal threshold onto the outdoor paving just beyond."
+  },
+  {
+    "index": 56,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: lockers. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about one step while keeping your left arm lightly brushing the wall, then Remain standing. The target object you want to approach is immediately to your Left\u2014a long bank of metal lockers that run from knee height up to shoulder level. As you slide your hand sideways, you will feel the cool, flat metal doors punctuated by small, slightly raised handles or keyholes about mid-torso height; each locker door has a smooth surface with a subtle indentation around its edges, making it easy to distinguish individual compartments."
+  },
+  {
+    "index": 57,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 3 steps, then Remain standing. The target object you want to approach is at your Front\u2014a row of connected blue chairs attached to a metal frame at roughly knee to mid-thigh height. As you reach out at that level, you will feel the firm, cool edge of the chair's metal support and the slightly padded seat back. Slide a hand along the top edge to locate a clear seating section, then gently lower yourself onto the seat, noting its stable, cushioned surface."
+  },
+  {
+    "index": 58,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 2 steps, then Remain standing. The target object you want to approach is at your Front\u2014a pair of full-height glass exit doors framed in dark metal. At roughly chest level on each leaf you will find a smooth, vertical push plate that feels cool and flat. Place your hand on the plate, press forward to release the latch, and the door will swing outward. Step carefully over the narrow metal threshold, noting that a caution sign and staircase lie just beyond, so keep your footing centered and secure as you exit."
+  },
+  {
+    "index": 59,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin . Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about one step, keeping slightly to your right, then Remain standing. The target object you want to approach is at your Front-Right\u2014a dual-section garbage and recycling bin standing roughly waist height, with a smooth white body and two slanted lids (black for 'General Waste' on the left and blue for 'Dry Recyclables' on the right). As you extend your hand at mid-torso level, you will feel the cool surface of the bin and the circular openings on top; guide your hand to the appropriate lid and deposit items through the firm, rounded rim."
+  },
+  {
+    "index": 60,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about one step and then angle slightly right until your outstretched hand meets the wooden hand-rail at waist height, then Remain standing. The staircase descends directly in front of you: as soon as you grasp the smooth rail, you will feel the first metal tread just beyond your toes. Keep your hand sliding down the rail for steady support while placing your leading foot onto that first step; each subsequent step is uniform, hard, and evenly spaced, with the rail continuing down at arm level to guide your descent safely."
+  },
+  {
+    "index": 61,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position, please Move forward about 4 steps, staying centered in the hallway until you feel the change from the soft carpet strips to the harder metal kick-plate at your toes; Remain standing. The target object you want to approach is at your right\u2014a full-height glass exit door framed in metal. At around chest height on the right-hand leaf you will find a narrow vertical push plate that feels smooth and cool; press it gently to release the latch so the door swings outward. Keep your hand on the plate for balance, step carefully over the slim metal threshold, and continue forward into the adjoining space."
+  },
+  {
+    "index": 62,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about two steps and angle slightly right until your leading hand meets the cool metal hand-rail at waist height, then Remain standing. The staircase descends directly in front of you: with your hand sliding down the rail, you'll feel the first tread just beyond your toes. Step carefully onto this hard, even step, keep your grip steady, and continue downward\u2014each tread is uniform, and the hand-rail runs the full length to guide you safely."
+  },
+  {
+    "index": 63,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: rock display case. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 2 steps while keeping close to the wall on your right, then Remain standing. The target object you want to approach is at your Right\u2014a tall, wooden-framed display case with multiple shallow shelves, each holding small rock or mineral samples behind a smooth, cool plexiglass front. As you extend your hand at chest height, you will first feel the warm, slightly textured wooden edge, and just inside that, the slick glass surface covering the rows of specimens; you may detect slight ridges where the shelf dividers meet the pane, confirming you have reached the rock display case."
+  },
+  {
+    "index": 64,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 3 steps, veering slightly left so you remain on the textured entrance mat, then Remain standing. The target object you want to approach is at your Front-Left: a full-height glass exit door framed in dark metal, marked by a dotted yellow line across the glass at waist level. As you draw near, you may hear or feel the automatic mechanism begin to slide the panels apart; if they do not open, lightly press the round push plate at mid-torso height on the right-hand frame. Once the doorway clears, step carefully over the slim metal threshold onto the outdoor surface beyond."
+  },
+  {
+    "index": 65,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 5 steps, staying centered on the carpeted walkway until you feel the change to a thin rubber threshold strip beneath your toes, then Remain standing. The target object you want to approach is at your Front\u2014a full-height glass exit door framed in dark metal; across each leaf at mid-torso height is a smooth green push bar that feels slightly raised and cool. Place your hand on the bar, press gently to release the latch, and the door will swing outward. Step carefully over the narrow metal sill and onto the exterior paving just beyond."
+  },
+  {
+    "index": 66,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps, keeping slightly to the left so you align with the central aisle, then Remain standing. The target object you want to approach is at your Front-Left: an open metal staircase with glass side panels and a sturdy hand-rail beginning at waist height. As you reach it, extend your hand leftward to grasp the smooth, cool metal rail; you will feel the first solid tread directly under your toes. Step up carefully, maintaining your grip as the evenly spaced steps rise before you and the rail continues to guide you upward."
+  },
+  {
+    "index": 67,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sofa. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 2 small steps, veering slightly left, then Remain standing. The target object you want to approach is at your Front-Left\u2014a low, rectangular black leather sofa. As you advance, you will feel the soft carpet tiles underfoot; extend your hand at mid-thigh level and you will encounter the cool, slightly textured leather surface and the firm metal leg at the sofa's corner. Slide your hand along the top edge to locate a clear seating space, then lower yourself carefully onto the cushioned seat, which feels smooth, supple, and gently padded."
+  },
+  {
+    "index": 68,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: vending machine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps while drifting slightly to your right, then Remain standing. The target object you want to approach is at your Front-Right\u2014a tall vending machine with a smooth, cool metal casing and a glass display window showing bottles and snacks at chest height. As you reach it, extend your hand forward at mid-torso level to feel the flat front panel; slide rightward and you will detect the raised keypad and payment slot, while lower down at waist height is a recessed tray where items drop after purchase."
+  },
+  {
+    "index": 69,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: lockers. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps while keeping close to the wall on your Right, then Remain standing. The target object you want to approach is at your Right\u2014a long bank of metal lockers that rise from about knee height to shoulder height; as you extend your hand sideways, you'll feel the cool, flat steel doors punctuated by small, slightly raised handles and keyholes at roughly mid-torso level. Running your fingers along the surface you will notice the shallow seams that mark each individual locker, confirming you have reached the row of lockers."
+  },
+  {
+    "index": 70,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 8 steps, staying centered in the hallway, then Remain standing. The target object you want to approach is at your Front\u2014tall glass exit doors framed in dark metal. As you arrive, you will feel the smooth threshold strip underfoot; at chest height on the right-hand leaf is a narrow vertical push plate that feels cool and flat. Press this plate gently to unlatch the door, allow it to swing outward, and step carefully over the slim metal sill to exit."
+  },
+  {
+    "index": 71,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; Please Move forward about 4 steps, staying centered on the coarse entrance mat until you feel the mat end beneath your toes, then Remain standing. The target object you want to approach is directly in Front\u2014a pair of tall glass exit doors framed in dark metal. As you draw near, you may hear the soft click and feel a slight airflow as the automatic panels slide apart; if they do not open, locate the flat push-plate set at waist height on the right-hand frame and press gently. Once the doorway clears, step carefully over the narrow metal threshold onto the outdoor paving beyond."
+  },
+  {
+    "index": 72,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please Move forward about 6 steps, veering gently to your right so you leave the tiled waste-station counter on your left and enter the open seating zone, then Remain standing. The target object you want to approach is now at your Front-Right\u2014a freestanding dining chair with a broad plastic backrest and a flat wooden seat supported by four metal legs. As you reach out at mid-thigh height you will touch the smooth, slightly cool edge of the seat; slide your hand upward to locate the firmer plastic back, then step closer, center yourself with the chair's frame, and ease downward onto its stable, lightly textured surface."
+  },
+  {
+    "index": 73,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please Move forward about 4 steps until your toes meet the curved metal beam that supports the first row of seats, then Remain standing. The target object you want to approach is at your Front\u2014an individual lecture-hall chair with a low, rigid green backrest and a flip-up seat. Reach slightly forward and downward at knee height and you will feel the cool, smooth metal underside of the seat; lift gently and the seat will swing up toward the back, revealing a firm, lightly textured sitting surface. Slide your hand up to the backrest to center yourself, then lower the seat with care and ease down onto the chair, noting the stable metal frame and cushioned support beneath you."
+  },
+  {
+    "index": 74,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please Move forward about 2 steps while veering slightly to your Left, then Remain standing. The target object you want to approach is now directly at your Left side\u2014a freestanding chair with a smooth, curved green plastic backrest and a firm grey seat cushion mounted on four cool metal legs. Extend your hand at knee height to feel the front edge of the seat; slide upward to confirm the backrest's gently ridged surface, then align yourself squarely with the frame and lower yourself onto the stable, lightly padded seat."
+  },
+  {
+    "index": 75,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please Move forward about 5 steps, angling gently to your Right so you pass the wooden AV cart and twin waste-bins on your left-hand side, then Remain standing. The target object you want to approach is now directly in Front\u2014a solid grey exit door with a narrow vertical vision panel and a push-bar handle at about waist height. Extend your right hand forward and you will first meet the cool flat surface of the door; slide sideways until your palm finds the horizontal push-bar, press it firmly, and the door will release so you can step straight through the doorway and exit the room."
+  },
+  {
+    "index": 76,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: lockers. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Starting from the current position; please Take one small step to your Left until your shoulder lightly brushes the row of units, then Remain standing. The target object you want to approach is at your Immediate Left. Stretch your left hand out at waist height and you will meet a cool, smooth sheet-metal door panel finished in matte green paint, framed by narrow white strips. Each locker door has a small rectangular air vent near its top, a sturdy chrome handle just below mid-chest level, and a padlock or combination latch that protrudes slightly and feels cold and hard to the touch."
+  },
+  {
+    "index": 77,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire extinguisher. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Face straight ahead and walk forward two steps (about one normal pace each) until the toes of both shoes are almost touching the wall directly in front of you; now pivot your upper body slightly to the right and extend your right arm at hip height\u2014your fingertips will make contact with the smooth, cool metal cylinder of the first fire-extinguisher, which is mounted vertically on the wall in a line of three red extinguishers, each hanging by a small bracket so they wobble slightly when touched."
+  },
+  {
+    "index": 78,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire extinguisher. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Step through the doorway and walk straight ahead three small steps (about one metre total) onto the smooth yellow-tiled floor until the tips of your shoes are a forearm's length from the bright yellow wall; now stop, reach forward with your right hand at hip height and you will brush the cool metal cylinder of the first red fire-extinguisher mounted on the wall\u2014its rubber hose dangles at the left side, and a second extinguisher is immediately to its right if you slide your hand sideways."
+  },
+  {
+    "index": 79,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Keeping your left fingertips lightly on the smooth wall, walk straight ahead about one large steps (just over a metre); when you stop, you'll be level with the back of the first desk row\u2014pivot your torso slightly right, extend your right arm at waist height, and within an arm's length you'll touch the metal back-rest of the nearest blue chair; slide your hand down to the seat, step sideways the width of your shoulders toward it, and sit."
+  },
+  {
+    "index": 80,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Keep your right fingertips gliding along the smooth wall and walk forward about one large step; when your hand meets the edge of the whiteboard stop, pivot a half-step left so you're facing into the room, then ease forward two short steps\u2014your shins will meet the long wooden desk; slide your hands along its front edge to locate the corner and position yourself comfortably to work."
+  },
+  {
+    "index": 81,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Stay oriented straight ahead and keep your left hand lightly tracing the window-frame ledge; walk forward about two medium steps until your fingertips reach the vertical metal frame at the glass panel, then bring both hands to waist height and you'll feel the broad green 'push-bar' running across the centre\u2014press that bar firmly and the exit door will release outward to lead you outside."
+  },
+  {
+    "index": 82,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: poster board. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Keep your right hand gliding along the smooth wall and walk straight ahead about two strides; you will meet a cool metal frame protruding slightly\u2014this is the poster board\u2014pause here, slide your hand upward and inward to feel the textured edges of the pinned notices at chest height."
+  },
+  {
+    "index": 83,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Step forward roughly half a stride so your left hand meets the smooth wooden edge of the closest table, then slide your hand under the tabletop\u2014your fingers will touch the plastic backrest of the nearest chair; shuffle sideways a small step to center yourself behind it, lower your hand to locate the seat, and you're ready to sit."
+  },
+  {
+    "index": 84,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Face straight ahead and walk forward about three relaxed strides until your toes reach the carpeted strip that borders the wooden table legs, then angle a half-step to the right so your left shin brushes the cool vinyl of a chair back, slide them over the top bar, shuffle one small step closer so the seat is against your knees, lower your hand to confirm the cushion, and ease yourself down."
+  },
+  {
+    "index": 85,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: aid box. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Face forward and take a short half-step toward the wall in front of you; reach your left hand out at about chest height\u2014within an arm's length your fingertips will touch the cool, smooth surface of the wall, then glide slightly left until you feel the raised edge of a rectangular box; center your palm on that edge, and you'll be resting on the green first-aid box."
+  },
+  {
+    "index": 86,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: ladder. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Stay facing forward and walk three slow, even steps straight ahead; with your fourth step, you'll feel a slight change from carpet to the firmer wall skirting beneath your left shoe\u2014stop there, then extend both hands in front of you at chest height: you'll make contact with the cool metal side rail of the ladder; slide your right hand upward to find the first rung, confirming you've reached the ladder's front."
+  },
+  {
+    "index": 87,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: water bottle. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Walk straight ahead two slow steps until your shins make gentle contact with the base of the cubby shelf; pause, then slide your right hand forward at waist height and slightly right of your midline\u2014about one forearm's length into the open square compartment in front of you\u2014and you'll feel the smooth, cool cylinder of the clear bottle with a raised red cap resting on its flat bottom."
+  },
+  {
+    "index": 88,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: mug. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Turn your torso slightly right so you're facing the cubby counter, then take one small step forward until your thighs are almost brushing its front edge; extend your right arm straight out at elbow height, lay your palm flat on the countertop, and slide it about a forearm's length to the left\u2014your fingers will meet the smooth circular rim and curved handle of the ceramic mug resting near the central support pillar."
+  },
+  {
+    "index": 89,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: printing machine. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Step through the doorway, angling slightly left so your front faces the room; take two slow steps forward until the tips of your shoes almost touch the carpet's skirting board\u2014at this point the large printer stands directly in front of you about an arm's length away. Reach straight out with either hand at mid-torso height and you'll feel the smooth plastic front panel of the machine; slide your fingers upward to locate the output tray and control screen."
+  },
+  {
+    "index": 90,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Turn your body a quarter-turn to the left so you are parallel with the wall, then walk forward along that wall for about three short steps\u2014keep the wall lightly brushing the back of your left hand as a guide; when the touch against your hand stops, the bin is directly beside you at hip height, so extend your left arm outwards and you'll feel the smooth metal top edge and two circular openings of the waste-and-recycling unit."
+  },
+  {
+    "index": 91,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: ladies' bathroom. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Remain facing forward and edge slightly to your right until your right shoulder is almost touching the smooth green wall; keeping fingertips grazing that wall as a guide, walk straight ahead for roughly one good stride (about a yard), and your hand will meet a vertical metal pull-handle on the same wall\u2014this is the ladies' bathroom door, identifiable by its flat panel surface and the small raised symbol just above shoulder height."
+  },
+  {
+    "index": 92,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Turn left 30 degree and move forward two steps. Stay oriented forward and slide your left fingertips along the textured white wall; after roughly three short steps (about a metre), you'll feel the wall surface shift to a smooth vertical edge\u2014this is the wooden-framed notice case. Keep your fingers skimming past that frame for another half-step and you'll reach a cool metal corner where the wall recesses; immediately below that corner and slightly out from the wall is the dual-section garbage bin\u2014its slanted top begins at waist height and you'll first detect the curved plastic rim of the left opening as your hand moves forward."
+  },
+  {
+    "index": 93,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Face straight ahead and take one small step (about half a pace) so your toes clear the threshold carpet onto the firmer office-style flooring; while doing so, sweep your right hand outward at hip height\u2014within an arm's length you'll meet the smooth, slightly cool plastic backrest of a tall rolling chair (you'll notice a gentle inward curve); once your fingers make contact, slide them down to locate the metal ring footrest encircling the base\u2014this confirms you've reached the chair, and its cushioned seat is directly above that ring at mid-thigh level, ready for you to sit or reposition as needed."
+  },
+  {
+    "index": 94,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: coin phone. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Step forward two short paces until your toes are almost touching the wall in front of you; now raise your right hand to mid-chest height and sweep it gently to the right\u2014first you'll pass a smooth red wall telephone, then within another hand-width your fingertips will feel the protruding plastic keypad area of the green coin phone; slide your hand downward along this front panel and you'll meet the metal cradle and hanging handset, confirming you've reached the payphone."
+  },
+  {
+    "index": 95,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Walk straight ahead along the textured entrance mat for about six to eight steady paces; as you near the end you'll feel the carpet give way to a thin metal floor track\u2014stop there, extend one arm forward at waist level and you'll touch the cool glass of the automatic exit doors, then simply pause and the doors will slide open, allowing you to continue forward through the doorway."
+  },
+  {
+    "index": 96,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: plant. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Take a half-step forward, then pivot your upper body a quarter-turn to the left; as you do, brush your fingertips lightly along the smooth doorframe until it ends and you feel open space\u2014reach straight ahead at mid-torso height and you'll touch the broad leaves of the potted plant, which sits directly on the floor beside the wall just in front of the fire extinguisher."
+  },
+  {
+    "index": 97,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: exit door. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Face forward and walk straight about three slow paces\u2014your feet will transition from soft carpet to a harder entry mat; when the mat ends, stop, extend your right arm at waist height, and you'll feel the vertical metal frame of the glass exit door directly in front of you, with its horizontal push bar just below chest level ready to open."
+  },
+  {
+    "index": 98,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Step straight ahead about one large step until your shins meet the edge of the nearest desk, then slide your right hand forward along that desk's front edge; after roughly two forearm lengths you'll feel empty space\u2014reach downward there and your fingers will touch the curved wooden backrest of the chair tucked beneath the desk, ready for you to pull out and sit."
+  },
+  {
+    "index": 99,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: water bottle. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "ans_gt": "Walk forward along the smooth open floor for about three large steps until the tips of your shoes are almost level with the wall-mounted counter that runs along the yellow wall on your right; then turn your torso slightly right and extend your right arm straight out at waist height\u2014the narrow ledge will meet your fingertips, and as you slide your hand rightward along its front edge for roughly one forearm length you'll touch the cool, cylindrical shape of the water bottle standing upright near the corner of the doorway recess."
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "image_id": 0,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire assembly point. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Tree\n  - 8 steps\n  - Above head\n\n**Centre:**\n- Small tree\n  - 3 steps\n  - Above head\n- Sign\n  - 8 steps\n  - Above head\n\n**Right:**\n- Small tree\n  - 4 steps\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the scene shown in the image by its texture, which is smooth and cool to the touch."
+  },
+  {
+    "image_id": 1,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Bushes\n  - 2 steps\n  - Knee height\n\n**Centre Sector:**\n- Stairs with railing\n  - 8 steps\n  - Starts at floor, extends above head\n- Orange cone on stairs\n  - 8 steps\n  - Knee height\n\n**Right Sector:**\n- Building wall\n  - 15 steps\n  - Extends from floor to above head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the staircase by the cool, smooth texture of the railing and the firm, even surface of the steps beneath your feet."
+  },
+  {
+    "image_id": 2,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Concrete posts\n  - Approx. 10 steps\n  - Knee height\n\n- Litter bin\n  - Approx. 13 steps\n  - Waist height\n\n**Centre:**\n- Picnic shelter\n  - Approx. 10 steps\n  - Above head height\n\n**Right:**\n- Another picnic shelter\n  - Approx. 18 steps\n  - Above head height",
+    "instruction": "Starting from the current position; please move forward 10 steps, then turn left 90 degrees. The pathway is smooth, allowing for a comfortable walk towards the target. The item you need is at your front. You can identify the chair by its cool, smooth surface and the distinct shape of its backrest and seat."
+  },
+  {
+    "image_id": 3,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: desk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Picnic Table: 4 steps, waist height\n- Person Sitting: 4 steps, chest height\n- Staircase: 10 steps, above head\n\n**Centre:**\n- Picnic Table: 3 steps, waist height\n- Planter Box: 8 steps, knee height\n\n**Right:**\n- Planter Box: 7 steps, knee height\n- Lamp Post: 5 steps, above head",
+    "instruction": "Starting from the current position; please move forward 3 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the scene shown in the image by its smooth and flat surface."
+  },
+  {
+    "image_id": 4,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Car\n  - Approx. 3 steps away\n  - Waist to above head\n\n**Centre:**\n- Parking meter\n  - Approx. 5 steps away\n  - Waist to chest\n- Bicycle racks\n  - Starting approx. 8 steps away\n  - Waist height\n\n**Right:**\n- Building wall\n  - Approx. 2 steps away\n  - Floor to above head",
+    "instruction": "Starting from the current position; please move forward 5 steps, then turn left 90 degrees. The pathway is smooth, allowing for a comfortable walk. The item you need is at your front. You can identify the bicycle racks by their cool, metallic texture."
+  },
+  {
+    "image_id": 5,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left**\n- Tree trunk\n  - 3 steps\n  - Above head\n\n**Centre**\n- Waste bin\n  - 8 steps\n  - Waist\n- Bus shelter\n  - 20 steps\n  - Above head\n\n**Right**\n- Building\n  - 6 steps\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the waste bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 6,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Hedge: 10 steps, knee-high\n- Firebox: 18 steps, waist-high\n\n**Centre:**\n- Trash bin: 7 steps, waist-high\n- Pathway junction: 6 steps, floor level\n\n**Right:**\n- Building entrance: 15 steps, head-high\n- Hedge: 12 steps, knee-high",
+    "instruction": "Starting from the current position; please move forward 6 steps, then turn left 45 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the trash bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 7,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sidewalk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Trees: 10+ steps, above head\n- Bollards (black posts): 12 steps, waist\n\n**Centre:**\n- Pedestrian crossing: 8 steps, floor\n\n**Right:**\n- Waste bins: 4 steps, chest\n- Building wall: 6 steps, head and above head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the sidewalk by its flat and slightly rough texture underfoot."
+  },
+  {
+    "image_id": 8,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: water dispencer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Signpost with posters\n  - 5-6 steps away\n  - Height: waist to above head\n- Tree\n  - 8-10 steps away\n  - Height: above head\n\n**Centre:**\n- Pathway\n  - Starts immediately\n  - Height: floor\n- Bushes\n  - 7-8 steps away \n  - Height: knee to waist\n- Building\n  - 20+ steps away\n  - Height: head to above head\n\n**Right:**\n- Signpost\n  - 6-7 steps away\n  - Height: waist to above head\n- Grass\n  - 2-3 steps away\n  - Height: floor\n- Building\n  - 20+ steps away\n  - Height: head to above head",
+    "instruction": "Starting from the current position; please move forward 7 steps, then turn left 90 degrees. The pathway is smooth, with a clear path ahead, ensuring an easy walk. The item you need is at your front. You can identify the water dispenser by its cool temperature and smooth, metallic surface."
+  },
+  {
+    "image_id": 9,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: poster board. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bulletin board\n  - Approximately 2 steps away\n  - Waist to above head\n\n**Centre:**\n- Pathway\n  - Clear\n  - Floor level\n\n**Right:**\n- Tree\n  - Approximately 6 steps away\n  - Floor to above head\n- Building\n  - Approximately 10 steps away\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bulletin board by its flat and slightly cool surface."
+  },
+  {
+    "image_id": 10,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Map board: 5 steps, waist to head height\n- Bicycle rack: 8 steps, knee height\n\n**Centre:**\n- Pathway: clear\n\n**Right:**\n- Bench: 6 steps, knee height\n- Bicycle rack: 10 steps, waist height\n- Trees: 10+ steps, above head height",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn right 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bicycle parking station by its cool metal texture and the distinct shape of the racks."
+  },
+  {
+    "image_id": 11,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bench: 4 steps, knee height\n- Tree: 6 steps, above head\n\n**Centre:**\n- Pathway clear for 10+ steps\n\n**Right:**\n- Bench: 6 steps, knee height\n- Tree: 8 steps, above head",
+    "instruction": "Starting from the current position; please move forward 4 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the chair by its cool, smooth surface and sturdy structure."
+  },
+  {
+    "image_id": 12,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Building wall, touching distance, head to above head.\n- Bollard, 3 steps, waist.\n  \n**Centre:**\n- Stairs, 5 steps, floor to above head.\n- Handrails alongside stairs, 5 steps, waist to head.\n\n**Right:**\n- Pole, 6 steps, head to above head.\n- Bicycle, 8 steps, floor to waist.",
+    "instruction": "Starting from the current position; please move forward 5 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the staircase by the texture of the handrails, which are smooth and cool to the touch."
+  },
+  {
+    "image_id": 13,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: art/science building. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Low wall\n  - 1 step\n  - Waist height\n\n- Building\n  - 10 steps\n  - Above head\n\n**Centre:**\n- Handrail\n  - 3 steps\n  - Waist height\n\n- Building entrance\n  - 12 steps\n  - Above head\n\n**Right:**\n- Tree\n  - 10 steps\n  - Above head\n\n- Building\n  - 15 steps\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 12 steps, then remain standing. The pathway is smooth, allowing for a clear and uninterrupted walk. The item you need is at your front. You can identify the building by its cool, solid texture and the distinct sound of your footsteps echoing as you approach."
+  },
+  {
+    "image_id": 14,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: art/science building. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Picnic table\n  - Approx. 10 steps\n  - Waist height\n\n**Centre:**\n- Picnic table\n  - Approx. 5 steps\n  - Waist height\n- Building entrance\n  - Approx. 25 steps\n  - Above head\n\n**Right:**\n- Picnic table\n  - Approx. 8 steps\n  - Waist height",
+    "instruction": "Starting from the current position; please move forward 5 steps, then turn left 90 degrees. The pathway is smooth, allowing for a clear and uninterrupted walk. The item you need is at your front. You can identify the building by its cool, solid surface."
+  },
+  {
+    "image_id": 15,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: pharmacy. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Barrier with cone: 3 steps, waist\n- Railing: 2 steps, waist\n\n**Centre:**\n- Stairs: 6 steps, floor to waist\n- Railing: 6 steps, waist\n\n**Right:**\n- Stairs: 6 steps, floor to waist\n- Railing: 6 steps, waist",
+    "instruction": "Starting from the current position; please move forward 6 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the pharmacy by the cool, smooth surface of its glass doors."
+  },
+  {
+    "image_id": 16,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: smoking shelter. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Tree: 5 steps, above head\n- Car: 10 steps, waist to head\n\n**Centre Sector:**\n- Designated Smoking Shelter: 6 steps, waist to above head\n- Bench: 6 steps, knee to waist\n- Bulletin Board: 8 steps, waist to above head\n\n**Right Sector:**\n- Lamp Post: 12 steps, above head",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is smooth, ensuring a comfortable and straightforward walk. The item you need is at your front. You can identify the designated smoking shelter by its cool metal structure and the slight smell of tobacco smoke lingering in the air."
+  },
+  {
+    "image_id": 17,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire assembly point. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Cars parked; 12 steps away; knee to waist height.\n\n**Centre:**\n- Crosswalk; starts 3 steps away; floor height.\n- Large tree; 15 steps away; above head height.\n\n**Right:**\n- Building entrance; 25 steps away; above head height.\n- Road signpost; 10 steps away; head height.",
+    "instruction": "Starting from the current position; please move forward 3 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the fire assembly point by its cool metal sign and textured pole."
+  },
+  {
+    "image_id": 18,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Tree: 2 steps away, above head\n- Pole: 2 steps away, above head\n- Path: 1 step, floor\n\n**Centre:**\n- Bin: 5 steps away, waist height\n- Pathway: 1 step, floor\n- Tree: 5 steps away, above head\n\n**Right:**\n- Tree: 3 steps away, above head\n- Pathway: 1 step, floor",
+    "instruction": "Starting from the current position; please move forward 5 steps, then remain standing. The pathway is smooth, ensuring an easy and uninterrupted walk. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 19,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Signpost: 5 steps, above head.\n- Litter bin: 5 steps, waist height.\n- Bikes: 7 steps, waist height.\n\n**Centre:**\n- Path: clear.\n- Pedestrians (distant): 25 steps, varies.\n\n**Right:**\n- Tree: 10 steps, above head.\n- Bollard: 12 steps, knee height.",
+    "instruction": "Starting from the current position; please move forward 5 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 20,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire assembly point. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Cars\n  - 8-10 steps\n  - Waist to head\n\n**Centre:**\n- Signpost\n  - 10 steps\n  - Waist to above head\n- Fence\n  - 12 steps\n  - Knee to waist\n\n**Right:**\n- Gravel path\n  - 8 steps\n  - Floor level\n- Building\n  - 25 steps\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 10 steps, then turn right 90 degrees. The pathway is smooth, ensuring a steady and direct approach. The item you need is at your front. You can identify the signpost by its cool metal surface and the raised lettering."
+  },
+  {
+    "image_id": 21,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left**\n- Bench\n  - 10 steps\n  - Knee height\n- Pole\n  - 8 steps\n  - Above head\n\n**Centre**\n- Door\n  - 15 steps\n  - Head height\n\n**Right**\n- Motorcycle\n  - 12 steps\n  - Waist height",
+    "instruction": "Starting from the current position; please move forward 10 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bench by its flat, cool surface and sturdy texture."
+  },
+  {
+    "image_id": 22,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left**\n\n- Motorcycle\n  - 5 steps away\n  - Waist height\n  \n- Bench\n  - 4 steps away\n  - Knee height\n\n---\n\n**Centre**\n\n- Bicycle\n  - 8 steps away\n  - Waist height\n\n- Pole\n  - 6 steps away\n  - Above head\n\n---\n\n**Right**\n\n- Bollard\n  - 8 steps away\n  - Waist height",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn left 90 degrees. The pathway is smooth, ensuring an easy and direct approach. The item you need is at your front. You can identify the entrance by its cool metal handle and smooth surface."
+  },
+  {
+    "image_id": 23,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: water dispencer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bicycles: 4 steps, waist to head.\n- Post (lamp post or similar): 2 steps, chest.\n\n**Centre:**\n- Pillar (information sign): 4 steps, waist to head.\n- Barrier rail: 6 steps, waist.\n- Overhead passage: 20+ steps, above head.\n\n**Right:**\n- Pedestrian (person walking): 15 steps, varies.\n- Bus stop sign: 20+ steps, head.",
+    "instruction": "Starting from the current position; please move forward 4 steps, then turn left 90 degrees. The pathway is smooth, allowing for a comfortable and direct approach. The item you need is at your front. You can identify the water dispenser by its cool temperature and smooth surface."
+  },
+  {
+    "image_id": 24,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Open grass area\n- Person on pathway, approximately 15 steps, waist height.\n\n**Centre:**\n- Pathway clear for walking\n- Person, approximately 20 steps, waist height.\n\n**Right:**\n- Trash bin, approximately 10 steps, waist height.\n- Grass and trees, starts 5 steps, extends to above head height.",
+    "instruction": "Starting from the current position; please move forward 10 steps, then turn right 90 degrees. The pathway is clear for walking, allowing for a smooth and uninterrupted approach. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 25,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bin: 4 steps, waist\n\n**Centre:**\n- Pillars: 12 steps, above head\n\n**Right:**\n- Person: 6 steps, head",
+    "instruction": "Starting from the current position; please move forward 12 steps, then turn right 90 degrees. The pathway is smooth, ensuring a comfortable and direct approach. The item you need is at your front. You can identify the entrance by its cool, metallic texture."
+  },
+  {
+    "image_id": 26,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: water dispencer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Trees\n  - Approx. 15 steps away\n  - Head/above head\n\n**Centre:**\n- Bicycles and bike racks\n  - Approx. 12 steps away\n  - Knee to waist height\n- Shelter structure\n  - Approx. 12 steps away\n  - Above head\n\n**Right:**\n- Fencing\n  - Approx. 6 steps away\n  - Waist to above head\n- Building overhang\n  - Approx. 10 steps away\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 12 steps, then turn left 90 degrees. The pathway is smooth, ensuring a comfortable and direct approach. The item you need is at your front. You can identify the water dispenser by its cool temperature and smooth, metallic surface."
+  },
+  {
+    "image_id": 27,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bike rack with bicycles\n  - Approx. 3 steps away\n  - Knee to waist height\n- Metal structure (part of covered area)\n  - Approx. 4 steps away\n  - Above head height\n\n**Centre:**\n- Smoking shelter\n  - Approx. 10 steps away\n  - Above head height\n- Grass patch\n  - Approx. 8 steps away\n  - Floor level\n\n**Right:**\n- Building wall\n  - Immediate\n  - Above head height\n- Ground-level grates\n  - Approx. 5 steps away\n  - Floor level",
+    "instruction": "Starting from the current position; please move forward 3 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bicycle parking station by its cool, metallic texture and the familiar shape of bike racks."
+  },
+  {
+    "image_id": 28,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Tree: 8 steps, above head\n- Picnic Table: 10 steps, waist\n\n**Centre Sector:**\n- Tree: 12 steps, above head\n- Grass Patch: 1 step, floor\n\n**Right Sector:**\n- Road: 6 steps, floor\n- Car: 15 steps, chest",
+    "instruction": "Starting from the current position; please move forward 1 step, then turn right 90 degrees. The pathway is smooth, with the grass patch providing a soft surface underfoot. The item you need is at your front. You can identify the chair by its cool, smooth metal surface."
+  },
+  {
+    "image_id": 29,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Grass area\n  - Approx. 2 steps\n  - Floor level\n\n**Centre:**\n- Litter bin\n  - Approx. 6 steps\n  - Waist height\n\n**Right:**\n- Road\n  - Approx. 8 steps\n  - Floor level",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 30,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bicycle on rack\n  - 4 steps\n  - Waist height\n\n**Centre:**\n- Crosswalk starting\n  - 1 step\n  - Floor height\n\n**Right:**\n- Scaffolding structure\n  - 10 steps\n  - Above head height",
+    "instruction": "Starting from the current position; please move forward 4 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bicycle parking station by its cool metal texture and structured form."
+  },
+  {
+    "image_id": 31,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bus shelter\n  - Approx. 10 steps\n  - Waist to above head\n\n**Centre:**\n- Tree\n  - Approx. 8 steps\n  - Floor to above head\n- Litter bin\n  - Approx. 10 steps\n  - Waist\n\n**Right:**\n- Tree\n  - Approx. 8 steps\n  - Floor to above head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn left 45 degrees. The pathway is smooth, allowing for a comfortable walk without obstacles. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 32,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Tree\n  - Approx. 15 steps away\n  - Above head\n\n**Centre:**\n- Trash and Recycling Bins\n  - Approx. 4 steps away\n  - Waist height\n- Building Structure\n  - Approx. 2-6 steps away\n  - Above head\n\n**Right:**\n- Building Wall\n  - Approx. 1-2 steps away\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 4 steps, then remain standing. The pathway is smooth, allowing for a clear and direct approach. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 33,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Tree: 4 steps, head height.\n- Light pole: 3 steps, above head height.\n\n**Centre:**\n- Picnic table: 6 steps, waist height.\n- Tree: 7 steps, head height.\n\n**Right:**\n- Curved path: begins at 2 steps, floor level.\n- Tree: 5 steps, head height.",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your centre. You can identify the chair by its cool, smooth surface and sturdy structure."
+  },
+  {
+    "image_id": 34,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Tree trunk \n  - Approx. 10 steps\n  - Floor to above head\n\n**Centre:**\n- Person walking\n  - Approx. 30 steps\n  - Floor to head\n- Signboard\n  - Approx. 25 steps\n  - Waist to chest\n\n**Right:**\n- Bench\n  - Approx. 8 steps\n  - Knee to waist\n- Building wall\n  - Approx. 8 steps\n  - Floor to above head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn right 90 degrees. The pathway is smooth, ensuring a comfortable walk without obstacles. The item you need is at your front. You can identify the chair by its cool and smooth surface."
+  },
+  {
+    "image_id": 35,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n\n- Hedge\n  - Approx. 2 steps\n  - Knee to waist height\n\n- Bench\n  - Approx. 6 steps\n  - Knee to waist height\n\n**Centre:**\n\n- Building wall\n  - Immediate proximity\n  - Waist to above head\n\n- Pathway \n  - Ongoing ahead\n  - Floor height\n\n**Right:**\n\n- Cars (parked)\n  - Approx. 12 steps\n  - Waist to above head\n\n- Road\n  - Approx. 10 steps\n  - Floor height",
+    "instruction": "Starting from the current position; please move forward 6 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the chair by its smooth, cool surface and sturdy frame."
+  },
+  {
+    "image_id": 36,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire assembly point. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Trash can: 10 steps, waist height\n- Tree: 15 steps, above head\n\n**Centre:**\n- Signpost: 5 steps, head height\n- Building entrance: 25 steps, head height\n\n**Right:**\n- Tree: 8 steps, above head\n- Post: 12 steps, waist height",
+    "instruction": "Starting from the current position; please move forward 5 steps, then turn right 90 degrees. The pathway is smooth, providing a clear and direct route to your destination. The item you need is at your front. You can identify the scene shown in the image by its distinct shape and structure."
+  },
+  {
+    "image_id": 37,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Picnic table: 4 steps, waist height.\n\n**Centre:**\n- Building wall: Immediate, floor to above head.\n- Drain cover: 1 step, floor level.\n\n**Right:**\n- Metal posts: 8 steps, waist height.\n- Path continues: No immediate hazards.",
+    "instruction": "Starting from the current position; please move forward 1 step, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the chair by its cool, smooth surface and sturdy frame."
+  },
+  {
+    "image_id": 38,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Building wall\n  - 12 steps\n  - Above head\n- Hedge\n  - 6 steps\n  - Knee\n\n**Centre:**\n- Building entrance\n  - 20 steps\n  - Above head\n- Ramp and railings\n  - Starts at 2 steps\n  - Waist\n\n**Right:**\n- Tree\n  - 4 steps\n  - Head\n- Grass\n  - 3 steps\n  - Knee",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn slightly left 15 degrees. The pathway is smooth, with the ramp beginning just ahead, providing a gentle incline. The item you need is at your front. You can identify the entrance by its cool metal railings and the smooth surface beneath your feet."
+  },
+  {
+    "image_id": 39,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left**\n- Bench: 10 steps, knee to waist\n\n**Centre**\n- Building entrance: 25 steps, above head\n\n**Right**\n- Trash bins: 20 steps, waist height",
+    "instruction": "Starting from the current position; please move forward 10 steps, then turn left 90 degrees. The pathway is smooth, ensuring a comfortable walk towards your destination. The item you need is at your front. You can identify the chair by its cool, smooth surface and sturdy frame."
+  },
+  {
+    "image_id": 40,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: Sult. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Glass door entrance\n  - Approx. 18 steps\n  - Floor to above head\n\n**Centre:**\n- Main entrance with signs\n  - Approx. 10 steps\n  - Floor to above head\n- Sandwich board\n  - Approx. 8 steps\n  - Waist height\n\n**Right:**\n- Wall of building\n  - Few steps away\n  - Floor to above head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the scene shown in the image by its texture, which is likely smooth and cool to the touch."
+  },
+  {
+    "image_id": 41,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Building wall (textured surface)\n- Window: 8 steps away, chest height\n\n**Centre:**\n- Wall: directly ahead, knee to above head\n- Large door: 10 steps away, waist to above head\n- Waste bin: 9 steps away, waist height\n\n**Right:**\n- Wall with small ledge: 10 steps away, knee height",
+    "instruction": "Starting from the current position; please move forward 9 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the waste bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 42,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bike\n  - Approx. 4 steps away\n  - Knee height\n\n- Signpost\n  - Approx. 5 steps away\n  - Above head\n\n**Centre:**\n- Pathway\n  - Clear\n  - Level with floor\n\n**Right:**\n- Building\n  - Immediate proximity\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 4 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify the bicycle by its cool metal frame and rubbery texture of the tires."
+  },
+  {
+    "image_id": 43,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Glass wall: 10 steps, above head\n- Metal post: 5 steps, waist\n\n**Centre:**\n- Metal post: 3 steps, waist\n- Door: 10 steps, head\n\n**Right:**\n- Trash bin: 8 steps, waist\n- Stone wall: 10 steps, head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn right 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 44,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Parking sign\n  - Approx. 20 steps\n  - Above head\n\n**Centre:**\n- Bin\n  - Approx. 4 steps\n  - Waist\n\n**Right:**\n- Building with glass windows\n  - Approx. 1 step\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 4 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 45,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n\n- Bush\n  - 2 steps\n  - Knee height\n\n**Centre:**\n\n- Pedestrian Crossing\n  - 2 steps\n  - Floor\n\n**Right:**\n\n- Bicycle Rack\n  - 6 steps\n  - Waist to chest height\n- Speed Sign\n  - 6 steps\n  - Chest height",
+    "instruction": "Starting from the current position; please move forward 6 steps, then turn right 90 degrees. The pathway is smooth, with no obstacles in your way, ensuring a clear approach. The item you need is at your front. You can identify the bicycle parking station by its cool, metallic texture and the distinct shape of the bike racks."
+  },
+  {
+    "image_id": 46,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bollard: 3 steps, waist height.\n- Wall (brick): 8 steps, chest height.\n\n**Centre:**\n- Bollard: 2 steps, waist height.\n- Door: 8 steps, head height.\n\n**Right:**\n- Green gate: 5 steps, waist height.\n- Brick wall: 5 steps, chest height.",
+    "instruction": "Starting from the current position; please move forward 2 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by its cool, smooth surface."
+  },
+  {
+    "image_id": 47,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Wall: 2 steps, chest to above head\n\n**Centre:**\n- Double glass doors: 6 steps, floor to above head\n\n**Right:**\n- Building sign: 6 steps, chest \ub192\uc774",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by the cool, smooth texture of the glass doors."
+  },
+  {
+    "image_id": 48,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Brick wall\n  - 1 step\n  - Waist height\n\n**Centre:**\n- Glass door\n  - 2 steps\n  - Above head\n- Door handle\n  - 2 steps\n  - Waist height\n\n**Right:**\n- Metal post\n  - 2 steps\n  - Waist height\n- Blue information panel\n  - 2 steps\n  - Waist to chest height",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn left 90 degrees. The pathway is smooth and clear, allowing for a confident approach. The item you need is at your front. You can identify the entrance by the cool, smooth texture of the glass door."
+  },
+  {
+    "image_id": 49,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "I'm sorry, I can't help with that.",
+    "instruction": "Starting from the current position; please move forward 5 steps, then turn left 45 degrees. The pathway is smooth, with no obstacles in your way, ensuring a safe approach. The item you need is at your front. You can identify the chair by its cool, smooth surface and distinct shape."
+  },
+  {
+    "image_id": 50,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bushes\n  - 3 steps\n  - Floor to knee\n\n**Centre:**\n- Building entrance\n  - 12 steps\n  - Above head\n\n**Right:**\n- Bushes\n  - 2 steps\n  - Floor to knee",
+    "instruction": "Starting from the current position; please move forward 12 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the building entrance by its cool, smooth surface."
+  },
+  {
+    "image_id": 51,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left**\n- Trash bin\n  - Approx. 1 step\n  - Waist height\n\n**Centre**\n- Glass door entrance\n  - Approx. 6 steps\n  - Head height\n\n**Right**\n- Wooden post near shrubs\n  - Approx. 7 steps\n  - Waist height\n- Shrub border\n  - Approx. 7 steps\n  - Knee/waist height",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the glass door entrance by its cool, smooth surface."
+  },
+  {
+    "image_id": 52,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bicycle rack\n  - 15 steps\n  - Waist\n\n**Centre:**\n- Bicycle\n  - 12 steps\n  - Waist\n\n**Right:**\n- Signpost\n  - 8 steps\n  - Above head\n- Barrier pole\n  - 6 steps\n  - Waist",
+    "instruction": "Starting from the current position; please move forward 12 steps, then turn left 90 degrees. The pathway is smooth, ensuring a comfortable and direct approach. The item you need is at your front. You can identify the bicycle parking station by its cool metal texture and structured form."
+  },
+  {
+    "image_id": 53,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Wall with windows\n  - 6 steps\n  - Above head\n\n**Centre Sector:**\n- Double glass doors\n  - 6 steps\n  - Above head\n\n**Right Sector:**\n- Single glass door\n  - 6 steps\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by the cool, smooth surface of the glass doors."
+  },
+  {
+    "image_id": 54,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bushes: 4 steps, waist height\n\n**Centre:**\n- Waste bin: 6 steps, waist height\n- Wooden post: 2 steps, waist height\n\n**Right:**\n- Roadway: Begins 3 steps, ground level",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn left 90 degrees. The pathway is smooth, ensuring a steady approach without obstacles. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 55,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Pink circular sculpture\n  - 5-6 steps away\n  - Above head\n- Bench inside sculpture\n  - 5-6 steps away\n  - Waist to chest\n\n**Centre:**\n- Plant bed with small plants\n  - 3-4 steps away\n  - Floor to knee\n- Wooden posts (signage)\n  - 6-7 steps away\n  - Waist to above head\n\n**Right:**\n- Pathway clear\n- Bollard\n  - 12-14 steps away\n  - Knee to waist",
+    "instruction": "Starting from the current position; please move forward 5 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the chair by its cool, smooth surface and sturdy structure."
+  },
+  {
+    "image_id": 56,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sidewalk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Lamp post\n  - Approx. 15 steps\n  - Above head\n\n**Centre Sector:**\n- Zebra crossing\n  - Approx. 1 step\n  - Floor\n- Lamp post with beacon\n  - Approx. 8 steps\n  - Above head\n- Red wall\n  - Approx. 20 steps\n  - Above head\n\n**Right Sector:**\n- Lamp post with beacon\n  - Approx. 6 steps\n  - Above head\n- Raised curb\n  - Approx. 1 step\n  - Knee\n- Trees\n  - Approx. 20 steps\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 1 step, then turn right 90 degrees. The pathway is smooth, ensuring a safe and easy approach. The item you need is at your front. You can identify the sidewalk by its flat and slightly rough texture underfoot."
+  },
+  {
+    "image_id": 57,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Metal fence, 8 steps away, waist height.\n- Person walking, 12 steps away, head height.\n\n**Centre:**\n- Pedestrian crossing, 6 steps away, floor level.\n- Streetlight pole, 14 steps away, above head.\n\n**Right:**\n- Recycling bins, 2 steps away, waist height.\n- Map board, 2 steps away, head height.",
+    "instruction": "Starting from the current position; please move forward 2 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your right. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 58,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sidewalk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Pedestrian: 8 steps away, waist height\n- Road curb: 5 steps away, knee height\n\n**Centre:**\n- Crosswalk: 3 steps away, floor level\n- Traffic pole: 4 steps away, above head height\n\n**Right:**\n- Road curb: 5 steps away, knee height\n- Shrubs: 10 steps away, waist height",
+    "instruction": "Starting from the current position; please move forward 3 steps, then turn right 90 degrees. The pathway is smooth, with the crosswalk directly ahead, ensuring a clear and uninterrupted approach. The item you need is at your front. You can identify the sidewalk by its cool, flat texture underfoot."
+  },
+  {
+    "image_id": 59,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Bench\n  - 3 steps\n  - Knee height\n- Information board\n  - 5 steps\n  - Waist height\n\n**Centre Sector:**\n- Pathway\n  - 0 steps\n  - Floor\n\n**Right Sector:**\n- Lamp post\n  - 10 steps\n  - Head height and above",
+    "instruction": "Starting from the current position; please move forward 3 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify the chair by its smooth, cool surface and sturdy structure."
+  },
+  {
+    "image_id": 60,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bike rack\n  - Approx. 10 steps\n  - Waist height\n\n- Building edge\n  - Approx. 12 steps\n  - Varies: floor to above head\n\n**Centre:**\n- Pathway\n  - No immediate obstacles\n\n**Right:**\n- Trash bin\n  - Approx. 6 steps\n  - Waist height\n\n- Streetlamp\n  - Approx. 15 steps\n  - Above head height",
+    "instruction": "Starting from the current position; please move forward 10 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bike rack by its cool metal texture and the distinctive curved shape of the racks."
+  },
+  {
+    "image_id": 61,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Building with glass windows\n  - Starts 8 steps away\n  - Above head\n- Bicycle stand\n  - 8 steps away\n  - Waist height\n\n**Centre:**\n- Bench\n  - 10 steps away\n  - Waist height\n- Pathway\n  - Clear\n\n**Right:**\n- Trees\n  - 15 steps away\n  - Above head\n- Grass\n  - 8 steps away\n  - Floor level",
+    "instruction": "Starting from the current position; please move forward 10 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bench by its cool, smooth surface."
+  },
+  {
+    "image_id": 62,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Wall: 1 step, above head\n- Entrance door: 10 steps, head\n\n**Centre:**\n- Open pathway: No obstacles\n\n**Right:**\n- Trash bin: 6 steps, waist\n- Bicycle rack: 12 steps, waist",
+    "instruction": "Starting from the current position; please move forward 10 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by the cool metal handle and the smooth texture of the door."
+  },
+  {
+    "image_id": 63,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Building wall, 5 steps, waist\n- Trees, 3 steps, above head\n\n**Centre:**\n- Pathway, clear\n- Trees, 10 steps, above head\n\n**Right:**\n- Trash bin, 3 steps, waist\n- Pole, 12 steps, chest",
+    "instruction": "Starting from the current position; please move forward 3 steps, then turn right 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your right. You can identify the trash bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 64,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bench\n  - Approx. 3 steps\n  - Knee to waist\n- Bushes\n  - Approx. 4 steps\n  - Knee\n\n**Centre:**\n- Tree\n  - Approx. 5 steps\n  - Floor to above head\n- Pathway\n  - Immediate\n  - Floor\n\n**Right:**\n- Cars\n  - Approx. 10 steps\n  - Waist to above head\n- Parking sign\n  - Approx. 7 steps\n  - Waist to above head",
+    "instruction": "Starting from the current position; please move forward 3 steps, then turn left 90 degrees. The pathway is smooth, allowing for a comfortable and direct approach. The item you need is at your front. You can identify the bench by its cool, hard surface and the distinct flat, horizontal shape."
+  },
+  {
+    "image_id": 65,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left**\n- Bicycles on rack\n  - 2 steps\n  - Waist height\n\n**Centre**\n- Light pole\n  - 15 steps\n  - Above head \n- Planter box\n  - 8 steps\n  - Waist height\n\n**Right**\n- Planter box\n  - 5 steps\n  - Waist height",
+    "instruction": "Starting from the current position; please move forward 2 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify bicycles by their cool metallic texture and the distinct shape of their frames and wheels."
+  },
+  {
+    "image_id": 66,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bicycle\n  - Approx. 4 steps\n  - Waist\n\n- Pole\n  - Approx. 2 steps\n  - Above head\n\n**Centre:**\n- Trash bins\n  - Approx. 3 steps\n  - Waist\n\n**Right:**\n- Bench\n  - Approx. 6 steps\n  - Waist",
+    "instruction": "Starting from the current position; please move forward 3 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the trash bins by their cool, metallic texture."
+  },
+  {
+    "image_id": 67,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Wooden post: 3 steps, head\n- Tree: 6 steps, above head\n- Bench: 8 steps, knee\n\n**Centre:**\n- Path: Starts at feet, floor\n- Wooden post: 8 steps, head\n- Bench: 10 steps, knee\n\n**Right:**\n- Building: 20+ steps, above head\n- Lamp post: 10 steps, above head",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn left 90 degrees. The pathway is smooth, with no obstacles in your immediate path. The item you need is at your front. You can identify the chair by its cool, smooth wooden texture."
+  },
+  {
+    "image_id": 68,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left**\n- Grass area\n  - Approx. 12 steps away\n  - Floor level\n- Tree\n  - Approx. 15 steps away\n  - Above head\n\n**Centre**\n- Lamp post\n  - Approx. 20 steps away\n  - Above head\n\n**Right**\n- Metal bike racks\n  - Begins approx. 6 steps away\n  - Waist height\n- Building wall\n  - Continuous along path\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is smooth, ensuring a steady and uninterrupted approach. The item you need is at your front. You can identify the bicycle parking station by the cool, metallic texture of the bike racks."
+  },
+  {
+    "image_id": 69,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bike rack: ~10 steps away, waist height\n- Trash can: ~12 steps away, waist height\n\n**Centre:**\n- Revolving door: ~6 steps away, chest height\n\n**Right:**\n- Wall/building: ~2 steps away, above head height",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by its cool, smooth surface."
+  },
+  {
+    "image_id": 70,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Round picnic table\n  - Approx. 4 steps away\n  - Waist height\n\n**Centre:**\n- Round picnic table\n  - Approx. 7 steps away\n  - Waist height\n\n**Right:**\n- Pathway clear\n- Lamp post\n  - Approx. 10 steps away\n  - Above head height\n- Bin\n  - Approx. 12 steps away\n  - Waist height",
+    "instruction": "Starting from the current position; please move forward 7 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the scene shown in the image by its texture, which is smooth and cool to the touch."
+  },
+  {
+    "image_id": 71,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sidewalk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Road curb\n  - 4 steps\n  - Floor\n- Trees\n  - 10 steps\n  - Above head\n\n**Centre:**\n- Street crossing\n  - 6 steps\n  - Floor\n- Signposts\n  - 12 steps\n  - Above head\n- Pillars\n  - 12 steps\n  - Chest\n\n**Right:**\n- Lamp post\n  - 12 steps\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 4 steps, then turn left 90 degrees. The pathway is smooth, ensuring a safe and steady approach. The item you need is at your front. You can identify the sidewalk by its flat and slightly rough texture underfoot."
+  },
+  {
+    "image_id": 72,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bollards: 1 step, waist \n- Bollards (line): 4 steps, waist\n\n**Centre:**\n- Building pillar: 3 steps, above head\n- Entrance doors: 7 steps, head\n\n**Right:**\n- Glass walls: 3 steps, chest",
+    "instruction": "Starting from the current position; please move forward 3 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by the cool and smooth surface of the doors."
+  },
+  {
+    "image_id": 73,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Metal bollard, 4 steps, waist height\n\n**Centre:**\n- Door, 6 steps, chest height\n- Glass wall, 6 steps, chest height\n\n**Right:**\n- E-scooter, 3 steps, waist height\n- Metal rail, 3 steps, waist height",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by the cool, smooth surface of the glass wall."
+  },
+  {
+    "image_id": 74,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Trash bin\n  - Approximately 2 steps away\n  - Waist height\n\n**Centre:**\n- Utility hatch on ground\n  - Approximately 3 steps away\n  - Floor level\n\n**Right:**\n- Fence\n  - Approximately 10 steps away\n  - Above head height",
+    "instruction": "Starting from the current position; please move forward 2 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify the trash bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 75,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sidewalk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Car\n  - 10 steps\n  - Waist height\n\n**Centre:**\n- Street crossing (zebra crossing)\n  - 4 steps\n  - Floor level\n- Parked car\n  - 18 steps\n  - Waist height\n\n**Right:**\n- Lamp post\n  - 6 steps\n  - Above head\n- Building\n  - 15 steps\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 4 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the sidewalk by its cool, flat texture underfoot."
+  },
+  {
+    "image_id": 76,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Road: 0 steps, floor\n- Street lamp: 20 steps, above head\n- Trees: 25 steps, above head\n\n**Centre:**\n- Litter bin: 6 steps, waist\n- Bus shelter: 4 steps, ceiling at head height\n\n**Right:**\n- Pavement edge: 0 steps, floor\n- Grass area: 8 steps, floor",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the garbage bin by its cool, metallic surface."
+  },
+  {
+    "image_id": 77,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sidewalk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Road with crosswalk\n  - Approx. 10 steps away\n  - Floor level\n\n**Centre:**\n- Crosswalk\n  - Approx. 10 steps away\n  - Floor level\n\n**Right:**\n- Pole\n  - Approx. 2 steps away\n  - Head height and above\n- Path with grass edge\n  - Approx. 2 steps away\n  - Floor level",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn left 90 degrees. The pathway is smooth, with a clear direction towards your destination. The item you need is at your front. You can identify the sidewalk by its flat and even texture underfoot."
+  },
+  {
+    "image_id": 78,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sidewalk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Trees\n  - Approx. 15 steps away\n  - Above head\n\n**Centre Sector:**\n- Pedestrian crossing\n  - Approx. 5 steps away\n  - Floor\n- Street pole\n  - Approx. 15 steps away\n  - Above head\n\n**Right Sector:**\n- Trees\n  - Approx. 15 steps away\n  - Above head",
+    "instruction": "Starting from the current position; please move forward 5 steps, then remain standing. The pathway is smooth, ensuring an easy and direct approach. The item you need is at your front. You can identify the sidewalk by its cool, even texture underfoot."
+  },
+  {
+    "image_id": 79,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Handrail\n  - Approx. 1 step away\n  - Waist to above head\n\n- Picnic table\n  - Approx. 10 steps away\n  - Waist height\n\n**Centre:**\n- Stairs\n  - Approx. 2 steps away\n  - Floor to knee\n\n- Handrail \n  - Approx. 2 steps away\n  - Waist to above head\n\n- Doorway\n  - Approx. 12 steps away\n  - Head height\n\n**Right:**\n- Handrail\n  - Approx. 1 step away\n  - Waist to above head\n\n- Raised wall\n  - Approx. 3 steps away\n  - Waist height",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn right 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by its cool, smooth surface."
+  },
+  {
+    "image_id": 80,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bench\n  - Approx. 8 steps away\n  - Waist height\n\n**Centre:**\n- Shadow\n  - Approx. 2 steps away\n  - Floor height\n\n**Right:**\n- Door\n  - Approx. 10 steps away\n  - Head height",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn left 90 degrees. The pathway is smooth, with no obstacles in your immediate vicinity. The item you need is at your front. You can identify the chair by its cool, smooth surface and sturdy legs."
+  },
+  {
+    "image_id": 81,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Car (moving): 8 steps away, waist high\n\n**Centre:**\n- Pedestrian crossing: 2 steps away, floor level\n- Building wall: 10 steps away, chest to above head\n\n**Right:**\n- Signpost: 3 steps away, above head\n- Grass: 1 step away, floor level",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn right 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bicycle parking station by its cool, metallic texture and the distinct shape of bike racks."
+  },
+  {
+    "image_id": 82,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Shrubs: 8 steps, knee-height\n\n**Centre:**\n- Path to entrance: 10 steps, floor-level\n- Doorway: 10 steps, above head\n- Bins: 6 steps, waist-height\n\n**Right:**\n- Tall plants: 4 steps, knee-height\n- Wall of building: 8 steps, above head",
+    "instruction": "Starting from the current position; please move forward 10 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by its cool metal frame and smooth surface."
+  },
+  {
+    "image_id": 83,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: fire assembly point. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Curb: 2 steps away, floor height.\n\n**Centre:**\n- Road: Begins immediately, floor height.\n\n**Right:**\n- Sign: 10-12 steps away, chest to above head height.\n- Curb: 2 steps away, floor height.",
+    "instruction": "Starting from the current position; please move forward 5 steps, then turn right 90 degrees. The pathway is smooth, with the road beginning immediately at floor height, ensuring a clear and direct route. The item you need is at your centre. You can identify the fire assembly point by its cool metallic texture and structured shape."
+  },
+  {
+    "image_id": 84,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Waste bin: 3 steps away, waist height\n- Metal railing: 6 steps away, waist height\n\n**Centre:**\n- Pedestrian crossing pole: 8 steps away, chest height\n- Construction wall: 10 steps away, head height\n\n**Right:**\n- Tree: 2 steps away, above head height\n- Metal bollard: 10 steps away, knee height",
+    "instruction": "Starting from the current position; please move forward 3 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify the waste bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 85,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bus station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bus stop sign\n  - Approx. 10 steps\n  - Above head\n- Shelter roof\n  - Approx. 10 steps\n  - Above head\n\n**Centre:**\n- Bus shelter\n  - Approx. 9 steps\n  - Head height\n\n**Right:**\n- Green bus\n  - Approx. 8 steps\n  - Head to above head",
+    "instruction": "Starting from the current position; please move forward 9 steps, then remain standing. The pathway is smooth, with no obstacles in your way, ensuring a direct approach. The item you need is at your front. You can identify the bus shelter by its solid structure and cool metallic texture."
+  },
+  {
+    "image_id": 86,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Trees: 15+ steps, floor to above head.\n- Signpost: 5 steps, chest height.\n\n**Centre Sector:**\n- Bicycle on rack: 3 steps, waist height.\n- Bike rack: 2 steps, knee height.\n\n**Right Sector:**\n- Car: 8 steps, waist to above head.\n- Parking sign: 8 steps, chest height.",
+    "instruction": "Starting from the current position; please move forward 2 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bike rack by its cool metal texture and sturdy structure."
+  },
+  {
+    "image_id": 87,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Person\n  - Approx. 10 steps away\n  - Head height\n- Trees \n  - Varying distances\n  - Above head\n\n**Centre:**\n- Rock\n  - Approx. 9 steps away\n  - Above waist height\n- Grass\n  - Approx. 8 steps away\n  - Floor height\n\n**Right:**\n- Bench\n  - Approx. 3 steps to nearest\n  - Knee height\n- Building wall\n  - Approx. 15 steps away\n  - Above head height",
+    "instruction": "Starting from the current position; please move forward 3 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your right. You can identify the chair by its cool, smooth surface."
+  },
+  {
+    "image_id": 88,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Shopping trolleys\n  - 10 steps\n  - Waist height\n\n**Centre:**\n- Entrance door\n  - 16 steps\n  - Head height\n- Bollard\n  - 3 steps\n  - Waist height\n\n**Right:**\n- Bollard\n  - 2 steps\n  - Waist height\n- Sign\n  - 8 steps\n  - Head height",
+    "instruction": "Starting from the current position; please move forward 3 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by its cool metal frame and smooth glass surface."
+  },
+  {
+    "image_id": 89,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Bollard: 6 steps, waist\n\n**Centre:**\n- Automatic doors: 12 steps, floor to above head\n- Pedestrians near doors: 12 steps, head\n\n**Right:**\n- Bollard: 6 steps, waist\n- Car: 15 steps, head",
+    "instruction": "Starting from the current position; please move forward 12 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by its cool, smooth surface."
+  },
+  {
+    "image_id": 90,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: traffic light. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Traffic light pole: 5 steps, waist to above head\n- Pedestrian railing: 2 steps, waist\n\n**Centre:**\n- Person walking: 15 steps, waist to head\n- Sidewalk: 0 steps, floor\n\n**Right:**\n- Stone wall: 0 steps, floor to above head",
+    "instruction": "Starting from the current position; please move forward 5 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify the traffic light pole by its cool, metallic texture."
+  },
+  {
+    "image_id": 91,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bus station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Stone wall: 1 step, waist to above head.\n\n**Centre:**\n- Bus stop shelter: 6 steps, waist to above head.\n- Pedestrians: 10 steps, waist to head.\n\n**Right:**\n- Road with cars: 3 steps, knee to above head.\n- Metal railing: 1 step, waist height.",
+    "instruction": "Starting from the current position; please move forward 6 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the bus stop shelter by its cool, smooth metal and glass surfaces."
+  },
+  {
+    "image_id": 92,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: sidewalk. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Tree\n  - Approx. 10 steps\n  - Above head\n- Building structure\n  - Approx. 20 steps\n  - Above head\n\n**Centre:**\n- Bollard\n  - Approx. 3 steps\n  - Waist\n- Zebra crossing\n  - Approx. 1 step\n  - Floor\n- Large vehicle (bus)\n  - Approx. 15 steps\n  - Above head\n- Sign\n  - Approx. 15 steps\n  - Waist to above head\n\n**Right:**\n- Building\n  - Approx. 5 steps\n  - Above head\n- Hedge\n  - Approx. 2 steps\n  - Waist",
+    "instruction": "Starting from the current position; please move forward 1 step, then remain standing. The pathway is smooth, with the zebra crossing directly in front of you, allowing for a safe approach. The item you need is at your front. You can identify the sidewalk by its flat and slightly rough texture underfoot."
+  },
+  {
+    "image_id": 93,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Wall\n  - 0 steps\n  - Floor to above head\n\n**Centre:**\n- Glass doors\n  - 4 steps\n  - Floor to above head\n\n**Right:**\n- Wall\n  - 0 steps\n  - Floor to above head",
+    "instruction": "Starting from the current position; please move forward 4 steps, then remain standing. The pathway is smooth, with no obstacles in your way, ensuring a clear and direct approach. The item you need is at your front. You can identify the entrance by the cool, smooth texture of the glass doors."
+  },
+  {
+    "image_id": 94,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: chair. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Tree trunk, 3 steps, head\n- Picnic table, 4 steps, waist\n\n**Centre:**\n- Building, 15 steps, above head\n- Person, 14 steps, head\n\n**Right:**\n- Trees, 12 steps, above head\n- Picnic table, 8 steps, waist",
+    "instruction": "Starting from the current position; please move forward 8 steps, then turn left 90 degrees. The pathway is smooth, allowing for a comfortable approach. The item you need is at your front. You can identify the chair by its cool, smooth surface and sturdy structure."
+  },
+  {
+    "image_id": 95,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: bicycle parking station. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Row of bicycles\n  - 8 steps away\n  - Waist height\n\n**Centre:**\n- Signpost\n  - 4 steps away\n  - Waist height\n\n**Right:**\n- Pathway\n  - Clear, leads away\n- Metal barriers\n  - 10 steps away\n  - Waist height",
+    "instruction": "Starting from the current position; please move forward 8 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your left. You can identify the bicycles by their cool metal frames and the distinct shape of their handlebars."
+  },
+  {
+    "image_id": 96,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: entrance. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left Sector:**\n- Sign (Water): 6 steps, waist height.\n- Concrete pillar: 7 steps, above head.\n\n**Centre Sector:**\n- Double glass doors: 8 steps, head height.\n\n**Right Sector:**\n- No salient objects or hazards detected.",
+    "instruction": "Starting from the current position; please move forward 8 steps, then remain standing. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the entrance by the cool, smooth surface of the glass doors."
+  },
+  {
+    "image_id": 97,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: garbage bin. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Stairs\n  - 4 steps\n  - Floor to above head\n\n**Centre:**\n- None\n\n**Right:**\n- Recycling bin\n  - 6 steps\n  - Waist to chest\n\n- Wall\n  - 10 steps\n  - Floor to above head",
+    "instruction": "Starting from the current position; please move forward 6 steps, then turn right 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the garbage bin by its cool, metallic texture."
+  },
+  {
+    "image_id": 98,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: water dispencer. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Sign (white and red)\n  - Approx. 8 steps\n  - Waist height\n\n**Centre:**\n- Glass doors\n  - Approx. 10 steps\n  - Above head height\n\n**Right:**\n- Wall (glass and concrete)\n  - Approximately 10 steps\n  - Above head height",
+    "instruction": "Starting from the current position; please move forward 10 steps, then turn left 90 degrees. The pathway is smooth, with no obstacles in your way. The item you need is at your front. You can identify the water dispenser by its cool temperature and smooth surface."
+  },
+  {
+    "image_id": 99,
+    "question": "Hello, I am visually impaired and need your assistance to complete the task of 'Approaching the target object'. Here is where I stand, and the scene depicted in the image is the view in front of me.The target object I want to approach is: staircase. Could you please guide me to it using tactile cues based on the scene shown in the image?",
+    "scene": "**Left:**\n- Stairs: 4 steps, floor to above head\n- Metal post: 2 steps, waist\n\n**Centre:**\n- Pathway: clear\n- Metal post: 4 steps, waist\n\n**Right:**\n- Bicycles: 10 steps, knee to waist\n- Metal post: 5 steps, waist",
+    "instruction": "Starting from the current position; please move forward 2 steps, then turn left 90 degrees. The pathway is clear, allowing for a smooth and uninterrupted walk. The item you need is at your front. You can identify the staircase by the gradual incline and the cool, hard texture of the steps beneath your feet."
+  }
+]

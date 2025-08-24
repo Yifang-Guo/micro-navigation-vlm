@@ -1,0 +1,127 @@
+[
+  {
+    "image_id": 0,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the exit door. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 1,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the garbage bin. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 2,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the door. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 3,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the wooden mail box. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 4,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the men's bathroom. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 5,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the female's bathroom. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 6,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the garbage bin. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 7,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the elevator. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 8,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the chair. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 9,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the lecture room. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 10,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the staircase. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 11,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the sofa. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 12,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the chair. Output only the number.",
+    "instruction": "1.25"
+  },
+  {
+    "image_id": 13,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the beverage refrigerators. Output only the number.",
+    "instruction": "1.8"
+  },
+  {
+    "image_id": 14,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the door. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 15,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the DISC room. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 16,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the water bottle. Output only the number.",
+    "instruction": "1.2"
+  },
+  {
+    "image_id": 17,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the poster board. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 18,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the staircase. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 19,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the printing machine. Output only the number.",
+    "instruction": "10.0"
+  },
+  {
+    "image_id": 20,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the aid box. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 21,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the poster board. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 22,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the fire extinguisher. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 23,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the aid box. Output only the number.",
+    "instruction": "1.5"
+  },
+  {
+    "image_id": 24,
+    "question": "Given the attached image, report the straight-line 3-D Euclidean distance (in metres, 2 decimal places) from the camera center to the nearest instance of the exit door. Output only the number.",
+    "instruction": "10.0"
+  }
+]
