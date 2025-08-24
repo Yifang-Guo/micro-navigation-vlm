@@ -80,7 +80,7 @@
 
 - **Home & Supermarket** annotations are taken from---and follow---the protocol in _VIALM_ (Zhao et al., 2024): curated images; labels by trained English-fluent annotators; supervision by VIA experts.
 
-- **Campus-Indoor & Campus-Outdoor** annotations were **authored by the researcher**, polished with a general-purpose GenAI assistant, and **reviewed by a native English speaker**.
+- **Campus-Indoor & Campus-Outdoor** annotations were **authored by the researcher**.
 
 - **Distances:**
 
